@@ -1,0 +1,727 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2011.1.10)  13 DEC 2011 11:02
+entering extended mode
+**C:/Users/mla/Documents/My*Dropbox/_Proposal/proposal_all.tex
+("C:/Users/mla/Documents/My Dropbox/_Proposal/proposal_all.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ltxmisc\braket.sty")
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2009/10/17 v2.4 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2009/10/17 v2.4 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 433.
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\geometry\geometry.sty"
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@dimlist=\toks21
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\geometry\geometry.cfg"))
+
+LaTeX Warning: Unused global option(s):
+    [revtex,aps].
+
+("C:\Users\mla\Documents\My Dropbox\_Proposal\proposal_all.aux"
+
+LaTeX Warning: Label `fkmodel' multiply defined.
+
+
+LaTeX Warning: Label `fkmodel' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen119
+\MPnumerator=\count108
+\everyMPtoPDFconversion=\toks23
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: class default
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 72.26999pt, 469.75502pt, 72.26999pt
+v-parts: 72.26999pt, 650.43001pt, 72.26999pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  614.295pt
+\paperheight 794.96999pt
+\textwidth  469.75502pt
+\textheight 650.43001pt
+\oddsidemargin  0.0pt
+\evensidemargin 0.0pt
+\topmargin  -37.0pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 59.0pt
+\marginparsep   10.0pt
+\columnsep  10.0pt
+\skip\footins  10.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 38.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+
+{C:/Users/mla/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map}]
+("C:\Users\mla\Documents\My Dropbox\_Proposal\proposal_all.toc")
+\tf@toc=\write3
+ [1
+
+]
+Chapter 1.
+[2
+
+] <bands2.png, id=20, 1165.956pt x 270.611pt>
+File: bands2.png Graphic file (type png)
+ <use bands2.png> [3 <C:/Users/mla/Documents/My Dropbox/_Proposal/bands2.png>]
+Chapter 2.
+[4
+
+] <geometry.pdf, id=31, 885.62582pt x 457.45143pt>
+File: geometry.pdf Graphic file (type pdf)
+ <use geometry.pdf>
+[5] <f2.pdf, id=36, 321.2pt x 294.1349pt>
+File: f2.pdf Graphic file (type pdf)
+ <use f2.pdf>
+<f4.pdf, id=37, 321.2pt x 294.76926pt>
+File: f4.pdf Graphic file (type pdf)
+ <use f4.pdf>
+
+LaTeX Warning: Command \r invalid in math mode on input line 184.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 184.
+
+[6 <C:/Users/mla/Documents/My Dropbox/_Proposal/geometry.pdf> <C:/Users/mla/Doc
+uments/My Dropbox/_Proposal/f2.pdf> <C:/Users/mla/Documents/My Dropbox/_Proposa
+l/f4.pdf>] [7] <scatt.pdf, id=113, 301.125pt x 369.38pt>
+File: scatt.pdf Graphic file (type pdf)
+ <use scatt.pdf>
+[8 <C:/Users/mla/Documents/My Dropbox/_Proposal/scatt.pdf>]
+<j1.pdf, id=154, 542.025pt x 503.8825pt>
+File: j1.pdf Graphic file (type pdf)
+ <use j1.pdf>
+<j2.pdf, id=155, 542.025pt x 503.8825pt>
+File: j2.pdf Graphic file (type pdf)
+ <use j2.pdf>
+<la1.pdf, id=156, 240.9pt x 223.84729pt>
+File: la1.pdf Graphic file (type pdf)
+ <use la1.pdf>
+<la2.pdf, id=157, 240.9pt x 213.32397pt>
+File: la2.pdf Graphic file (type pdf)
+ <use la2.pdf> [9 <C:/Users/mla/Documents/My Dropbox/_Proposal/j1.pdf> <C:/User
+s/mla/Documents/My Dropbox/_Proposal/j2.pdf>] [10 <C:/Users/mla/Documents/My Dr
+opbox/_Proposal/la1.pdf> <C:/Users/mla/Documents/My Dropbox/_Proposal/la2.pdf>]
+ [11]
+Chapter 3.
+[12
+
+] [13]
+
+LaTeX Warning: Command \l invalid in math mode on input line 630.
+
+Package epstopdf Info: Source file: <setup.eps>
+(epstopdf)                    date: 2011-01-14 12:15:18
+(epstopdf)                    size: 28467 bytes
+(epstopdf)             Output file: <setup-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:46
+(epstopdf)                    size: 12331 bytes
+(epstopdf)             Command: <epstopdf --outfile=setup-eps-converted-to.pdf 
+setup.eps>
+(epstopdf)             \includegraphics on input line 654.
+Package epstopdf Info: Output file is already uptodate.
+<setup-eps-converted-to.pdf, id=219, 369.38pt x 194.7275pt>
+File: setup-eps-converted-to.pdf Graphic file (type pdf)
+
+<use setup-eps-converted-to.pdf> [14] [15 <C:/Users/mla/Documents/My Dropbox/_P
+roposal/setup-eps-converted-to.pdf>] [16] [17]
+Package epstopdf Info: Source file: <delta-cu.eps>
+(epstopdf)                    date: 2011-01-04 10:42:35
+(epstopdf)                    size: 33187 bytes
+(epstopdf)             Output file: <delta-cu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:47
+(epstopdf)                    size: 14060 bytes
+(epstopdf)             Command: <epstopdf --outfile=delta-cu-eps-converted-to.p
+df delta-cu.eps>
+(epstopdf)             \includegraphics on input line 856.
+Package epstopdf Info: Output file is already uptodate.
+
+<delta-cu-eps-converted-to.pdf, id=240, 361.35pt x 252.945pt>
+File: delta-cu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use delta-cu-eps-converted-to.pdf> [18 <C:/Users/mla/Documents/My Dropbox/_Pro
+posal/delta-cu-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <dt.eps>
+(epstopdf)                    date: 2010-12-10 15:11:54
+(epstopdf)                    size: 23489 bytes
+(epstopdf)             Output file: <dt-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:48
+(epstopdf)                    size: 8722 bytes
+(epstopdf)             Command: <epstopdf --outfile=dt-eps-converted-to.pdf dt.
+eps>
+(epstopdf)             \includegraphics on input line 904.
+Package epstopdf Info: Output file is already uptodate.
+
+<dt-eps-converted-to.pdf, id=252, 361.35pt x 252.945pt>
+File: dt-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dt-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <dtchemi.eps>
+(epstopdf)                    date: 2010-12-12 11:28:15
+(epstopdf)                    size: 27978 bytes
+(epstopdf)             Output file: <dtchemi-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:49
+(epstopdf)                    size: 11035 bytes
+(epstopdf)             Command: <epstopdf --outfile=dtchemi-eps-converted-to.pd
+f dtchemi.eps>
+(epstopdf)             \includegraphics on input line 915.
+Package epstopdf Info: Output file is already uptodate.
+
+<dtchemi-eps-converted-to.pdf, id=253, 361.35pt x 252.945pt>
+File: dtchemi-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dtchemi-eps-converted-to.pdf> [19 <C:/Users/mla/Documents/My Dropbox/_Prop
+osal/dt-eps-converted-to.pdf>]
+
+LaTeX Warning: Command \r invalid in math mode on input line 967.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 968.
+
+Package epstopdf Info: Source file: <levels.eps>
+(epstopdf)                    date: 2010-12-13 13:53:06
+(epstopdf)                    size: 30030 bytes
+(epstopdf)             Output file: <levels-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:50
+(epstopdf)                    size: 18277 bytes
+(epstopdf)             Command: <epstopdf --outfile=levels-eps-converted-to.pdf
+ levels.eps>
+(epstopdf)             \includegraphics on input line 977.
+Package epstopdf Info: Output file is already uptodate.
+<levels-eps-converted-to.pdf, id=264, 361.35pt x 252.945pt>
+File: levels-eps-converted-to.pdf Graphic file (type pdf)
+
+<use levels-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <disp-mu.eps>
+(epstopdf)                    date: 2010-12-13 13:31:52
+(epstopdf)                    size: 30222 bytes
+(epstopdf)             Output file: <disp-mu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:51
+(epstopdf)                    size: 11722 bytes
+(epstopdf)             Command: <epstopdf --outfile=disp-mu-eps-converted-to.pd
+f disp-mu.eps>
+(epstopdf)             \includegraphics on input line 1009.
+Package epstopdf Info: Output file is already uptodate.
+
+<disp-mu-eps-converted-to.pdf, id=265, 361.35pt x 252.945pt>
+File: disp-mu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use disp-mu-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <spweight.eps>
+(epstopdf)                    date: 2010-12-19 15:37:40
+(epstopdf)                    size: 27673 bytes
+(epstopdf)             Output file: <spweight-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:52
+(epstopdf)                    size: 17936 bytes
+(epstopdf)             Command: <epstopdf --outfile=spweight-eps-converted-to.p
+df spweight.eps>
+(epstopdf)             \includegraphics on input line 1023.
+Package epstopdf Info: Output file is already uptodate.
+
+<spweight-eps-converted-to.pdf, id=266, 361.35pt x 252.945pt>
+File: spweight-eps-converted-to.pdf Graphic file (type pdf)
+
+<use spweight-eps-converted-to.pdf> [20 <C:/Users/mla/Documents/My Dropbox/_Pro
+posal/dtchemi-eps-converted-to.pdf>] [21 <C:/Users/mla/Documents/My Dropbox/_Pr
+oposal/levels-eps-converted-to.pdf> <C:/Users/mla/Documents/My Dropbox/_Proposa
+l/disp-mu-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <dos.eps>
+(epstopdf)                    date: 2011-03-30 12:25:01
+(epstopdf)                    size: 21800 bytes
+(epstopdf)             Output file: <dos-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-12 20:12:31
+(epstopdf)                    size: 7577 bytes
+(epstopdf)             Command: <epstopdf --outfile=dos-eps-converted-to.pdf do
+s.eps>
+(epstopdf)             \includegraphics on input line 1044.
+Package epstopdf Info: Output file is already uptodate.
+
+<dos-eps-converted-to.pdf, id=292, 361.35pt x 252.945pt>
+File: dos-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dos-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <spg27.eps>
+(epstopdf)                    date: 2011-01-06 09:14:14
+(epstopdf)                    size: 26553 bytes
+(epstopdf)             Output file: <spg27-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:54
+(epstopdf)                    size: 9378 bytes
+(epstopdf)             Command: <epstopdf --outfile=spg27-eps-converted-to.pdf 
+spg27.eps>
+(epstopdf)             \includegraphics on input line 1057.
+Package epstopdf Info: Output file is already uptodate.
+
+<spg27-eps-converted-to.pdf, id=293, 361.35pt x 252.945pt>
+File: spg27-eps-converted-to.pdf Graphic file (type pdf)
+
+<use spg27-eps-converted-to.pdf> [22 <C:/Users/mla/Documents/My Dropbox/_Propos
+al/spweight-eps-converted-to.pdf>] [23 <C:/Users/mla/Documents/My Dropbox/_Prop
+osal/dos-eps-converted-to.pdf> <C:/Users/mla/Documents/My Dropbox/_Proposal/spg
+27-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pwave.eps>
+(epstopdf)                    date: 2011-01-06 11:24:14
+(epstopdf)                    size: 42269 bytes
+(epstopdf)             Output file: <pwave-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:55
+(epstopdf)                    size: 20144 bytes
+(epstopdf)             Command: <epstopdf --outfile=pwave-eps-converted-to.pdf 
+pwave.eps>
+(epstopdf)             \includegraphics on input line 1114.
+Package epstopdf Info: Output file is already uptodate.
+
+<pwave-eps-converted-to.pdf, id=318, 361.35pt x 252.945pt>
+File: pwave-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pwave-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <pw-cu.eps>
+(epstopdf)                    date: 2011-01-07 17:03:13
+(epstopdf)                    size: 24609 bytes
+(epstopdf)             Output file: <pw-cu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:56
+(epstopdf)                    size: 9483 bytes
+(epstopdf)             Command: <epstopdf --outfile=pw-cu-eps-converted-to.pdf 
+pw-cu.eps>
+(epstopdf)             \includegraphics on input line 1141.
+Package epstopdf Info: Output file is already uptodate.
+
+<pw-cu-eps-converted-to.pdf, id=319, 361.35pt x 252.945pt>
+File: pw-cu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pw-cu-eps-converted-to.pdf> [24 <C:/Users/mla/Documents/My Dropbox/_Propos
+al/pwave-eps-converted-to.pdf>] [25 <C:/Users/mla/Documents/My Dropbox/_Proposa
+l/pw-cu-eps-converted-to.pdf>]
+Chapter 4.
+<setup.png, id=341, 721.897pt x 616.704pt>
+File: setup.png Graphic file (type png)
+ <use setup.png> [26
+
+] [27 <C:/Users/mla/Documents/My Dropbox/_Proposal/setup.png>]
+
+LaTeX Warning: Reference `h-v,s-v' on page 28 undefined on input line 1265.
+
+
+LaTeX Warning: Reference `lababidi_2011' on page 28 undefined on input line 126
+5.
+
+[28]
+Package epstopdf Info: Source file: <energy_zero.eps>
+(epstopdf)                    date: 2011-12-06 23:21:09
+(epstopdf)                    size: 199004 bytes
+(epstopdf)             Output file: <energy_zero-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-06 23:24:37
+(epstopdf)                    size: 84979 bytes
+(epstopdf)             Command: <epstopdf --outfile=energy_zero-eps-converted-t
+o.pdf energy_zero.eps>
+(epstopdf)             \includegraphics on input line 1308.
+Package epstopdf Info: Output file is already uptodate.
+ <energy_zero-eps-converted-to.pdf, id=352, 229.85875pt x 229.85875pt>
+File: energy_zero-eps-converted-to.pdf Graphic file (type pdf)
+
+<use energy_zero-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <energy_pi.eps>
+(epstopdf)                    date: 2011-12-06 23:19:17
+(epstopdf)                    size: 199151 bytes
+(epstopdf)             Output file: <energy_pi-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-06 23:25:07
+(epstopdf)                    size: 84770 bytes
+(epstopdf)             Command: <epstopdf --outfile=energy_pi-eps-converted-to.
+pdf energy_pi.eps>
+(epstopdf)             \includegraphics on input line 1309.
+Package epstopdf Info: Output file is already uptodate.
+
+<energy_pi-eps-converted-to.pdf, id=353, 229.85875pt x 229.85875pt>
+File: energy_pi-eps-converted-to.pdf Graphic file (type pdf)
+
+<use energy_pi-eps-converted-to.pdf> [29
+
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/energy_zero-eps-converted-to.pdf>
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/energy_pi-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <delta-zero-050.eps>
+(epstopdf)                    date: 2011-12-12 23:23:21
+(epstopdf)                    size: 23397 bytes
+(epstopdf)             Output file: <delta-zero-050-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-12 23:23:50
+(epstopdf)                    size: 7275 bytes
+(epstopdf)             Command: <epstopdf --outfile=delta-zero-050-eps-converte
+d-to.pdf delta-zero-050.eps>
+(epstopdf)             \includegraphics on input line 1327.
+Package epstopdf Info: Output file is already uptodate.
+
+<delta-zero-050-eps-converted-to.pdf, id=363, 307.1475pt x 307.1475pt>
+File: delta-zero-050-eps-converted-to.pdf Graphic file (type pdf)
+
+<use delta-zero-050-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <delta-pi-050.eps>
+(epstopdf)                    date: 2011-12-12 23:21:05
+(epstopdf)                    size: 23420 bytes
+(epstopdf)             Output file: <delta-pi-050-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-12 23:23:51
+(epstopdf)                    size: 7303 bytes
+(epstopdf)             Command: <epstopdf --outfile=delta-pi-050-eps-converted-
+to.pdf delta-pi-050.eps>
+(epstopdf)             \includegraphics on input line 1328.
+Package epstopdf Info: Output file is already uptodate.
+
+<delta-pi-050-eps-converted-to.pdf, id=364, 307.1475pt x 307.1475pt>
+File: delta-pi-050-eps-converted-to.pdf Graphic file (type pdf)
+
+<use delta-pi-050-eps-converted-to.pdf> [30
+
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/delta-zero-050-eps-converted-to.p
+df> <C:/Users/mla/Documents/My Dropbox/_Proposal/delta-pi-050-eps-converted-to.
+pdf>]
+Package epstopdf Info: Source file: <dos_zero.eps>
+(epstopdf)                    date: 2011-12-12 20:12:17
+(epstopdf)                    size: 56018 bytes
+(epstopdf)             Output file: <dos_zero-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-12 20:13:08
+(epstopdf)                    size: 25640 bytes
+(epstopdf)             Command: <epstopdf --outfile=dos_zero-eps-converted-to.p
+df dos_zero.eps>
+(epstopdf)             \includegraphics on input line 1337.
+Package epstopdf Info: Output file is already uptodate.
+
+<dos_zero-eps-converted-to.pdf, id=383, 229.85875pt x 229.85875pt>
+File: dos_zero-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dos_zero-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <dos-pi-050.eps>
+(epstopdf)                    date: 2011-12-12 20:11:19
+(epstopdf)                    size: 58608 bytes
+(epstopdf)             Output file: <dos-pi-050-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-12 20:13:10
+(epstopdf)                    size: 27250 bytes
+(epstopdf)             Command: <epstopdf --outfile=dos-pi-050-eps-converted-to
+.pdf dos-pi-050.eps>
+(epstopdf)             \includegraphics on input line 1338.
+Package epstopdf Info: Output file is already uptodate.
+
+<dos-pi-050-eps-converted-to.pdf, id=384, 229.85875pt x 229.85875pt>
+File: dos-pi-050-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dos-pi-050-eps-converted-to.pdf>
+
+LaTeX Warning: Citation `fanyang' on page 31 undefined on input line 1344.
+
+<fanyang.png, id=385, 161.403pt x 257.763pt>
+File: fanyang.png Graphic file (type png)
+ <use fanyang.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31
+
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/dos_zero-eps-converted-to.pdf> <C
+:/Users/mla/Documents/My Dropbox/_Proposal/dos-pi-050-eps-converted-to.pdf>] [3
+2 <C:/Users/mla/Documents/My Dropbox/_Proposal/fanyang.png (PNG copy)>]
+<spectral-003.png, id=398, 642.4pt x 481.8pt>
+File: spectral-003.png Graphic file (type png)
+ <use spectral-003.png> [33
+
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/spectral-003.png (PNG copy)>]
+Chapter 5.
+<mosfet.png, id=403, 408.727pt x 362.153pt>
+File: mosfet.png Graphic file (type png)
+ <use mosfet.png> [34
+
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/mosfet.png>]
+<iv_mosfet.png, id=408, 680.141pt x 454.498pt>
+File: iv_mosfet.png Graphic file (type png)
+ <use iv_mosfet.png> [35 <C:/Users/mla/Documents/My Dropbox/_Proposal/iv_mosfet
+.png>]
+<fgmosfet.png, id=413, 301.125pt x 187.902pt>
+File: fgmosfet.png Graphic file (type png)
+ <use fgmosfet.png> [36
+
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/fgmosfet.png (PNG copy)>]
+<tifet.jpg, id=418, 949.5475pt x 569.12625pt>
+File: tifet.jpg Graphic file (type jpg)
+ <use tifet.jpg>
+("C:\Users\mla\Documents\My Dropbox\_Proposal\proposal_all.bbl" [37
+
+ <C:/Users/mla/Documents/My Dropbox/_Proposal/tifet.jpg>] [38
+
+]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+ [39]) [40]
+("C:\Users\mla\Documents\My Dropbox\_Proposal\proposal_all.aux")
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2880 strings out of 495285
+ 39393 string characters out of 3179884
+ 97743 words of memory out of 3000000
+ 5979 multiletter control sequences out of 15000+200000
+ 15724 words of font info for 59 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 41i,14n,29p,1009b,240s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program 
+Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program File
+s (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (
+x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86
+)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/M
+iKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTe
+X 2.8/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
+8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/
+fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.8/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/ty
+pe1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts
+/type1/hoekwater/rsfs/rsfs10.pfb>
+Output written on proposal_all.pdf (41 pages, 1849579 bytes).
+PDF statistics:
+ 492 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+

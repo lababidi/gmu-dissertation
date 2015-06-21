@@ -1,0 +1,1023 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2011.10.24)  6 DEC 2011 16:50
+entering extended mode
+**F:/Dropbox/_Proposal/proposal_2.tex
+(F:/Dropbox/_Proposal/proposal_2.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\mla\AppData\Roaming\MiKTeX\2.9\tex\latex\braket\braket.sty)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks21
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(F:\Dropbox\_Proposal\proposal_2.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
+(C:\Users\mla\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen122
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen123
+\MPnumerator=\count108
+\everyMPtoPDFconversion=\toks23
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Chapter 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 39.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Warning: Citation `fu07' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `moore' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `roy' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `Hsieh2008' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `Xia09' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `zhang2009' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `Chen09' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `Hsieh2009' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation `burkov' on page 1 undefined on input line 46.
+
+
+LaTeX Warning: Citation `today' on page 1 undefined on input line 48.
+
+
+LaTeX Warning: Citation `rmp' on page 1 undefined on input line 48.
+
+
+LaTeX Warning: Citation `Qi-zhang-rev' on page 1 undefined on input line 48.
+
+
+LaTeX Warning: Citation `yokoyama09' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation `heine65' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation `cohen' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation `tersoff' on page 1 undefined on input line 50.
+
+
+LaTeX Warning: Citation `mrs' on page 1 undefined on input line 55.
+
+
+LaTeX Warning: Citation `stan' on page 1 undefined on input line 55.
+
+
+LaTeX Warning: Citation `majorana' on page 1 undefined on input line 55.
+
+[1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+LaTeX Warning: Citation `yokoyama09' on page 2 undefined on input line 57.
+
+
+LaTeX Warning: Citation `zhang2009' on page 2 undefined on input line 73.
+
+
+LaTeX Warning: Citation `zhang2009' on page 2 undefined on input line 78.
+
+
+LaTeX Warning: Citation `zhang2009' on page 2 undefined on input line 79.
+
+
+LaTeX Warning: Citation `Hsieh2009' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Hsieh2009' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation `gate' on page 2 undefined on input line 84.
+
+
+LaTeX Warning: Citation `yokoyama09' on page 2 undefined on input line 100.
+
+<geometry.pdf, id=12, 885.62582pt x 457.45143pt>
+File: geometry.pdf Graphic file (type pdf)
+ <use geometry.pdf>
+Package pdftex.def Info: geometry.pdf used on input line 105.
+(pdftex.def)             Requested size: 245.71754pt x 126.91983pt.
+
+! Undefined control sequence.
+l.116 ...ing different basis (see Ref. \onlinecite
+                                                  {bc} and reference therein).
+? 
+
+LaTeX Warning: Citation `duke' on page 2 undefined on input line 119.
+
+[2]
+
+LaTeX Warning: Citation `kohn59' on page 3 undefined on input line 131.
+
+
+LaTeX Warning: Citation `blount62' on page 3 undefined on input line 131.
+
+
+LaTeX Warning: Citation `heine63' on page 3 undefined on input line 132.
+
+<f2.pdf, id=18, 321.2pt x 294.1349pt>
+File: f2.pdf Graphic file (type pdf)
+ <use f2.pdf>
+Package pdftex.def Info: f2.pdf used on input line 141.
+(pdftex.def)             Requested size: 122.85876pt x 112.50398pt.
+
+<f4.pdf, id=19, 321.2pt x 294.76926pt>
+File: f4.pdf Graphic file (type pdf)
+ <use f4.pdf>
+Package pdftex.def Info: f4.pdf used on input line 141.
+(pdftex.def)             Requested size: 122.85876pt x 112.74661pt.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 147.
+
+
+LaTeX Warning: Citation `heine63' on page 3 undefined on input line 147.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 147.
+
+
+LaTeX Warning: Citation `heine63' on page 3 undefined on input line 147.
+
+
+LaTeX Warning: Citation `chang82' on page 3 undefined on input line 154.
+
+[3 <F:/Dropbox/_Proposal/geometry.pdf> <F:/Dropbox/_Proposal/f2.pdf> <F:/Dropbo
+x/_Proposal/f4.pdf>]
+
+LaTeX Warning: Citation `qi_field' on page 4 undefined on input line 184.
+
+
+LaTeX Warning: Citation `mott' on page 4 undefined on input line 197.
+
+[4]
+
+LaTeX Warning: Citation `zhang2009' on page 5 undefined on input line 263.
+
+<scatt.pdf, id=94, 301.125pt x 369.38pt>
+File: scatt.pdf Graphic file (type pdf)
+ <use scatt.pdf>
+Package pdftex.def Info: scatt.pdf used on input line 271.
+(pdftex.def)             Requested size: 180.67499pt x 221.63533pt.
+ [5 <F:/Dropbox/_Proposal/scatt.pdf>]
+
+LaTeX Warning: Citation `qi_field' on page 6 undefined on input line 294.
+
+<j1.pdf, id=135, 542.025pt x 503.8825pt>
+File: j1.pdf Graphic file (type pdf)
+ <use j1.pdf>
+Package pdftex.def Info: j1.pdf used on input line 304.
+(pdftex.def)             Requested size: 122.85876pt x 114.20673pt.
+
+<j2.pdf, id=136, 542.025pt x 503.8825pt>
+File: j2.pdf Graphic file (type pdf)
+ <use j2.pdf>
+Package pdftex.def Info: j2.pdf used on input line 304.
+(pdftex.def)             Requested size: 122.85876pt x 114.20673pt.
+
+<la1.pdf, id=137, 240.9pt x 223.84729pt>
+File: la1.pdf Graphic file (type pdf)
+ <use la1.pdf>
+Package pdftex.def Info: la1.pdf used on input line 330.
+(pdftex.def)             Requested size: 122.85876pt x 114.1606pt.
+
+<la2.pdf, id=138, 240.9pt x 213.32397pt>
+File: la2.pdf Graphic file (type pdf)
+ <use la2.pdf>
+Package pdftex.def Info: la2.pdf used on input line 330.
+(pdftex.def)             Requested size: 122.85876pt x 108.79378pt.
+
+
+LaTeX Warning: Citation `gf' on page 6 undefined on input line 341.
+
+[6 <F:/Dropbox/_Proposal/j1.pdf> <F:/Dropbox/_Proposal/j2.pdf>]
+
+LaTeX Warning: Citation `gf' on page 7 undefined on input line 356.
+
+[7 <F:/Dropbox/_Proposal/la1.pdf> <F:/Dropbox/_Proposal/la2.pdf>]
+
+LaTeX Warning: Citation `yokoyama09' on page 8 undefined on input line 409.
+
+[8]
+Chapter 2.
+
+LaTeX Warning: Citation `f-k' on page 9 undefined on input line 442.
+
+
+LaTeX Warning: Citation `r-g' on page 9 undefined on input line 444.
+
+
+LaTeX Warning: Citation `f-k' on page 9 undefined on input line 445.
+
+
+LaTeX Warning: Citation `qi-zhang' on page 9 undefined on input line 448.
+
+
+LaTeX Warning: Citation `qi-zhang' on page 9 undefined on input line 460.
+
+
+LaTeX Warning: Citation `rmp' on page 9 undefined on input line 460.
+
+
+LaTeX Warning: Citation `f-k' on page 9 undefined on input line 467.
+
+
+LaTeX Warning: Citation `roman' on page 9 undefined on input line 469.
+
+
+LaTeX Warning: Citation `maryland' on page 9 undefined on input line 469.
+
+
+LaTeX Warning: Citation `jason' on page 9 undefined on input line 469.
+
+
+LaTeX Warning: Citation `mao1' on page 9 undefined on input line 469.
+
+
+LaTeX Warning: Citation `mao2' on page 9 undefined on input line 469.
+
+
+LaTeX Warning: Citation `yu' on page 9 undefined on input line 472.
+
+
+LaTeX Warning: Citation `jacF' on page 9 undefined on input line 472.
+
+
+LaTeX Warning: Citation `jacU' on page 9 undefined on input line 472.
+
+[9
+
+]
+
+LaTeX Warning: Citation `sca' on page 10 undefined on input line 475.
+
+
+LaTeX Warning: Citation `march' on page 10 undefined on input line 475.
+
+
+LaTeX Warning: Citation `stan' on page 10 undefined on input line 482.
+
+
+LaTeX Warning: Citation `ann' on page 10 undefined on input line 493.
+
+
+LaTeX Warning: Citation `cu1' on page 10 undefined on input line 514.
+
+
+LaTeX Warning: Citation `cu2' on page 10 undefined on input line 514.
+
+
+LaTeX Warning: Citation `ando' on page 10 undefined on input line 514.
+
+
+LaTeX Warning: Citation `f-k' on page 10 undefined on input line 537.
+
+
+LaTeX Warning: Citation `stan' on page 10 undefined on input line 539.
+
+
+LaTeX Warning: Citation `zhang' on page 10 undefined on input line 554.
+
+[10]
+
+LaTeX Warning: Citation `zhang' on page 11 undefined on input line 567.
+
+
+LaTeX Warning: Citation `band' on page 11 undefined on input line 567.
+
+
+LaTeX Warning: Citation `zhang' on page 11 undefined on input line 570.
+
+
+LaTeX Warning: Citation `zhang' on page 11 undefined on input line 571.
+
+
+LaTeX Warning: Citation `zhao' on page 11 undefined on input line 577.
+
+
+LaTeX Warning: Citation `cu2' on page 11 undefined on input line 583.
+
+
+LaTeX Warning: Citation `gate' on page 11 undefined on input line 585.
+
+
+LaTeX Warning: Reference `setup' on page 11 undefined on input line 586.
+
+
+LaTeX Warning: Command \l invalid in math mode on input line 596.
+
+
+LaTeX Warning: Citation `cu1' on page 11 undefined on input line 609.
+
+
+LaTeX Warning: Citation `cu2' on page 11 undefined on input line 609.
+
+
+LaTeX Warning: Citation `ando' on page 11 undefined on input line 609.
+
+
+LaTeX Warning: Citation `ando' on page 11 undefined on input line 612.
+
+
+LaTeX Warning: Citation `cu2' on page 11 undefined on input line 613.
+
+Package epstopdf Info: Source file: <setup.eps>
+(epstopdf)                    date: 2011-01-14 12:15:18
+(epstopdf)                    size: 28467 bytes
+(epstopdf)             Output file: <setup-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:46
+(epstopdf)                    size: 12331 bytes
+(epstopdf)             Command: <epstopdf --outfile=setup-eps-converted-to.pdf 
+setup.eps>
+(epstopdf)             \includegraphics on input line 619.
+Package epstopdf Info: Output file is already uptodate.
+<setup-eps-converted-to.pdf, id=200, 369.38pt x 194.7275pt>
+File: setup-eps-converted-to.pdf Graphic file (type pdf)
+
+<use setup-eps-converted-to.pdf>
+Package pdftex.def Info: setup-eps-converted-to.pdf used on input line 619.
+(pdftex.def)             Requested size: 216.81pt x 114.29692pt.
+
+
+LaTeX Warning: Reference `setup' on page 11 undefined on input line 629.
+
+[11]
+
+LaTeX Warning: Reference `hbH' on page 12 undefined on input line 656.
+
+
+LaTeX Warning: Reference `gapE' on page 12 undefined on input line 656.
+
+[12 <F:/Dropbox/_Proposal/setup-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `bdgsimp' on page 13 undefined on input line 720.
+
+
+LaTeX Warning: Citation `h-v' on page 13 undefined on input line 722.
+
+
+LaTeX Warning: Citation `h-v' on page 13 undefined on input line 729.
+
+
+LaTeX Warning: Citation `s-v' on page 13 undefined on input line 737.
+
+[13]
+
+LaTeX Warning: Reference `uexp' on page 14 undefined on input line 741.
+
+
+LaTeX Warning: Reference `Dexp' on page 14 undefined on input line 741.
+
+
+LaTeX Warning: Citation `zhao' on page 14 undefined on input line 777.
+
+Package epstopdf Info: Source file: <delta-cu.eps>
+(epstopdf)                    date: 2011-01-04 10:42:35
+(epstopdf)                    size: 33187 bytes
+(epstopdf)             Output file: <delta-cu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:47
+(epstopdf)                    size: 14060 bytes
+(epstopdf)             Command: <epstopdf --outfile=delta-cu-eps-converted-to.p
+df delta-cu.eps>
+(epstopdf)             \includegraphics on input line 783.
+Package epstopdf Info: Output file is already uptodate.
+<delta-cu-eps-converted-to.pdf, id=219, 361.35pt x 252.945pt>
+File: delta-cu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use delta-cu-eps-converted-to.pdf>
+Package pdftex.def Info: delta-cu-eps-converted-to.pdf used on input line 783.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Citation `cu2' on page 14 undefined on input line 792.
+
+
+LaTeX Warning: Citation `h-v' on page 14 undefined on input line 793.
+
+
+LaTeX Warning: Reference `delta-cu' on page 14 undefined on input line 795.
+
+
+LaTeX Warning: Citation `s-v' on page 14 undefined on input line 804.
+
+
+LaTeX Warning: Reference `eq-N' on page 14 undefined on input line 807.
+
+
+LaTeX Warning: Reference `delta-24' on page 14 undefined on input line 809.
+
+
+LaTeX Warning: Reference `delta-chem' on page 14 undefined on input line 814.
+
+
+LaTeX Warning: Reference `delta-cu' on page 14 undefined on input line 819.
+
+
+LaTeX Warning: Reference `delta-chem' on page 14 undefined on input line 820.
+
+[14]
+Package epstopdf Info: Source file: <dt.eps>
+(epstopdf)                    date: 2010-12-10 15:11:54
+(epstopdf)                    size: 23489 bytes
+(epstopdf)             Output file: <dt-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:48
+(epstopdf)                    size: 8722 bytes
+(epstopdf)             Command: <epstopdf --outfile=dt-eps-converted-to.pdf dt.
+eps>
+(epstopdf)             \includegraphics on input line 830.
+Package epstopdf Info: Output file is already uptodate.
+ <dt-eps-converted-to.pdf, id=223, 361.35pt x 252.945pt>
+File: dt-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dt-eps-converted-to.pdf>
+Package pdftex.def Info: dt-eps-converted-to.pdf used on input line 830.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+Package epstopdf Info: Source file: <dtchemi.eps>
+(epstopdf)                    date: 2010-12-12 11:28:15
+(epstopdf)                    size: 27978 bytes
+(epstopdf)             Output file: <dtchemi-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:49
+(epstopdf)                    size: 11035 bytes
+(epstopdf)             Command: <epstopdf --outfile=dtchemi-eps-converted-to.pd
+f dtchemi.eps>
+(epstopdf)             \includegraphics on input line 840.
+Package epstopdf Info: Output file is already uptodate.
+
+<dtchemi-eps-converted-to.pdf, id=224, 361.35pt x 252.945pt>
+File: dtchemi-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dtchemi-eps-converted-to.pdf>
+Package pdftex.def Info: dtchemi-eps-converted-to.pdf used on input line 840.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Citation `toku' on page 15 undefined on input line 848.
+
+
+LaTeX Warning: Citation `toku' on page 15 undefined on input line 853.
+
+
+LaTeX Warning: Citation `zhao' on page 15 undefined on input line 855.
+
+
+LaTeX Warning: Reference `lev-fk' on page 15 undefined on input line 876.
+
+
+LaTeX Warning: Citation `f-k' on page 15 undefined on input line 882.
+
+[15 <F:/Dropbox/_Proposal/delta-cu-eps-converted-to.pdf>] [16 <F:/Dropbox/_Prop
+osal/dt-eps-converted-to.pdf> <F:/Dropbox/_Proposal/dtchemi-eps-converted-to.pd
+f>]
+
+LaTeX Warning: Reference `fkmodel' on page 17 undefined on input line 884.
+
+
+LaTeX Warning: Reference `lev-fk' on page 17 undefined on input line 890.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 892.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 893.
+
+
+LaTeX Warning: Citation `stan' on page 17 undefined on input line 897.
+
+Package epstopdf Info: Source file: <levels.eps>
+(epstopdf)                    date: 2010-12-13 13:53:06
+(epstopdf)                    size: 30030 bytes
+(epstopdf)             Output file: <levels-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:50
+(epstopdf)                    size: 18277 bytes
+(epstopdf)             Command: <epstopdf --outfile=levels-eps-converted-to.pdf
+ levels.eps>
+(epstopdf)             \includegraphics on input line 901.
+Package epstopdf Info: Output file is already uptodate.
+<levels-eps-converted-to.pdf, id=252, 361.35pt x 252.945pt>
+File: levels-eps-converted-to.pdf Graphic file (type pdf)
+
+<use levels-eps-converted-to.pdf>
+Package pdftex.def Info: levels-eps-converted-to.pdf used on input line 901.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Reference `lev-chem' on page 17 undefined on input line 912.
+
+
+LaTeX Warning: Reference `sp' on page 17 undefined on input line 918.
+
+
+LaTeX Warning: Reference `dos' on page 17 undefined on input line 926.
+
+Package epstopdf Info: Source file: <disp-mu.eps>
+(epstopdf)                    date: 2010-12-13 13:31:52
+(epstopdf)                    size: 30222 bytes
+(epstopdf)             Output file: <disp-mu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:51
+(epstopdf)                    size: 11722 bytes
+(epstopdf)             Command: <epstopdf --outfile=disp-mu-eps-converted-to.pd
+f disp-mu.eps>
+(epstopdf)             \includegraphics on input line 932.
+Package epstopdf Info: Output file is already uptodate.
+<disp-mu-eps-converted-to.pdf, id=253, 361.35pt x 252.945pt>
+File: disp-mu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use disp-mu-eps-converted-to.pdf>
+Package pdftex.def Info: disp-mu-eps-converted-to.pdf used on input line 932.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Reference `lev-fk' on page 17 undefined on input line 939.
+
+
+LaTeX Warning: Reference `lev-fk' on page 17 undefined on input line 939.
+
+[17 <F:/Dropbox/_Proposal/levels-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <spweight.eps>
+(epstopdf)                    date: 2010-12-19 15:37:40
+(epstopdf)                    size: 27673 bytes
+(epstopdf)             Output file: <spweight-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:52
+(epstopdf)                    size: 17936 bytes
+(epstopdf)             Command: <epstopdf --outfile=spweight-eps-converted-to.p
+df spweight.eps>
+(epstopdf)             \includegraphics on input line 945.
+Package epstopdf Info: Output file is already uptodate.
+
+<spweight-eps-converted-to.pdf, id=263, 361.35pt x 252.945pt>
+File: spweight-eps-converted-to.pdf Graphic file (type pdf)
+
+<use spweight-eps-converted-to.pdf>
+Package pdftex.def Info: spweight-eps-converted-to.pdf used on input line 945.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Reference `lev-chem' on page 18 undefined on input line 950.
+
+
+LaTeX Warning: Reference `lev-chem' on page 18 undefined on input line 950.
+
+
+LaTeX Warning: Reference `level-27' on page 18 undefined on input line 955.
+
+Package epstopdf Info: Source file: <dos.eps>
+(epstopdf)                    date: 2011-10-22 15:54:01
+(epstopdf)                    size: 56018 bytes
+(epstopdf)             Output file: <dos-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-10-22 15:55:08
+(epstopdf)                    size: 25517 bytes
+(epstopdf)             Command: <epstopdf --outfile=dos-eps-converted-to.pdf do
+s.eps>
+(epstopdf)             \includegraphics on input line 965.
+Package epstopdf Info: Output file is already uptodate.
+<dos-eps-converted-to.pdf, id=264, 229.85875pt x 229.85875pt>
+File: dos-eps-converted-to.pdf Graphic file (type pdf)
+
+<use dos-eps-converted-to.pdf>
+Package pdftex.def Info: dos-eps-converted-to.pdf used on input line 965.
+(pdftex.def)             Requested size: 245.71754pt x 245.73247pt.
+Package epstopdf Info: Source file: <spg27.eps>
+(epstopdf)                    date: 2011-01-06 09:14:14
+(epstopdf)                    size: 26553 bytes
+(epstopdf)             Output file: <spg27-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:54
+(epstopdf)                    size: 9378 bytes
+(epstopdf)             Command: <epstopdf --outfile=spg27-eps-converted-to.pdf 
+spg27.eps>
+(epstopdf)             \includegraphics on input line 977.
+Package epstopdf Info: Output file is already uptodate.
+
+<spg27-eps-converted-to.pdf, id=265, 361.35pt x 252.945pt>
+File: spg27-eps-converted-to.pdf Graphic file (type pdf)
+
+<use spg27-eps-converted-to.pdf>
+Package pdftex.def Info: spg27-eps-converted-to.pdf used on input line 977.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Citation `esch' on page 18 undefined on input line 988.
+
+
+LaTeX Warning: Citation `tanaka' on page 18 undefined on input line 988.
+
+
+LaTeX Warning: Citation `zhao' on page 18 undefined on input line 995.
+
+
+LaTeX Warning: Citation `esch' on page 18 undefined on input line 1002.
+
+
+LaTeX Warning: Citation `stan' on page 18 undefined on input line 1004.
+
+
+LaTeX Warning: Reference `pair-corr' on page 18 undefined on input line 1006.
+
+
+LaTeX Warning: Reference `symm' on page 18 undefined on input line 1007.
+
+
+LaTeX Warning: Reference `unit' on page 18 undefined on input line 1009.
+
+[18 <F:/Dropbox/_Proposal/disp-mu-eps-converted-to.pdf>] [19 <F:/Dropbox/_Propo
+sal/spweight-eps-converted-to.pdf> <F:/Dropbox/_Proposal/dos-eps-converted-to.p
+df>]
+
+LaTeX Warning: Citation `esch' on page 20 undefined on input line 1027.
+
+
+LaTeX Warning: Citation `tanaka' on page 20 undefined on input line 1027.
+
+
+LaTeX Warning: Citation `trip' on page 20 undefined on input line 1027.
+
+Package epstopdf Info: Source file: <pwave.eps>
+(epstopdf)                    date: 2011-01-06 11:24:14
+(epstopdf)                    size: 42269 bytes
+(epstopdf)             Output file: <pwave-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:55
+(epstopdf)                    size: 20144 bytes
+(epstopdf)             Command: <epstopdf --outfile=pwave-eps-converted-to.pdf 
+pwave.eps>
+(epstopdf)             \includegraphics on input line 1033.
+Package epstopdf Info: Output file is already uptodate.
+<pwave-eps-converted-to.pdf, id=289, 361.35pt x 252.945pt>
+File: pwave-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pwave-eps-converted-to.pdf>
+Package pdftex.def Info: pwave-eps-converted-to.pdf used on input line 1033.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Reference `pw' on page 20 undefined on input line 1044.
+
+
+LaTeX Warning: Reference `pw-cu' on page 20 undefined on input line 1048.
+
+Package epstopdf Info: Source file: <pw-cu.eps>
+(epstopdf)                    date: 2011-01-07 17:03:13
+(epstopdf)                    size: 24609 bytes
+(epstopdf)             Output file: <pw-cu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 14:45:56
+(epstopdf)                    size: 9483 bytes
+(epstopdf)             Command: <epstopdf --outfile=pw-cu-eps-converted-to.pdf 
+pw-cu.eps>
+(epstopdf)             \includegraphics on input line 1059.
+Package epstopdf Info: Output file is already uptodate.
+<pw-cu-eps-converted-to.pdf, id=290, 361.35pt x 252.945pt>
+File: pw-cu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pw-cu-eps-converted-to.pdf>
+Package pdftex.def Info: pw-cu-eps-converted-to.pdf used on input line 1059.
+(pdftex.def)             Requested size: 245.71754pt x 172.00418pt.
+
+
+LaTeX Warning: Citation `f-k' on page 20 undefined on input line 1078.
+
+
+LaTeX Warning: Citation `stan' on page 20 undefined on input line 1078.
+
+[20 <F:/Dropbox/_Proposal/spg27-eps-converted-to.pdf>] [21 <F:/Dropbox/_Proposa
+l/pwave-eps-converted-to.pdf> <F:/Dropbox/_Proposal/pw-cu-eps-converted-to.pdf>
+]
+
+LaTeX Warning: Citation `roman' on page 22 undefined on input line 1095.
+
+
+LaTeX Warning: Citation `maryland' on page 22 undefined on input line 1095.
+
+
+LaTeX Warning: Citation `jason' on page 22 undefined on input line 1095.
+
+
+LaTeX Warning: Citation `mao1' on page 22 undefined on input line 1095.
+
+
+LaTeX Warning: Citation `mao2' on page 22 undefined on input line 1095.
+
+
+LaTeX Warning: Citation `h-v' on page 22 undefined on input line 1104.
+
+[22]
+
+LaTeX Warning: Reference `symm' on page 23 undefined on input line 1133.
+
+[23]
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+ [24
+
+] [25] (F:\Dropbox\_Proposal\proposal_2.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3081 strings out of 494045
+ 41339 string characters out of 3148392
+ 108779 words of memory out of 3000000
+ 6298 multiletter control sequences out of 15000+200000
+ 13715 words of font info for 51 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 42i,12n,29p,865b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/hoekwat
+er/rsfs/rsfs10.pfb>
+Output written on proposal_2.pdf (25 pages, 1218858 bytes).
+PDF statistics:
+ 380 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,168 @@
+
+
+\documentclass[11pt,letterpaper]{report}
+
+%%  The file ``gmudissertation.sty''  is the GMU latex style file and
+%%   should be placed in the same directory as your LaTeX files
+\usepackage{gmudissertation}
+
+%%
+%% other packages that need to be loaded
+%%
+\usepackage{graphicx}                    %   for imported graphics
+\usepackage{amsmath}                     %%
+\usepackage{amsfonts}                    %%  for AMS mathematics
+\usepackage{amssymb}                     %%
+\usepackage{amsthm}                      %%
+\usepackage{epstopdf}                    %   for postscript files
+\usepackage[normalem]{ulem}              %   a nice standard underline package
+\usepackage{setspace}                    %   for line spacing commands
+%\usepackage[noadjust,verbose,sort]{cite} %   arranges reference citations neatly
+%\usepackage{booktabs}
+%\usepackage{subfig}
+%%\usepackage{tabularx}
+%%\usepackage{sidecap}
+%\usepackage{rotating}
+%\usepackage{wrapfig}
+%\usepackage{dcolumn}
+\usepackage{float}
+%\usepackage[section]{placeins}
+\usepackage[backref=false,breaklinks,bookmarks,colorlinks=false,citecolor=black]{hyperref}
+\usepackage{multirow}
+%%\usepackage{mathrsfs}
+%\usepackage{calrsfs}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+\usepackage{braket}
+\usepackage{epstopdf}
+% \usepackage{geometry}
+
+\def\avg#1{\langle#1\rangle}
+\def\v#1{\mathbf{#1}}
+\def\Re {\mbox{Re}}
+\def\Im {\mbox{Im}}
+\def\tr{\mbox{tr}}
+\def\nn{\nonumber}
+\def\pp{\parallel}
+\def\ket#1{\vert #1 \rangle}
+\def\bra#1{\langle #1 \vert}
+\def\me#1#2#3{\langle #1 \vert #2 \vert #3 \rangle}
+\def\Br{\mathbf{r}}
+
+\newcommand{\kp}{k_{+}}
+\newcommand{\ki}{k_{-}}
+\newcommand{\idz}{i\partial_z}
+\newcommand{\kperp}{\mathbf{k}_\parallel}
+
+%% The file ``mydissertationabbrev.sty'' is an (optional) personalized file that
+%% may contain any and all LaTeX command (re)definitions that will be used
+%% throughout the document
+%\usepackage{mydissertationabbrev}
+
+\addtolength{\intextsep}{3cm}
+\addtolength{\textfloatsep}{3cm}
+
+\beforedoc
+
+\begin{document}
+
+%% In this section, all of the user-specific fields to be used in the
+%% title pages are set
+\title{Topological Insulator Heterostructures}
+\onelinetitle{Topological Insulator Heterostructures}
+\author{Mahmoud Lababidi}
+\degree{Doctor of Philosophy}
+\doctype{Dissertation}
+\dept{School of Physics, Astronomy and Computational Science}
+\discipline{Physics}
+
+% \seconddeg{.}
+% \seconddegschool{.}
+% \seconddegyear{.}
+
+\firstdeg{Bachelor of Science}
+\firstdegschool{University of Florida}
+\firstdegyear{2006}
+
+\degreeyear{2013}
+
+% Note: semester name should be written in its full-form. For example, Fall Semester, not just Fall.
+\degreesemester{Summer Semester}
+
+\advisor{Dr. Erhai Zhao}
+\firstmember{Dr. Dimitrios A. Papaconstantopoulos}
+\secondmember{Dr. Predrag Nikolic}
+\thirdmember{Dr. Qiliang Li}
+\depthead{Dr. Michael E. Summers}
+\adeanCOS{Dr. Timothy L. Born}
+\deanCOS{Dr. Vikas Chandhoke}
+
+\signaturepage
+\titlepage
+\copyrightpage
+
+\dedicationpage
+\noindent \begin{center} To Angus Macgyver, who needed only a roll of duct tape,\\ paperclip, and a Swiss Army knife to solve any problem. \\
+To my parents, Lina and Steve, for committing their lives\\ for me, my future, and my success and happiness in life.% To the rest of my family and my friends for their continual support. 
+\end{center}
+
+
+\include{chap/ack}
+
+
+%%
+%% Table of contents, list of tables, and lists of figures
+%%
+
+\tableofcontents
+
+%\listoftables
+
+\listoffigures
+
+\include{chap/symbols}
+
+%%
+%% Abstract
+%%
+\abstractpage
+
+Abstract here.
+ 
+
+
+%% Be sure to leave a line of whitespace immediately before this line!!!!!
+%% (If this comment segment runs together with the preceding text, you might
+%%  see the second page of the abstract numbered "0".)
+%%
+%% If the abstract is more than one page, then place this line PRECISELY
+%% at the page break; otherwise, comment it out.  (See note about this line
+%% in the usage notes.)
+%% \abstractmultiplepage \noindent 
+
+
+%%
+%%  the main body of the dissertation
+%%
+
+\startofchapters
+
+\include{chap/chap1}
+\include{chap/chap2}
+\include{chap/chap3}
+\include{chap/chap4}
+
+
+% A first, optional argument in [ ] is the title as displayed in the table of contents
+% The second argument is the title as displayed here.  Use \\ as appropriate in
+%   this title to get desired line breaks
+
+
+\bibliographystyle{aip}
+\bibliography{dissertation,prox}{}
+
+
+\end{document}

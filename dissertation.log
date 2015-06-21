@@ -1,0 +1,1214 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.7)  26 JUL 2013 11:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dissertation.tex
+(./dissertation.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./gmudissertation.sty (./wrapfig.sty
+\wrapoverhang=\dimen103
+\WF@size=\dimen104
+\c@WF@wrappedlines=\count88
+\WF@box=\box26
+\WF@everypar=\toks14
+Package: wrapfig 2003/01/31  v 3.6
+)
+\c@lem=\count89
+\c@prop=\count90
+\c@assum=\count91
+\c@Def=\count92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen107
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks17
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks18
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(./ulem.sty
+\UL@box=\box29
+\UL@hyphenbox=\box30
+\UL@skip=\skip49
+\UL@hook=\toks27
+\UL@height=\dimen116
+\UL@pe=\count106
+\UL@pixel=\dimen117
+\ULC@box=\box31
+Package: ulem 2012/05/18
+\ULdepth=\dimen118
+) (./setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks28
+\float@box=\box32
+\@float@everytoks=\toks29
+\@floatcapt=\box33
+) (./multirow.sty
+\bigstrutjot=\dimen119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (./braket.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2012/04/03 v0.4s Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count108
+\calc@Bcount=\count109
+\calc@Adimen=\dimen120
+\calc@Bdimen=\dimen121
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count110
+\calc@Cskip=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2012/04/03 v0.4s Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box34
+\AM@toc@title=\toks30
+\c@AM@survey=\count111
+\AM@templatesizebox=\box35
+)
+(./dissertation.aux (./chap/ack.aux) (./chap/symbols.aux) (./chap/chap1.aux)
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux))
+\openout1 = `dissertation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen122
+\scratchbox=\box36
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen123
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks32
+)
+\AtBeginShipoutBox=\box37
+
+Overfull \hbox (19.05656pt too wide) in paragraph at lines 105--105
+ |   [] 
+ []
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 105.
+
+<sig.png, id=1, 973.6375pt x 1533.73pt>
+File: sig.png Graphic file (type png)
+ <use sig.png>
+Package pdftex.def Info: sig.png used on input line 105.
+(pdftex.def)             Requested size: 238.49231pt x 375.68523pt.
+
+Overfull \hbox (21.68231pt too wide) in paragraph at lines 105--105
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+
+ []
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 10
+5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./sig.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+
+ []
+
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 108.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 108.
+ [2] [3]
+\openout2 = `chap/ack.aux'.
+
+
+(./chap/ack.tex [4
+
+]) [5] (./dissertation.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [6
+
+
+])
+\tf@toc=\write3
+\openout3 = `dissertation.toc'.
+
+ [7]
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 1.
+(./dissertation.lof [8
+
+] [9] [10])
+\tf@lof=\write4
+\openout4 = `dissertation.lof'.
+
+ [11]
+\openout2 = `chap/symbols.aux'.
+
+ (./chap/symbols.tex
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 2.
+) [12
+
+
+]
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 3.
+[13
+
+
+] [14] [0]
+\openout2 = `chap/chap1.aux'.
+
+ (./chap/chap1.tex
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 1.
+[1
+
+
+] [2] <include/bands2.png, id=71, 1165.956pt x 270.611pt>
+File: include/bands2.png Graphic file (type png)
+
+<use include/bands2.png>
+Package pdftex.def Info: include/bands2.png used on input line 27.
+(pdftex.def)             Requested size: 433.62pt x 100.64064pt.
+ [3 <./include/bands2.png>] [4]
+<include/cone.png, id=82, 561.09625pt x 756.8275pt>
+File: include/cone.png Graphic file (type png)
+ <use include/cone.png>
+Package pdftex.def Info: include/cone.png used on input line 59.
+(pdftex.def)             Requested size: 260.17464pt x 350.928pt.
+
+[5 <./include/cone.png (PNG copy)>]
+<include/fourprobe.png, id=86, 246.1697pt x 261.22594pt>
+File: include/fourprobe.png Graphic file (type png)
+
+<use include/fourprobe.png>
+Package pdftex.def Info: include/fourprobe.png used on input line 103.
+(pdftex.def)             Requested size: 195.12767pt x 207.07173pt.
+
+<include/resistance.png, id=87, 471.26062pt x 561.59813pt>
+File: include/resistance.png Graphic file (type png)
+
+<use include/resistance.png>
+Package pdftex.def Info: include/resistance.png used on input line 104.
+(pdftex.def)             Requested size: 195.12767pt x 232.53615pt.
+ [6] [7] [8 <./include/fourprobe.png> <./include/resistance.png>] [9
+
+]
+Overfull \hbox (1.71877pt too wide) in paragraph at lines 167--169
+\OT1/cmr/m/n/10.95 The quasi-par-ti-cle (quasi-hole) wave func-tion is $\OML/cm
+m/m/it/10.95 u[]$ \OT1/cmr/m/n/10.95 ($\OML/cmm/m/it/10.95 v[]$\OT1/cmr/m/n/10.
+95 ). Each elec-tron cre-ation/annihilation
+ []
+
+[10] <include/bcsplot.png, id=107, 674.52pt x 414.54875pt>
+File: include/bcsplot.png Graphic file (type png)
+
+<use include/bcsplot.png>
+Package pdftex.def Info: include/bcsplot.png used on input line 199.
+(pdftex.def)             Requested size: 411.93767pt x 253.17166pt.
+
+Overfull \hbox (36.37772pt too wide) in paragraph at lines 206--206
+[]\OT1/cmr/bx/n/14.4 Topological Su-per-con-duc-tors and Superconductor-Topolog
+ical
+ []
+
+[11] [12 <./include/bcsplot.png (PNG copy)>] [13]
+<include/pmajorana.png, id=117, 953.5625pt x 582.175pt>
+File: include/pmajorana.png Graphic file (type png)
+
+<use include/pmajorana.png>
+Package pdftex.def Info: include/pmajorana.png used on input line 224.
+(pdftex.def)             Requested size: 411.93767pt x 251.50296pt.
+ [14 <./include/pmajorana.png (PNG copy)>] [15])
+[16]
+\openout2 = `chap/chap2.aux'.
+
+ (./chap/chap2.tex
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 2.
+[17
+
+
+
+] [18] [19] [20] <include/geometry.pdf, id=140, 885.62582pt x 457.45143pt>
+File: include/geometry.pdf Graphic file (type pdf)
+
+<use include/geometry.pdf>
+Package pdftex.def Info: include/geometry.pdf used on input line 84.
+(pdftex.def)             Requested size: 433.62pt x 223.97865pt.
+ [21 <./include/geometry.pdf>]
+<include/f2.pdf, id=192, 321.2pt x 294.1349pt>
+File: include/f2.pdf Graphic file (type pdf)
+ <use include/f2.pdf>
+Package pdftex.def Info: include/f2.pdf used on input line 121.
+(pdftex.def)             Requested size: 195.12767pt x 178.69044pt.
+
+<include/f4.pdf, id=193, 321.2pt x 294.76926pt>
+File: include/f4.pdf Graphic file (type pdf)
+ <use include/f4.pdf>
+Package pdftex.def Info: include/f4.pdf used on input line 121.
+(pdftex.def)             Requested size: 195.12767pt x 179.07584pt.
+ [22 <./include/f2.pdf> <./include/f4.pdf>] [23] [24]
+<include/scatt.pdf, id=224, 301.125pt x 369.38pt>
+File: include/scatt.pdf Graphic file (type pdf)
+ <use include/scatt.pdf>
+Package pdftex.def Info: include/scatt.pdf used on input line 252.
+(pdftex.def)             Requested size: 433.62pt x 531.9575pt.
+
+[25] [26 <./include/scatt.pdf>]
+<include/j1.pdf, id=268, 542.025pt x 503.8825pt>
+File: include/j1.pdf Graphic file (type pdf)
+ <use include/j1.pdf>
+Package pdftex.def Info: include/j1.pdf used on input line 286.
+(pdftex.def)             Requested size: 195.12767pt x 181.39755pt.
+
+<include/j2.pdf, id=269, 542.025pt x 503.8825pt>
+File: include/j2.pdf Graphic file (type pdf)
+ <use include/j2.pdf>
+Package pdftex.def Info: include/j2.pdf used on input line 286.
+(pdftex.def)             Requested size: 195.12767pt x 181.39755pt.
+ [27]
+<include/la1.pdf, id=276, 240.9pt x 223.84729pt>
+File: include/la1.pdf Graphic file (type pdf)
+ <use include/la1.pdf>
+Package pdftex.def Info: include/la1.pdf used on input line 313.
+(pdftex.def)             Requested size: 195.12767pt x 181.31873pt.
+
+<include/la2.pdf, id=277, 240.9pt x 213.32397pt>
+File: include/la2.pdf Graphic file (type pdf)
+ <use include/la2.pdf>
+Package pdftex.def Info: include/la2.pdf used on input line 313.
+(pdftex.def)             Requested size: 195.12767pt x 172.79471pt.
+ [28 <./include/j1.pdf> <./include/j2.pdf>] [29 <./include/la1.pdf> <./include/
+la2.pdf>] [30]) [31]
+\openout2 = `chap/chap3.aux'.
+
+ (./chap/chap3.tex
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 3.
+[32
+
+
+
+] [33] [34] [35]
+
+LaTeX Warning: Command \l invalid in math mode on input line 164.
+
+[36]
+Package epstopdf Info: Source file: <include/setup.eps>
+(epstopdf)                    date: 2011-01-14 12:15:18
+(epstopdf)                    size: 28467 bytes
+(epstopdf)             Output file: <include/setup-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:46
+(epstopdf)                    size: 12331 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/setup-eps-converte
+d-to.pdf include/setup.eps>
+(epstopdf)             \includegraphics on input line 188.
+Package epstopdf Info: Output file is already uptodate.
+ <include/setup-eps-converted-to.pdf, id=350, 369.38pt x 194.7275pt>
+File: include/setup-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/setup-eps-converted-to.pdf>
+Package pdftex.def Info: include/setup-eps-converted-to.pdf used on input line 
+188.
+(pdftex.def)             Requested size: 433.62pt x 228.59386pt.
+ [37 <./include/setup-eps-converted-to.pdf>] [38] [39] [40] [41] [42] [43]
+Package epstopdf Info: Source file: <include/delta-cu.eps>
+(epstopdf)                    date: 2011-01-04 10:42:35
+(epstopdf)                    size: 33187 bytes
+(epstopdf)             Output file: <include/delta-cu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:47
+(epstopdf)                    size: 14060 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/delta-cu-eps-conve
+rted-to.pdf include/delta-cu.eps>
+(epstopdf)             \includegraphics on input line 390.
+Package epstopdf Info: Output file is already uptodate.
+
+<include/delta-cu-eps-converted-to.pdf, id=380, 361.35pt x 252.945pt>
+File: include/delta-cu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/delta-cu-eps-converted-to.pdf>
+Package pdftex.def Info: include/delta-cu-eps-converted-to.pdf used on input li
+ne 390.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+ [44 <./include/delta-cu-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <include/dt.eps>
+(epstopdf)                    date: 2010-12-10 15:11:54
+(epstopdf)                    size: 23489 bytes
+(epstopdf)             Output file: <include/dt-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:48
+(epstopdf)                    size: 8722 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/dt-eps-converted-t
+o.pdf include/dt.eps>
+(epstopdf)             \includegraphics on input line 438.
+Package epstopdf Info: Output file is already uptodate.
+ <include/dt-eps-converted-to.pdf, id=391, 361.35pt x 252.945pt>
+File: include/dt-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/dt-eps-converted-to.pdf>
+Package pdftex.def Info: include/dt-eps-converted-to.pdf used on input line 438
+.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+Package epstopdf Info: Source file: <include/dtchemi.eps>
+(epstopdf)                    date: 2010-12-12 11:28:15
+(epstopdf)                    size: 27978 bytes
+(epstopdf)             Output file: <include/dtchemi-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:49
+(epstopdf)                    size: 11035 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/dtchemi-eps-conver
+ted-to.pdf include/dtchemi.eps>
+(epstopdf)             \includegraphics on input line 449.
+Package epstopdf Info: Output file is already uptodate.
+
+<include/dtchemi-eps-converted-to.pdf, id=392, 361.35pt x 252.945pt>
+File: include/dtchemi-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/dtchemi-eps-converted-to.pdf>
+Package pdftex.def Info: include/dtchemi-eps-converted-to.pdf used on input lin
+e 449.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+ [45] [46 <./include/dt-eps-converted-to.pdf>] [47 <./include/dtchemi-eps-conve
+rted-to.pdf>]
+
+LaTeX Warning: Command \r invalid in math mode on input line 501.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 502.
+
+Package epstopdf Info: Source file: <include/levels.eps>
+(epstopdf)                    date: 2010-12-13 13:53:06
+(epstopdf)                    size: 30030 bytes
+(epstopdf)             Output file: <include/levels-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:50
+(epstopdf)                    size: 18277 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/levels-eps-convert
+ed-to.pdf include/levels.eps>
+(epstopdf)             \includegraphics on input line 511.
+Package epstopdf Info: Output file is already uptodate.
+<include/levels-eps-converted-to.pdf, id=417, 361.35pt x 252.945pt>
+File: include/levels-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/levels-eps-converted-to.pdf>
+Package pdftex.def Info: include/levels-eps-converted-to.pdf used on input line
+ 511.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+ [48] [49 <./include/levels-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <include/disp-mu.eps>
+(epstopdf)                    date: 2010-12-13 13:31:52
+(epstopdf)                    size: 30222 bytes
+(epstopdf)             Output file: <include/disp-mu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:51
+(epstopdf)                    size: 11722 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/disp-mu-eps-conver
+ted-to.pdf include/disp-mu.eps>
+(epstopdf)             \includegraphics on input line 543.
+Package epstopdf Info: Output file is already uptodate.
+
+<include/disp-mu-eps-converted-to.pdf, id=430, 361.35pt x 252.945pt>
+File: include/disp-mu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/disp-mu-eps-converted-to.pdf>
+Package pdftex.def Info: include/disp-mu-eps-converted-to.pdf used on input lin
+e 543.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+Package epstopdf Info: Source file: <include/spweight.eps>
+(epstopdf)                    date: 2010-12-19 15:37:40
+(epstopdf)                    size: 27673 bytes
+(epstopdf)             Output file: <include/spweight-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:52
+(epstopdf)                    size: 17936 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/spweight-eps-conve
+rted-to.pdf include/spweight.eps>
+(epstopdf)             \includegraphics on input line 557.
+Package epstopdf Info: Output file is already uptodate.
+
+<include/spweight-eps-converted-to.pdf, id=431, 361.35pt x 252.945pt>
+File: include/spweight-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/spweight-eps-converted-to.pdf>
+Package pdftex.def Info: include/spweight-eps-converted-to.pdf used on input li
+ne 557.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+Package epstopdf Info: Source file: <include/dos.eps>
+(epstopdf)                    date: 2011-03-30 13:25:01
+(epstopdf)                    size: 21800 bytes
+(epstopdf)             Output file: <include/dos-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-12-12 20:12:31
+(epstopdf)                    size: 7577 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/dos-eps-converted-
+to.pdf include/dos.eps>
+(epstopdf)             \includegraphics on input line 578.
+Package epstopdf Info: Output file is already uptodate.
+
+<include/dos-eps-converted-to.pdf, id=432, 361.35pt x 252.945pt>
+File: include/dos-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/dos-eps-converted-to.pdf>
+Package pdftex.def Info: include/dos-eps-converted-to.pdf used on input line 57
+8.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+Package epstopdf Info: Source file: <include/spg27.eps>
+(epstopdf)                    date: 2011-01-06 09:14:14
+(epstopdf)                    size: 26553 bytes
+(epstopdf)             Output file: <include/spg27-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:54
+(epstopdf)                    size: 9378 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/spg27-eps-converte
+d-to.pdf include/spg27.eps>
+(epstopdf)             \includegraphics on input line 591.
+Package epstopdf Info: Output file is already uptodate.
+
+<include/spg27-eps-converted-to.pdf, id=433, 361.35pt x 252.945pt>
+File: include/spg27-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/spg27-eps-converted-to.pdf>
+Package pdftex.def Info: include/spg27-eps-converted-to.pdf used on input line 
+591.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+ [50] [51 <./include/disp-mu-eps-converted-to.pdf>] [52 <./include/spweight-eps
+-converted-to.pdf>] [53 <./include/dos-eps-converted-to.pdf>] [54 <./include/sp
+g27-eps-converted-to.pdf>] [55]
+Package epstopdf Info: Source file: <include/pwave.eps>
+(epstopdf)                    date: 2011-01-06 11:24:14
+(epstopdf)                    size: 42269 bytes
+(epstopdf)             Output file: <include/pwave-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:55
+(epstopdf)                    size: 20144 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/pwave-eps-converte
+d-to.pdf include/pwave.eps>
+(epstopdf)             \includegraphics on input line 648.
+Package epstopdf Info: Output file is already uptodate.
+
+<include/pwave-eps-converted-to.pdf, id=478, 361.35pt x 252.945pt>
+File: include/pwave-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/pwave-eps-converted-to.pdf>
+Package pdftex.def Info: include/pwave-eps-converted-to.pdf used on input line 
+648.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+ [56 <./include/pwave-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <include/pw-cu.eps>
+(epstopdf)                    date: 2011-01-07 17:03:13
+(epstopdf)                    size: 24609 bytes
+(epstopdf)             Output file: <include/pw-cu-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-20 15:45:56
+(epstopdf)                    size: 9483 bytes
+(epstopdf)             Command: <repstopdf --outfile=include/pw-cu-eps-converte
+d-to.pdf include/pw-cu.eps>
+(epstopdf)             \includegraphics on input line 675.
+Package epstopdf Info: Output file is already uptodate.
+ <include/pw-cu-eps-converted-to.pdf, id=489, 361.35pt x 252.945pt>
+File: include/pw-cu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use include/pw-cu-eps-converted-to.pdf>
+Package pdftex.def Info: include/pw-cu-eps-converted-to.pdf used on input line 
+675.
+(pdftex.def)             Requested size: 433.62pt x 303.53633pt.
+ [57] [58 <./include/pw-cu-eps-converted-to.pdf>]) [59]
+\openout2 = `chap/chap4.aux'.
+
+ (./chap/chap4.tex
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 4.
+[60
+
+
+
+] [61] <include/fig1.pdf, id=513, 819.32478pt x 449.30711pt>
+File: include/fig1.pdf Graphic file (type pdf)
+
+<use include/fig1.pdf>
+Package pdftex.def Info: include/fig1.pdf used on input line 53.
+(pdftex.def)             Requested size: 433.62pt x 237.78883pt.
+ [62 <./include/fig1.pdf>]
+Overfull \hbox (12.20247pt too wide) in paragraph at lines 95--106
+[]\OT1/cmr/m/n/10.95 To un-am-bigu-ously es-tab-lish this claim, we solve the d
+if-fer-en-tial equa-tion $\OMS/cmsy/m/n/10.95 H\OT1/cmr/m/n/10.95 (\OML/cmm/m/i
+t/10.95 x; k[]\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95  \OT1/cmr/m/n/10.95 (\OML
+/cmm/m/it/10.95 x; k[]\OT1/cmr/m/n/10.95 ) =
+ []
+
+[63]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 130.
+
+<include/fig2.pdf, id=586, 514.89232pt x 648.0203pt>
+File: include/fig2.pdf Graphic file (type pdf)
+ <use include/fig2.pdf>
+Package pdftex.def Info: include/fig2.pdf used on input line 131.
+(pdftex.def)             Requested size: 433.62pt x 545.74733pt.
+
+[64] [65 <./include/fig2.pdf>] [66]
+
+LaTeX Warning: Reference `moviedos' on page 67 undefined on input line 194.
+
+<include/fig3.pdf, id=629, 373.9331pt x 345.54565pt>
+File: include/fig3.pdf Graphic file (type pdf)
+ <use include/fig3.pdf>
+Package pdftex.def Info: include/fig3.pdf used on input line 197.
+(pdftex.def)             Requested size: 433.62pt x 400.72777pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<include/spectral/0000.png, id=630, 642.4pt x 481.8pt>
+File: include/spectral/0000.png Graphic file (type png)
+
+<use include/spectral/0000.png>
+Package pdftex.def Info: include/spectral/0000.png used on input line 207.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0010.png, id=631, 642.4pt x 481.8pt>
+File: include/spectral/0010.png Graphic file (type png)
+
+<use include/spectral/0010.png>
+Package pdftex.def Info: include/spectral/0010.png used on input line 208.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0020.png, id=632, 642.4pt x 481.8pt>
+File: include/spectral/0020.png Graphic file (type png)
+
+<use include/spectral/0020.png>
+Package pdftex.def Info: include/spectral/0020.png used on input line 209.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0030.png, id=633, 642.4pt x 481.8pt>
+File: include/spectral/0030.png Graphic file (type png)
+
+<use include/spectral/0030.png>
+Package pdftex.def Info: include/spectral/0030.png used on input line 210.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0040.png, id=634, 642.4pt x 481.8pt>
+File: include/spectral/0040.png Graphic file (type png)
+
+<use include/spectral/0040.png>
+Package pdftex.def Info: include/spectral/0040.png used on input line 211.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0050.png, id=635, 642.4pt x 481.8pt>
+File: include/spectral/0050.png Graphic file (type png)
+
+<use include/spectral/0050.png>
+Package pdftex.def Info: include/spectral/0050.png used on input line 212.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0060.png, id=636, 642.4pt x 481.8pt>
+File: include/spectral/0060.png Graphic file (type png)
+
+<use include/spectral/0060.png>
+Package pdftex.def Info: include/spectral/0060.png used on input line 213.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0070.png, id=637, 642.4pt x 481.8pt>
+File: include/spectral/0070.png Graphic file (type png)
+
+<use include/spectral/0070.png>
+Package pdftex.def Info: include/spectral/0070.png used on input line 214.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0080.png, id=638, 642.4pt x 481.8pt>
+File: include/spectral/0080.png Graphic file (type png)
+
+<use include/spectral/0080.png>
+Package pdftex.def Info: include/spectral/0080.png used on input line 215.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0090.png, id=639, 642.4pt x 481.8pt>
+File: include/spectral/0090.png Graphic file (type png)
+
+<use include/spectral/0090.png>
+Package pdftex.def Info: include/spectral/0090.png used on input line 216.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0100.png, id=640, 642.4pt x 481.8pt>
+File: include/spectral/0100.png Graphic file (type png)
+
+<use include/spectral/0100.png>
+Package pdftex.def Info: include/spectral/0100.png used on input line 217.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0110.png, id=641, 642.4pt x 481.8pt>
+File: include/spectral/0110.png Graphic file (type png)
+
+<use include/spectral/0110.png>
+Package pdftex.def Info: include/spectral/0110.png used on input line 218.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0120.png, id=642, 642.4pt x 481.8pt>
+File: include/spectral/0120.png Graphic file (type png)
+
+<use include/spectral/0120.png>
+Package pdftex.def Info: include/spectral/0120.png used on input line 219.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0130.png, id=643, 642.4pt x 481.8pt>
+File: include/spectral/0130.png Graphic file (type png)
+
+<use include/spectral/0130.png>
+Package pdftex.def Info: include/spectral/0130.png used on input line 220.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+<include/spectral/0140.png, id=644, 642.4pt x 481.8pt>
+File: include/spectral/0140.png Graphic file (type png)
+
+<use include/spectral/0140.png>
+Package pdftex.def Info: include/spectral/0140.png used on input line 221.
+(pdftex.def)             Requested size: 130.08731pt x 97.56396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--222
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[67] <include/fig4.pdf, id=649, 586.3507pt x 545.23769pt>
+File: include/fig4.pdf Graphic file (type pdf)
+
+<use include/fig4.pdf>
+Package pdftex.def Info: include/fig4.pdf used on input line 252.
+(pdftex.def)             Requested size: 433.62pt x 403.21165pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[68]) [69] [70 <./include/fig3.pdf>] [71 <./include/spectral/0000.png> <./inclu
+de/spectral/0010.png> <./include/spectral/0020.png> <./include/spectral/0030.pn
+g> <./include/spectral/0040.png> <./include/spectral/0050.png> <./include/spect
+ral/0060.png> <./include/spectral/0070.png> <./include/spectral/0080.png> <./in
+clude/spectral/0090.png> <./include/spectral/0100.png> <./include/spectral/0110
+.png> <./include/spectral/0120.png> <./include/spectral/0130.png> <./include/sp
+ectral/0140.png>] [72 <./include/fig4.pdf>]
+\openout2 = `chap/chap5.aux'.
+
+ (./chap/chap5.tex
+\hspace {2.225 in} \relax \fontsize {12}{14}\selectfont CHAPTER 5.
+[73
+
+
+
+]) [74]
+Appendix A.
+[75
+
+
+] <chap/kicked.pdf, id=824, page=1, 614.295pt x 794.97pt>
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 1>
+Package pdftex.def Info: chap/kicked.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+ <use chap/kicked.pdf, page 1>
+Package pdftex.def Info: chap/kicked.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 1>
+Package pdftex.def Info: chap/kicked.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+ <use chap/kicked.pdf, page 1>
+Package pdftex.def Info: chap/kicked.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+ [76 <./chap/kicked.pdf>] <chap/kicked.pdf, id=894, page=2, 614.295pt x 794.97p
+t>
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 2>
+Package pdftex.def Info: chap/kicked.pdf, page2 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+ <use chap/kicked.pdf, page 2>
+Package pdftex.def Info: chap/kicked.pdf, page2 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 2>
+Package pdftex.def Info: chap/kicked.pdf, page2 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+ [77 <./chap/kicked.pdf>]
+<chap/kicked.pdf, id=971, page=3, 614.295pt x 794.97pt>
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 3>
+Package pdftex.def Info: chap/kicked.pdf, page3 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+ <use chap/kicked.pdf, page 3>
+Package pdftex.def Info: chap/kicked.pdf, page3 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 3>
+Package pdftex.def Info: chap/kicked.pdf, page3 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+ [78 <./chap/kicked.pdf>]
+<chap/kicked.pdf, id=1014, page=4, 614.295pt x 794.97pt>
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 4>
+Package pdftex.def Info: chap/kicked.pdf, page4 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+ <use chap/kicked.pdf, page 4>
+Package pdftex.def Info: chap/kicked.pdf, page4 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 4>
+Package pdftex.def Info: chap/kicked.pdf, page4 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+ [79 <./chap/kicked.pdf>]
+<chap/kicked.pdf, id=1033, page=5, 614.295pt x 794.97pt>
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 5>
+Package pdftex.def Info: chap/kicked.pdf, page5 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+ <use chap/kicked.pdf, page 5>
+Package pdftex.def Info: chap/kicked.pdf, page5 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+File: chap/kicked.pdf Graphic file (type pdf)
+
+<use chap/kicked.pdf, page 5>
+Package pdftex.def Info: chap/kicked.pdf, page5 used on input line 176.
+(pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
+ [80 <./chap/kicked.pdf>]
+<chap/pra.pdf, id=1039, page=1, 609.81427pt x 813.0375pt>
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 1>
+Package pdftex.def Info: chap/pra.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+ <use chap/pra.pdf, page 1>
+Package pdftex.def Info: chap/pra.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 1>
+Package pdftex.def Info: chap/pra.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+ <use chap/pra.pdf, page 1>
+Package pdftex.def Info: chap/pra.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+ [81 <./chap/pra.pdf>]
+<chap/pra.pdf, id=1067, page=2, 609.81427pt x 813.0375pt>
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 2>
+Package pdftex.def Info: chap/pra.pdf, page2 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+ <use chap/pra.pdf, page 2>
+Package pdftex.def Info: chap/pra.pdf, page2 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 2>
+Package pdftex.def Info: chap/pra.pdf, page2 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+ [82 <./chap/pra.pdf>]
+<chap/pra.pdf, id=1082, page=3, 609.81427pt x 813.0375pt>
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 3>
+Package pdftex.def Info: chap/pra.pdf, page3 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+ <use chap/pra.pdf, page 3>
+Package pdftex.def Info: chap/pra.pdf, page3 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 3>
+Package pdftex.def Info: chap/pra.pdf, page3 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+ [83 <./chap/pra.pdf>]
+<chap/pra.pdf, id=1087, page=4, 609.81427pt x 813.0375pt>
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 4>
+Package pdftex.def Info: chap/pra.pdf, page4 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+ <use chap/pra.pdf, page 4>
+Package pdftex.def Info: chap/pra.pdf, page4 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 4>
+Package pdftex.def Info: chap/pra.pdf, page4 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+ [84 <./chap/pra.pdf>]
+<chap/pra.pdf, id=1100, page=5, 609.81427pt x 813.0375pt>
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 5>
+Package pdftex.def Info: chap/pra.pdf, page5 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+ <use chap/pra.pdf, page 5>
+Package pdftex.def Info: chap/pra.pdf, page5 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 5>
+Package pdftex.def Info: chap/pra.pdf, page5 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+ [85 <./chap/pra.pdf>]
+<chap/pra.pdf, id=1104, page=6, 609.81427pt x 813.0375pt>
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 6>
+Package pdftex.def Info: chap/pra.pdf, page6 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+ <use chap/pra.pdf, page 6>
+Package pdftex.def Info: chap/pra.pdf, page6 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+File: chap/pra.pdf Graphic file (type pdf)
+
+<use chap/pra.pdf, page 6>
+Package pdftex.def Info: chap/pra.pdf, page6 used on input line 177.
+(pdftex.def)             Requested size: 518.34457pt x 691.08514pt.
+ [86 <./chap/pra.pdf>] (./dissertation.bbl
+Appendix B.
+[87
+
+]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+ [88] [89]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+ [90]
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+ [91]) [92]
+
+======================== Attention ===============================
+
+The signature lines are different for each College/School of
+George Mason University.
+
+The current signature page is set according to the requirements
+of College of Sciences. Students of other colleges/schools may 
+need to manipulate the "signaturepage" section of the 
+gmudissertation.sty file in order for the signature page to be 
+formatted correctly.
+
+==================================================================
+
+[93] (./dissertation.aux (./chap/ack.aux) (./chap/symbols.aux)
+(./chap/chap1.aux) (./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux)
+(./chap/chap5.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4685 strings out of 495059
+ 64594 string characters out of 3182031
+ 129780 words of memory out of 3000000
+ 7653 multiletter control sequences out of 15000+200000
+ 18041 words of font info for 71 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,19n,49p,1514b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/rsfs/rsfs7.pfb>
+Output written on dissertation.pdf (109 pages, 4740368 bytes).
+PDF statistics:
+ 1192 PDF objects out of 1200 (max. 8388607)
+ 842 compressed objects within 9 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+

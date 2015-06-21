@@ -1,0 +1,35 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: proposal_pres.aux
+The style file: aip.bst
+Database file #1: topological.bib
+Database file #2: prox.bib
+Repeated entry---line 2 of file prox.bib
+ : @article{gate
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 43 of file prox.bib
+ : @article{rmp
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 214 of file prox.bib
+ : @article{zhao
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 271 of file prox.bib
+ : @article{tanaka
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 327 of file prox.bib
+ : @article{stan
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 341 of file prox.bib
+ : @article{toku
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 461 of file prox.bib
+ : @article{esch
+ :              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "fanyang"
+Warning--I didn't find a database entry for "ryazanov_coupling_2001"
+(There were 7 error messages)

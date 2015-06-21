@@ -1,0 +1,159 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chap/ack.aux
+A level-1 auxiliary file: chap/symbols.aux
+A level-1 auxiliary file: chap/chap1.aux
+A level-1 auxiliary file: chap/chap2.aux
+A level-1 auxiliary file: chap/chap3.aux
+A level-1 auxiliary file: chap/chap4.aux
+A level-1 auxiliary file: chap/chap5.aux
+The style file: aip.bst
+Database file #1: dissertation.bib
+Warning--entry type for "footnote1" isn't style-file defined
+--line 1673 of file dissertation.bib
+Warning--entry type for "footnote2" isn't style-file defined
+--line 1677 of file dissertation.bib
+Warning--entry type for "LO" isn't style-file defined
+--line 1683 of file dissertation.bib
+Repeated entry---line 1711 of file dissertation.bib
+ : @article{moore_extraordinary_2012
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1754 of file dissertation.bib
+ : @article{hasan_colloquium:_2010
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1963 of file dissertation.bib
+ : @article{fu_superconducting_2008
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1995 of file dissertation.bib
+ : @article{qi_topological_2011
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2095 of file dissertation.bib
+ : @article{williams_unconventional_2012
+ :                                      ,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 2126 of file dissertation.bib
+ : @article
+ :         {liu_magnetic_2009,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2219 of file dissertation.bib
+ : @article{fu_topological_2007
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2235 of file dissertation.bib
+ : @article{fu_topological_2007-1
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2291 of file dissertation.bib
+ : @article{hsieh_observation_2009
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2347 of file dissertation.bib
+ : @article{seo_transmission_2010
+ :                               ,
+I'm skipping whatever remains of this entry
+Database file #2: prox.bib
+Repeated entry---line 2 of file prox.bib
+ : @article{gate
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 43 of file prox.bib
+ : @article{rmp
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 214 of file prox.bib
+ : @article{zhao
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 271 of file prox.bib
+ : @article{tanaka
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 327 of file prox.bib
+ : @article{stan
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 341 of file prox.bib
+ : @article{toku
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 461 of file prox.bib
+ : @article{esch
+ :              ,
+I'm skipping whatever remains of this entry
+Database file #3: intro.bib
+Repeated entry---line 57 of file intro.bib
+ : @article{cheng_landau_2010
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 73 of file intro.bib
+ : @article{hsieh_observation_2009
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 89 of file intro.bib
+ : @article{yazyev_spin_2010
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 121 of file intro.bib
+ : @article{moore_extraordinary_2012
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 131 of file intro.bib
+ : @article{seo_transmission_2010
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 151 of file intro.bib
+ : @article{seradjeh_exciton_2009
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 183 of file intro.bib
+ : @article{analytis_bulk_2010
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 216 of file intro.bib
+ : @article{williams_unconventional_2012
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 255 of file intro.bib
+ : @article{lu_massive_2010
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 271 of file intro.bib
+ : @article{hasan_colloquium:_2010
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 288 of file intro.bib
+ : @article{fu_superconducting_2008
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 304 of file intro.bib
+ : @article{burkov_spin_2010
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 320 of file intro.bib
+ : @article{qi_topological_2011
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 336 of file intro.bib
+ : @article{linder_unconventional_2010
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 352 of file intro.bib
+ : @article{liu_magnetic_2009
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 384 of file intro.bib
+ : @article{peng_aharonov-bohm_2010
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 468 of file intro.bib
+ : @article{fu_topological_2007
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 500 of file intro.bib
+ : @article{fu_topological_2007-1
+ :                               ,
+I'm skipping whatever remains of this entry
+(There were 35 error messages)

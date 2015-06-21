@@ -1,0 +1,996 @@
+\documentclass[12pt,twocolumn]{article} 
+\usepackage[utf8]{inputenc} 
+\usepackage[margin=.75in,nohead,nofoot]{geometry}
+\usepackage{graphicx} 
+\usepackage{epstopdf} 
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsmath}
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+\def\avg#1{\langle#1\rangle}
+\def\v#1{\mathbf{#1}}
+\def\Re {\mbox{Re}}
+\def\Im {\mbox{Im}}
+\def\tr{\mbox{tr}}
+\def\nn{\nonumber}
+\def\pp{\parallel}
+\def\ket#1{\vert #1 \rangle}
+\def\bra#1{\langle #1 \vert}
+\def\me#1#2#3{\langle #1 \vert #2 \vert #3 \rangle}
+\def\Br{\mathbf{r}}
+
+\newcommand{\kp}{k_{+}}
+\newcommand{\ki}{k_{-}}
+\newcommand{\idz}{i\partial_z}
+\newcommand{\kperp}{\mathbf{k}_\parallel}
+
+
+\linespread{1.1}
+
+\title{Mesoscopic studies of Topological Insulators and Superconductors\\Mahmoud Lababidi}
+\author{Mahmoud Lababidi}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Overview/Forward}
+In this proposal I will have four basic parts that break down the why, how and what I propose to do in my research for my thesis. I begin by presenting a brief introduction to topological insulators which can be skipped for brevity if one is already familiar with the subject. This introduction will not be as detailed as many papers on the subject but should suffice for understanding the proposed actions in this letter. Then I will highlight some novel and interesting physics that have been spurred from the TI. This is simply to motivate the projects that I have and will work on. Next, I will present work already completed and in progress. Lastly, I will present the next projects that I aim to complete towards my research. 
+
+
+\subsection*{Introduction/Background}
+Topological Insulators (TIs) are a new form of matter that have robust conducting metallic surface states while the bulk is an insulator. The surface is so vastly different from the bulk, that it can be seen as a playground of new properties never seen before. One such novel property is that the surface is host to Dirac Fermions which behave relativistically and massless-like. Such particle behavior was predicted by Paul Dirac. The first experiment that demonstrated this prediction was done on graphene, a very similar cousin to the TI. These particles are identified as  Dirac Fermions because they obey the Dirac equation which models relativistic (near speed of light) particles. These massless relativistic Fermions, demonstrate a direct linear relationship between the energy (E) and their quantized momentum (k), $E=\pm\hbar v k$. This peculiar energy relationship is uncommon in  materials. 
+
+TIs have gained much notoriety for a variety of new physics. Such physics include the proposal to generate Majorana particles, which are non-Abelian, through the use of superconductors in proximity; interesting conductance on the surface due to the Dirac-like Hamiltonian and spin (eg Klein Tunneling); and the possibility of new topological phases of materials.
+
+
+Recently discovered three dimensional topological band insulators \cite{fu07,moore,roy}, such as Bi$_{1-x}$Sb$_x$ \cite{Hsieh2008} and Bi$_2$Se$_3$, Sb$_2$Te$_3$ \cite{Xia09,zhang2009,Chen09}, are spin-orbit coupled crystal solids with a bulk gap but protected gapless surface states. The low energy excitations at the surface are helical Dirac fermions, i.e., their spin and momentum are entangled (locked) \cite{Hsieh2009}. The charge and spin transport on the surface of a topological insulator
+are intrinsically coupled \cite{burkov}.
+This makes these materials a promising new platform for spintronics. In addition, heterostructures involving topological insulator, superconductor, and/or ferromagnet have been predicted to show a remarkable array of novel spectral and transport properties (for review
+see Ref. \cite{today,rmp,Qi-zhang-rev}). 
+
+
+Fu and Kane showed that 
+at the interface between a three-dimensional topological band insulator  (TI) and an 
+$s$-wave superconductor (S) forms a remarkable two-dimensional non-Abelian superconductor \cite{f-k}.
+It hosts Majorana zero modes at vortex cores, as in a 
+$p_x+ip_y$ superconductor \cite{r-g}, but respects time-reversal symmetry. 
+As argued in Ref. \cite{f-k}, the presence of superconductor induces a pairing interaction
+between the helical Dirac fermions at the surface of the topological insulator,
+and gaps out the surface spectrum. Then, the interface can be modeled elegantly by 
+ a simple matrix Hamiltonian in Nambu space (we follow the convention of Ref. \cite{qi-zhang}),
+\begin{equation}
+H_{FK}(\mathbf{k})=\left(
+\begin{array}{cc}
+h_s(\mathbf{k})  &  i\sigma_y  \Delta_s \\
+-i\sigma_y \Delta_s^*  &   -h_s^*(-\mathbf{k})
+\end{array}\label{fkmodel}
+\right),
+\end{equation}
+where $\mathbf{k}=(k_x,k_y)$ is the two-dimensional momentum in
+the interface plane, $\sigma_i$ are the Pauli matrices,
+$h_s(\mathbf{k})$ is the surface Hamiltonian
+for the topological insulator describing the helical Dirac fermions \cite{qi-zhang,rmp},
+\begin{equation}
+h_s(\mathbf{k})=-\mu_s + v_s (\sigma_xk_y-\sigma_y k_x).
+\end{equation}
+Fu and Kane also proposed to use S-TI proximity structures to
+generate and manipulate Majorana fermions which obey non-Abelian 
+statistics and are potentially useful for fault tolerant quantum 
+computation \cite{f-k}. 
+This proposal and a few others that followed based on 
+superconductor-semiconductor heterostructures \cite{roman,maryland,jason,mao1,mao2} have revived
+the interest in superconducting proximity effect involving insulating/semiconducting 
+materials with spin-orbit coupling. More complex S-TI proximity structures
+with ferromagnets \cite{yu,jacF} or unconventional superconductors \cite{jacU} 
+have been investigated.
+
+Experiments are beginning to realize various S-TI proximity structures \cite{sca,march}.
+In light of these developments, it is desirable to
+understand to what extent the effective model $H_{FK}$ holds,
+and what are the values of $(\Delta_s,\mu_s,v_s)$ for given materials. 
+Answering these questions is crucial for future experiments designed to probe
+and manipulate Majorana fermions. As a first step in this
+direction, Stanescu et al considered a microscopic lattice model
+for the TI-S interface \cite{stan}. In this model, TI and S are described by a tight binding 
+Hamiltonian defined on the diamond and hexagonal lattice respectively.
+The two materials are coupled by tunneling term in the Hamiltonian. 
+These authors found that 
+for small $\mathbf{k}$, $H_{FK}(\mathbf{k})$ is valid but its parameters are 
+significantly renormalized by the presence of the superconductor. 
+This is supported by leading order 
+perturbation theory in the weak coupling (tunneling) limit. They also
+discussed the induced $p$-wave correlation within the framework of
+perturbation theory. The $p$-wave correlation has also been noted in 
+an analogous proximity structure in two dimension between
+a quantum spin Hall insulator and a superconductor \cite{ann}.
+
+
+
+\subsection*{Spintronics}
+Electronic or spintronic devices based on topological insulators will almost inevitably involve metal as measurement probes or functioning components \cite{yokoyama09}. This motivates us to study the local spectrum near the interface between a metal (M) and a topological insulator (TI). For a metal-ordinary semiconductor junction with good contact, it is well known that the metallic Bloch states penetrate into the semiconductor as evanescent waves localized at the interface (for energies within the band gap). Such interface states are known as metal induced gap states (MIGS) \cite{heine65,cohen}. They play an important role in controlling the junction properties, e.g., by pinning the semiconductor Fermi level to determine the Schottky barrier height \cite{tersoff}, a key parameter of the junction.
+
+
+
+\clearpage
+\section*{Previous work}
+I have published two papers with my advisor, Erhai Zhao and one accepted paper with Ming Tian (see CV). 
+
+\subsection*{Mott scattering at the interface between a metal and a topological insulator}
+In the first paper, ``Mott scattering at the interface between a metal and a topological insulator", I studied the ability to control the spin of an electron by reflecting it off the surface of a topological insulator (TI). The results of this study show that there is a very strong possibility of using TIs for spintronics. Spintronics uses the electron spin for in information processing. In the paper it was shown that there is a clear ability to cause a spin flip on the electron, depending on the angle of reflection and the energy of the electron. This result is analogous to the classical Brewster's law, which predicts the angle that (spin) polarized light reflects. For example this effect is used in polarized sunglasses where this ability reduces reflection from surfaces such as glass and water.
+
+The local spectrum at the M-TI junction is intimately related to the spin-active scattering of electrons at the M-TI interface. In this paper, we systematically study the evolution of the scattering matrix and the interface spectra
+with the junction transparency and metal Fermi surface parameters. 
+%by exploiting the {\it complex band structure} of topological insulators, which describes the decaying (rather than propagating Bloch wave) solutions of the crystal Hamiltonian.
+The scattering matrix \cite{mrs} we obtain here also forms the basis to investigate the details of the superconducting proximity effect near the superconductor-TI interface \cite{stan}, which was shown by Fu and Kane to host Majorana fermions \cite{majorana}.
+
+The scattering at the M-TI interface differs significantly from its two dimensional analog, the interface between a metal and a quantum spin Hall (QSH) insulator studied by Tokoyama et al \cite{yokoyama09}. They predicted a giant spin rotation angle $\alpha\sim \pi$ and interpreted the enhancement as resonance with the one-dimensional helical edge modes. By contrast, for M-TI interface we predict a critical incident angle at which complete spin flipping occurs and the spin rotation angle jumps by $\pi$. We will explain its origin, {in particular its relation to the surface helical Dirac spectrum}, and discuss its spintronic implications.
+
+
+In this paper Erhai Zhao and I compute the spin-active scattering matrix and the local energy spectrum at the interface between a metal and a three-dimensional  topological band insulator. We show that there exists a critical incident angle at which complete (100\%) spin flip reflection occurs and the spin rotation angle jumps by $\pi$. 
+We discuss the origin of this phenomena, and systematically study the dependence of spin-flip and spin-conserving scattering amplitudes on the interface transparency and metal Fermi surface parameters.
+
+
+The interface spectrum contains a well-defined Dirac cone in the tunneling limit, and smoothly evolves into a continuum of metal induced gap states for good contacts. We also investigate the complex band structure of Bi$_2$Se$_3$.
+
+\section{Introduction}
+
+
+We will first compute the scattering matrix using a $\mathbf{k\cdot p}$ continuum model 
+by matching the envelope wave functions at the M-TI interface. This simple calculation is easy to understand, 
+and it brings out
+the main physics of our problem. Along the way, we will discuss the complex band structure of Bi$_2$Se$_3$,
+ which describes the decaying (rather than propagating Bloch wave) solutions of the crystal Hamiltonian.
+The various caveats of this calculation 
+are then remedied by considering a much more general lattice model. Most importantly, it enables us to 
+track how the scattering matrix and interface spectrum change with interface transparency. It also sheds light on
+the origin of perfect spin-flip scattering at the critical angle.
+We will show that the results obtained from these two complementary methods are consistent with each.
+
+\section{Model Hamiltonian and complex band structure}
+
+We consider Bi$_2$Se$_3$ as a prime example of 3D strong topological insulators. Its low energy $\mathbf{k\cdot p}$ Hamiltonian was obtained by Zhang et al \cite{zhang2009},
+\[
+\hat{H}_{TI}(\v{k})=\epsilon_0(\v{k})\hat{1}+\sum_{\mu=0}^{3}d_\mu(\v{k})\hat{\Gamma}_\mu,
+\]
+where 
+\begin{eqnarray*}
+d_\mu(\v{k})&=&\{M-B_1k^2_z-B_2(k_x^2+k_y^2),\\
+&  &A_2 k_x, A_2 k_y, A_1 k_z\},\\ \epsilon_0(\v{k})&=&C+D_1k_z^2+D_2(k_x^2+k_y^2).\\ 
+\end{eqnarray*}
+The numerical values of $M$, $A$, $B$, $C$, $D$ are given in Ref. 
+\cite{zhang2009}.
+We choose the basis ($\ket{+\uparrow}$, $\ket{+\downarrow}$, $\ket{-\uparrow}$,$\ket{-\downarrow}$), where $\pm$ labels the hybridized $p_z$ orbital with even (odd) parity \cite{zhang2009}. The Gamma matrices are defined as
+$\hat{\Gamma}_0=\hat{\tau}_3\otimes \hat{1}$, $\hat{\Gamma}_i=\hat{\tau}_1\otimes \hat{\sigma}_i$, with
+$\hat{\tau}_i$ ($\hat{\sigma}_i$) being the Pauli matrices in the orbital (spin) space.
+
+In this section, we first adopt a rather artificial model for metals with negligible 
+spin-orbit coupling. It is
+obtained by turning off the spin-orbit interaction (setting $d_\mu=0$ for $\mu$=1,2,3) 
+in $H_{TI}$ and shifting the Fermi level into 
+the conduction band. The result is spin-degenerate two-band Hamiltonian
+\[
+\hat{H}_M(\v{k})=[\epsilon_0(\v{k})-E_F]\hat{1}+d_0(\v{k})\hat{\Gamma}_0.
+\]
+Its band structure, schematically shown in Fig. 1(b), consists of two oppositely dispersing bands 
+(the solid and dash line). $E_F$ is tuned to be much higher than the band crossing point, so
+the scattering properties of low energy electrons near the Fermi surface are 
+insensitive to the band crossing at high energies. This claim will be verified later using a
+more generic model for the metal. A similar model was used in the study of metal-QSH interface \cite{yokoyama09}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{figure}
+\includegraphics[width=3.4in]{geometry.pdf}
+\caption{(a) Scattering geometry at a metal (M)-topological insulator (TI) interface.
+(b) Schematic band structure of the metal (modeled by $\hat{H}_M$) and topological insulator.
+}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Matching the wave functions of two dissimilar 
+materials (such as Au and Bi$_2$Se$_3$) at interface can be solved through the Ben-Daniel 
+and Duke boundary condition \cite{duke,bc},
+\[
+\hat{\Phi}_M=\hat{\Phi}_{TI}, \;\;\; \hat{v}_M \hat{\Phi}_M = \hat{v}_{TI}\hat{\Phi}_{TI}.
+\]
+Here $\hat{\Phi}_i$ is the four-component wave function, and 
+the velocity matrix $\hat{v}_{i}=\partial \hat{H}_i/\partial k_z$, $i\in \{M, TI\}$. 
+Such boundary condition assumes good atomic contact between two materials.
+
+Using {\it complex band structures} , pioneered by Kohn \cite{kohn59}, Blount \cite{blount62}, 
+and Heine \cite{heine63} et al, we solve for the wave functions whose energies lie within the bang gap.
+The main idea is to allow the crystal momentum to be complex and analytically continue
+$H_{TI}(\v{k})$ to the complex $\v{k}$ plane. 
+While the extended Bloch waves are the eigen states of $H_{TI}(\v{k})$ for real $\v{k}$, 
+eigen functions of $H_{TI}(\v{k})$ for complex $\v{k}$ describe localized states. Together they
+form a complete basis to describe crystals of finite dimension. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=1.7in]{f2.pdf}\includegraphics[width=1.7in]{f4.pdf}
+\caption{The complex band structure
+of topological insulator described by $\hat{H}_{TI}(\v{k})$ 
+for $k_y=0$, $k_x=0.02$ (left) and $0.04$ (right). $E$ is measured in eV, and $k$ in $\AA^{-1}$.
+Subgap states with complex $k_z$ represent evanescent waves. 
+The topology of  real lines \cite{heine63}  changes as $k_x$ is increased.  
+}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+In our scattering problem, we have to find all eigen states of $H_{TI}(\v{k})$ with energy $E$ and 
+wave vector $\v{k}=(k_x,k_y,\tilde{k}_z)$, where $k_x$ and $k_y$ are given and real, but $\tilde{k}_z$ is 
+complex and unknown. For a general $\mathbf{k\cdot p}$ Hamiltonian such as $\hat{H}_{TI}$, 
+we follow Chang and Schulman \cite{chang82} to rewrite it as
+\[
+\hat{H}_{TI}=\hat{h}_0(k_x,k_y)+\hat{h}_1 \tilde{k}_z+\hat{h}_2\tilde{k}^2_z,
+\]
+where $\hat{h}_1=A_1\hat{\Gamma}_3$, and $\hat{h}_2=-B_1\hat{\Gamma}_0$. 
+Then the eigen equation $(\hat{H}_{TI}-E\hat{1})\hat{\phi}=0$ can be reorganized into an 
+eigen value problem for $\tilde{k}_z$, which in turn also gives us the evanescent wave functions in the bulk gapped TI,
+
+\[
+\hat{\Phi}_{TI}=\sum_{\nu} t_\nu e^{i\tilde{k}^\nu_z z} \hat{\phi}_\nu.
+\]
+
+\section{Scattering matrix from wave-function matching} 
+
+To set the stage for discussing scattering off a topological insulator, it is instructive to recall the generic features of elastic scattering of electrons by a heavy ion with spin-orbit interaction, which was solved by Mott, and known as {\it Mott scattering}. 
+%It is being used, for example, to measure the spin polarization of photo electrons in spin-resolved ARPES. 
+% Spin-orbital coupling amounts to a momentum dependent magnetic field $\mathbf{B}(\mathbf{k})$, which causes the spin of incident electron to precess. 
+The scattering matrix has the general form \cite{mott}
+\[
+\hat{S}_{Mott}=u\hat{1}+w\hat{\mathbf{\sigma}}\cdot (\mathbf{k}_{i}\times \mathbf{k}_{o}),
+\]
+where $\mathbf{k}_{i}$ and $\mathbf{k}_{o}$ are the incident and outgoing momentum respectively, $\hat{\mathbf{\sigma}}$ is the Pauli matrix, and $u,w$ depend on the scattering angle. It is customary to
+define the scattering matrix as 
+\[
+\hat{S}(\v{k})=\left(
+\begin{array}{ll}
+  g & \bar{f}   \\
+  f & \bar{g}
+  \end{array}
+\right),
+\]
+where the spin-flip amplitude is $f=S_{21}$, and spin-conserving amplitude is $g=S_{11}$. 
+Both $f$ and $g$ are complex numbers, their relative phase defines the {\it spin rotation angle} $\alpha=\mathrm{Arg}(g^*f)$ and normalized/unitary as $|g|^2+|f|^2=1$. 
+
+
+Our goal is to find the dependence of the scattering amplitudes $f,g$ on $\v{k}$, or equivalently, on energy $E$ and 
+incident angle $\theta$. 
+The wave function inside the metal ($z<0$) has the form
+\[
+\hat{\Phi}_M=(r_1e^{-ik'_{z} z},r_2e^{-ik'_{z}z},e^{ik_{z}z}+r_3 e^{-ik_{z}z} ,r_4 e^{-ik_{z}z})^{\mathrm{T}},
+\]
+up to the trivial $e^{i(k_x x+k_y y)}$ and renormalization factor.
+Here $k_z=\hat{z}\cdot\v{k}$, and $\{r_i\}$ are the reflection amplitudes. We identify 
+the spin flip amplitude $f=r_4$ and the spin-conserving amplitude $g=r_3$. With $\hat{\Phi}_{M}$ and $\hat{\Phi}_{TI}$, we solve the Ben-Daniel Duke boundary condition at $z=0$ 
+to obtain $r_\nu, t_\nu$ and the scattering matrix $S$. 
+
+Fig. 3 shows the magnitude and phase of $f$ and $g$ versus the incident angle $\theta$ for $E=0.1$eV, with $E_F$ set to be 0.28eV.We see that at a critical angle $\theta_c$, $|g|$ drops to zero and we have perfect (100\%) spin flip reflection and the spin rotation angle $\alpha$ (the relative phase between $f$ and $g$)
+jumps by $\pi$.
+
+In this model we are considering good contacts at which the wave functions of the two materials hybridize strongly thus, surface modes are preempted by MIGS. Indeed, we checked that the corresponding critical 
+transverse momentum $k_\parallel$ depends only weakly on $E$, which conflicts with the accepted linear dispersion of the TI surface mode, $E=\pm A_2k_\parallel$ \cite{zhang2009}. We now switch to a lattice model to systematically study the role of interface transparency and metal Fermi surface parameters ($E_f, k_f, v_f$) on the scattering matrix. 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=2.5in]{scatt.pdf}
+\caption{ The magnitudes (upper panel) and the phases (lower panel) of the spin-flip 
+amplitude $f$ and spin-conserving amplitude $g$ versus the incident angle $\theta$.
+$E=0.1$eV, $E_F$=0.28eV. $|g|^2+|f|^2=1$. Arg($g$) and Arg($f$) 
+are shifted upward by $\pi$ for clarity.}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Interface spectrum and scattering matrix from lattice Green function} 
+
+We consider a simple lattice model for the M-TI junction.
+The topological insulator is modeled by 
+a tight binding Hamiltonian on cubic lattice,
+\begin{eqnarray}
+&\mathcal{H}_R=\sum_{\kp,n}\left\{ 
+\hat{\psi}_{\kp,n}^\dagger (b_1\hat{\Gamma}_0-i\frac{a_1}{2}\hat{\Gamma}_3)  \hat{\psi}_{\kp,n+1}+ h.c. \right. \\
+&+\left. 
+\hat{\psi}_{\kp,n}^\dagger\left[d(\kp)\hat{\Gamma}_0+a_2(\hat{\Gamma}_1\sin k_x +\hat{\Gamma}_2\sin k_y)\right] \hat{\psi}_{\kp,n} \right\} .
+\end{eqnarray}
+Here $\hat{\psi}=(\psi_{+\uparrow},\psi_{+\downarrow},\psi_{-\uparrow},\psi_{-\downarrow})^\mathrm{T}$ is the annihilation operator, $d(\kp)=M-2b_1+2b_2(\cos k_x+\cos k_y-2)$ with $k$ measured in $1/a$. 
+The cubic lattice consists of layers of square lattice stacked in the $z$ direction,
+$n$ is the layer index, and $\kp$ is the momentum in the $xy$ plane.
+The isotropic version of $\mathcal{H}_R$, with $a_1=a_2$, $b_1=b_2$, was 
+studied by Qi et al as a minimal model for 3D topological insulators \cite{qi_field}.
+To mimic Bi$_2$Se$_3$, we set the lattice spacing $a=5.2$\AA, which gives the correct unit cell volume, 
+and $a_i=A_i/a$, $b_i=B_i/a^2$ for $i=1,2$. Although a crude caricature 
+of the real material, $\mathcal{H}_R$ yields the correct gap size and surface dispersion, it also reduces to 
+the continuum  $\mathbf{k\cdot p}$ Hamiltonian $\hat{H}_{TI}$ in the small $k$ limit, 
+aside from the topologically trivial $\epsilon_0(\v{k})$ term.
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+%\includegraphics[width=3.4in]{dos.pdf}
+\includegraphics[width=1.7in]{j1.pdf}\includegraphics[width=1.7in]{j2.pdf}
+\caption{The spectral function $N(E,k_x,k_y=0)$ at the interface of metal and topological insulator. Left: 
+good contact, $J=t_M$, showing the continuum of metal induced gap states. 
+Right: poor contact with low transparency, $J=0.2t_M$, showing well 
+defined Dirac spectrum as on the TI surface. $t_M=0.18eV$, $\mu_M=-4t_M$, $a$ is lattice spacing.}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+As a generic model for metal, we consider a single band tight binding Hamiltonian on cubic lattice,
+\[
+\mathcal{H}_L=\sum_{\kp,n,\sigma}[h({\kp})  n_{\kp,n,\sigma}
+- t_M \phi_{\kp,n,\sigma}^\dagger  \phi_{\kp,n+1,\sigma} + h.c.] 
+\]
+where $h(\kp)=-2t_M(\cos k_x+\cos k_y)-\mu_M$. 
+The Fermi surface parameters of the metal can be varied by tuning $t_M$ and $\mu_M$.
+The metal occupies the left half space, $n\leq 0$, and 
+the TI occupies the right half space $n\geq 1$. The interface domain consists of layer $n=0,1$. 
+The coupling between metal and TI is described by hopping,
+\[
+\mathcal{H}_{LR}=-\sum_{\kp,\ell,\sigma}J_{\ell}\psi^{\dagger}_{\kp,n=1,\ell,\sigma}\phi_{\kp,n=0,\sigma}+h.c.
+\]
+$J_{\ell}$ is the overlap integral between the $p$-orbital $\ell=\pm$ of TI and the $s$-like orbital of metal. For simplicity, we assume $J_{\ell}$ is independent of spin. Then, $J_{+}=-J_{-}=J$. $J$ can be tuned from weak to strong. Small $J$ mimics a large tunneling barrier between M and TI, 
+and large $J$ (comparable to $t_M$ or $B_2$) describes a good contact. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=1.7in]{la1.pdf}\includegraphics[width=1.7in]{la2.pdf}
+\caption{The spin-conserving reflection amplitude $|g|$ and spin rotation angle 
+$\alpha$ versus the incident angle $\theta$ for increasing contact transparency,
+$J/t_M=0.25, 1, 1.5, 2$ (from left to right). $t_M=0.18eV$, $\mu_M=-4t_M$, $E=0.05$eV, $k_y=0$.
+$|f|^2=1-|g|^2$. 
+}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The lattice Green function of the composite system is computed via 
+standard procedure by introducing the inter-layer transfer matrix 
+and the method of interface Green function matching \cite{gf}. 
+Fig. 4 shows two examples of the local spectral function 
+(momentum-resolved density of states) at the interface,
+\[ 
+N(E,\kp)=-\sum_{n=0,1}\mathrm{Im Tr}\hat{\mathcal{G}}(E,\kp)_{n,n}, 
+\]
+where $\hat{\mathcal{G}}(E,\kp)_{n,n'}$ is 
+the local Green function at the interface with $n,n'=0,1$, and  
+the trace is over the spin and orbital space. 
+In the tunneling (weak coupling, small $J$) limit, the interface spectrum includes 
+a sharply defined Dirac cone as on the surface of TI. As $J$ is increased, 
+the linearly dispersing mode becomes ill defined and eventually replaced 
+by a continuum of metal induced gap states.
+
+Once the lattice Green function is known for given incident $E$ and $k_{\parallel}$, 
+the scattering (reflection) matrix can be constructed from $\hat{\mathcal{G}}$ by \cite{gf},
+\[
+\hat{S}(E,\kp)=\hat{\mathcal{G}}(E,\kp)_{0,0}g_M^{-1}(E,\kp)-\hat{1}
+\]
+where $g_M$ is the spin-degenerate bulk Green function of metal. Fig. 5 shows
+the evolution of $|g(\theta)|$ and $\alpha(\theta)$ for increasing $J$, where 
+a level broadening of $E/10$ is used. Most importantly,
+we observe that the existence of a critical angel $\theta_c$, 
+where complete spin-flip occurs and $\alpha$ jumps by $\pi$, is a robust phenomenon. 
+It is independent of the details of the contact, the metal Fermi 
+surface, or other high energy features in the band structure.
+
+To understand the perfect spin flip, we first focus on 
+the tunneling limit, $J\ll t_M$. In this limit, the local spectrum at layer $n=1$ as shown
+in the right panel of Fig. 4 approaches
+the TI surface spectrum, namely the helical Dirac cone. An incident up spin 
+tunneling across the barrier will develop resonance with the helical mode, which is
+a quasi-stationary state with long life time, if its 
+momentum and energy satisfy $k_\parallel=E/A_2$. Moreover, it has to flip its spin, since 
+only down spin can propagate in the $k_x$ direction (suppose $k_y=0$). 
+The $\pi$ jump in the phase shift is also characteristic of the resonance. Indeed,
+we have checked that precisely at $\theta_c$ the resonance criterion, $k_f\sin\theta_c=E/A_2$, 
+is met.
+We also varied $\mu_M$ for fixed $J$ and $t_M$, bigger $\mu_M$ 
+yields a bigger Fermi surface and a smaller $\theta_c$. This is consistent with 
+the resonance criterion above.
+
+As $J$ is increased, the width of the resonance grows and eventually it is replaced by a 
+broad peak (dip) in $|f|$ ($|g|$), but the vanishing of $|g|$ and $\pi$
+shift in $\alpha$ at $\theta_c$ persist to good contacts,
+even though in this limit the interface is flooded by MIGS (left panel of Fig. 4) 
+and bears little resemblance to the Dirac spectrum.
+With all other parameters held fixed, $\theta_c$ increases with $J$. Qualitatively,
+coupling to TI renormalizes the metal spectrum near the interface, producing a smaller effective $k_f$ (hence a larger $\theta_c$) compared to its bulk value. 
+It is remarkable that perfect spin flip at the critical angle persists all
+the way from poor to good contacts. Indeed, the main features observed here for
+for good contacts using the lattice model 
+agree well with the results obtained in previous section by wave function matching. 
+
+\section{discussions}
+
+We now discuss the experimental implications of our results. The M-TI interface spectrum can be measured by 
+ARPES (or scanning tunneling microscope) experiments on metal film coated on a topological insulator.
+Our results also suggest that a topological insulator can serve as a perfect mirror to flip the 
+electron spin in metal. Such spin-active scattering at the M-TI interface may be 
+exploited to make novel spintronic devices. The magnitude of $g$ or $f$
+can be measured by attaching two ferromagnetic leads to a piece of metal in contact with TI, 
+forming a multi-terminal device. 
+One of the ferromagnetic leads produces spin-polarized electrons incident on the M-TI interface at some angle, while 
+the other lead detects the polarization of reflected electron, as in a
+giant magneto-resistance junction. The spin rotation angle $\alpha$ can be measured 
+indirectly by comparing the predicted current-voltage characteristics of M-TI-M 
+or Superconducto-TI-Superconductor junctions, which are sensitive the phase shift $\alpha$. It can also be inferred from 
+the spin transport in a TI-M-TI sandwich, as discussed for QSH insulator in Ref. \cite{yokoyama09}.
+Detailed calculations of the transport properties of these structured,
+using the scattering matrix obtained here, will be subjects of future work.
+
+\clearpage
+\subsection*{Microscopic simulation of superconductor/topological insulator proximity structures}
+In the second paper, ``Microscopic simulation of superconductor/topological insulator proximity structures", we calculated the effect of a superconductor on a TI as well as the effect the TI on the superconductor. A main result was that the low energies in this system are well described by the Fu-Kane model. It was also shown that the surface could potentially host Majorana particles. Majorana particles are fundamentally important because of their Anyon (non-Abelian statistics) behavior which is drastically different from Bosons (such as photons) and Fermions (such as electrons). Such Anyons are also important from a practical point of view because they can provide a means for topological quantum computing, a robust method of quantum computing. These particles are yet to be experimentally found.
+
+
+We present microscopic, self-consistent calculations of the 
+superconducting order parameter and pairing correlations near the 
+interface of an $s$-wave superconductor and
+a three-dimensional topological insulator with spin-orbit coupling.
+%
+We discuss the suppression of the order parameter by the topological 
+insulator and show that the equal-time pair correlation functions
+in the triplet channel, induced by spin-flip scattering at the interface, 
+are of $p_x\pm i p_y$ symmetry.
+%
+We verify that the spectrum at sub-gap energies is well described by
+the Fu-Kane model. The sub-gap modes are viewed as interface states with
+spectral weight penetrating well into the superconductor. 
+We extract the phenomenological 
+parameters of the Fu-Kane model from microscopic calculations, and find they
+are strongly renormalized from the bulk material parameters. This is consistent 
+with previous results of Stanescu et al for a lattice model using perturbation
+theory in the tunneling limit.
+\section{Introduction}
+
+In this work, we consider S-TI proximity structures where 
+S and TI are {\it strongly} coupled to each other, 
+rather than being separated by a tunneling barrier.
+This is the desired, presumably the optimal, configuration to realize the Fu-Kane
+proposal, e.g. to achieve maximum value of $\Delta_s$ in $H_{FK}$ for given
+superconductor. 
+In the strong coupling limit, 
+the modification of superconductivity by the TI becomes important.
+This includes the suppression of the superconducting order parameter,
+the induction of triplet pair correlations by spin-active scattering
+at the interface, and the formation of interface states below the bulk superconducting gap.
+In order to accurately answer questions raised in the preceding paragraph
+for strongly coupled S-TI structures, one has to self-consistently 
+determine the the spatial profile of 
+the order parameter near the interface.
+
+Our work is also motivated by recent experimental discovery that Copper-doped 
+topological insulator Cu$_x$Bi$_2$Se$_3$
+becomes superconducting at a few Kelvins \cite{cu1,cu2,ando}. It 
+seems possible then to combine such superconductors with topological insulator 
+Bi$_2$Se$_3$ to achieve strong proximity coupling. 
+% Using Bi$_2$Se$_3$ and Cu$_x$Bi$_2$Se$_3$ as one of the examples,
+We set up microscopic, continuum models for the S-TI structures and solve the result 
+Bogoliubov-de Gennes (BdG) equation numerically.
+We first compute the superconducting order 
+parameter as a function of the distance
+away from the interface.
+We then verify the validity of the Fu-Kane effective model
+and extract its parameters from the low energy sector of the energy
+spectrum. The emergence
+of $H_{FK}$ will be viewed as the result of the ``inverse proximity effect", namely
+strong modification of superconductivity by the presence of TI.
+This is in contrast to the previous viewpoint of
+pairing between surface Dirac fermions, which is a more proper description
+in the tunneling limit.
+The spectral weight of these low energy modes (with energy below the bulk superconducting gap) 
+are shown explicitly to peak near the interface but penetrate well
+into the superconductor.
+We will also show analytically that the induced triplet pair
+correlations are of $p_x\pm ip_y$ orbital symmetry, and systematically
+study their spatial and momentum dependence.
+Our results connect the phenomenological theory of Fu and Kane \cite{f-k}
+to real materials. Our results for continuum models and strong coupling 
+limit are also complementary to the results of Stanescu et al \cite{stan}
+for lattice models and tunneling limit.
+
+In what follows, we first outline the formulation of the problem and 
+then present the main results. Technical details on numerically solving
+the BdG equation are relegated to the appendix.
+
+\section{Model and Basic equations}
+
+Here, the BdG Hamiltonian
+\begin{equation}
+\hat{H}_{B}=\left( \begin{array}{cccc}
+h_0 -\mu  & \mathbf{d} \cdot \boldsymbol{\sigma}&0&0\\ 
+ \mathbf{d} \cdot \boldsymbol{\sigma} &-h_0 -\mu &0&-\Delta\, i\sigma_y\\ 
+0 &0& \mu -h_0 & \mathbf{d} \cdot \boldsymbol{\sigma}^* \\
+0 &\Delta^{\ast} \, i\sigma_y & \mathbf{d} \cdot \boldsymbol{\sigma}^* & \mu+h_0\\ 
+ \end{array} \right), \label{bdgH} 
+\end{equation}
+and the wave function (dropping the arguments)
+\begin{equation}
+\hat{\phi}_n=(u_{n,1\uparrow}, u_{n,1\downarrow}, u_{n,2\uparrow}, u_{n,2\downarrow}, 
+v_{n,1\uparrow}, v_{n,1\downarrow}, v_{n,2\uparrow}, v_{n,2\downarrow})^\mathrm{T}.
+\end{equation}
+The vector $\mathbf{d}(\mathbf{k}_\parallel,z)$ is defined as
+\begin{equation}
+d_x=A_1(z)k_x,\,\, d_y=A_1(z)k_y,\,\, d_z=A_2(z)(-i\partial_z).
+\end{equation} 
+Other quantities such as $h_0(\mathbf{k}_\parallel,z)$, $\mu(z)$, and $\Delta(z)$ are 
+defined above.
+In terms of the wave functions, the zero temperature gap equation becomes
+\begin{equation}
+\Delta(z) = g(z) \int d \mathbf{k}_\parallel \sum_n' u_{n,2 \uparrow}(\mathbf{k}_\parallel,z) v^*_{n,2\downarrow}(-\mathbf{k}_\parallel,z) ,
+\end{equation}
+where the summation denoted by prime is restricted to $0<\epsilon_n<\omega_D$ with 
+$\omega_D$ being the Debye frequency.
+
+
+Here $k_{\pm}=k_x \pm i k_y $, 
+$M({\bf k})=M-B_1 k_z ^2 - B_2 (k_x^2 + k_y^2)$, and $\hat{I}$ is $4\times 4$
+unit matrix. The numerical values of 
+the parameters are obtained from first principle calculations \cite{zhang,band}, $M=0.28$ eV,
+$A_1=2.2$ eV\AA, $A_2=4.1$ eV\AA, $B_1=10$ eV\AA$^2$, $B_2=56.6 $ eV\AA$^2$.
+We work in basis $\{\ket{1\uparrow}, \ket{1\downarrow},\ket{2\uparrow},\ket{2\downarrow} \}$,
+where 1 (2) labels the $P1_z^+$ ($P2_z^+$) orbital \cite{zhang}. Note that
+we have neglected the unimportant diagonal term $\epsilon_0({\bf k})$ in Ref. \cite{zhang} which 
+only slightly modifies the overall curvature of the band dispersion. We also
+keep the chemical potential $\mu$ as a tuning parameter.
+
+We consider a simple model of superconductor derived from a metallic
+state obtained by turning off the spin-orbit coupling ($A_1=A_2=0$) in
+$H_{TI}$ and tuning the Fermi level well into the conduction band \cite{zhao}. The metal
+Hamiltonian
+\begin{eqnarray}
+H_{M}({\bf k})=\mathrm{diag} [M({\bf k}), M({\bf k}), -M({\bf k}), -M({\bf k})]-E_f \hat{I},
+\end{eqnarray}
+with  $E_f>M$. 
+This mimics electron-doping the topological insulator \cite{cu2} 
+or equivalently electrochemically
+shifting its chemical potential by applying a gate voltage \cite{gate}.
+As shown in Fig. \ref{setup}, 
+the valence band (band 1 with dispersion $M({\bf k})-E_f$) is well below the Fermi level and remains inert as far as 
+superconductivity is concerned.  Next, within the framework of Bardeen-Cooper-Schrieffer
+theory, we assume attractive interaction between
+the electrons in the conduction band (band 2) near the Fermi surface described by the reduced
+ Hamiltonian,
+
+Here $\Delta$ is the 
+superconducting order parameter, $\psi^\dagger_{l\sigma}$ is the electron creation operator for orbital $\l=1,2$ and
+spin $\sigma=\uparrow,\downarrow$. The superconductor is then described by 
+\begin{equation}
+H_S=\sum_{{\bf k},l,\sigma}\psi^\dagger_{l\sigma}({\bf k})H_M({\bf k})_{l\sigma,l\sigma}\psi_{l\sigma}({\bf k})+H_{int}.
+\end{equation}
+Note that $H_S$ and $H_{TI}$ are in the same 
+basis.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3in]{setup.eps}
+\caption{Schematic (not to scale) band diagrams  in a superconductor-topological insulator (S-TI) proximity
+structure. $E_f$ is the Fermi energy of the metal described by $H_M$ measured from the band crossing point. $\mu$ is
+the chemical potential of TI measured from the band gap center. The superconducting gap
+is much smaller than the band gap of TI.
+}\label{setup}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+This Hamiltonian represents a proximity structure consisting 
+of an s-wave superconductor at $z<d$ and a topological insulator at $z>d$ (Fig. \ref{setup}).
+The interface at $z=d$ is assumed to be specular, so the momentum $\mathbf{k_\parallel}=(k_x,k_y)$ 
+parallel to the interface is conserved.
+
+Here $h_0(\mathbf{k}_\parallel, \partial_z)=M -B_1 \partial_z^2 -B_2 k_\parallel^2$, $\mu(z)$ and $A_i(z)$
+are piece-wise constant, 
+\begin{eqnarray}
+\mu(z)&=E_f\theta(d-z)+\mu\theta(z-d),\\
+A_i(z)&=A_i\theta(z-d),\;\;i=1,2
+\end{eqnarray}
+in terms of the step function $\theta$. The order parameter obeys the gap equation
+
+We assume $g(z)=g\theta(d-z)$, the coupling constant $g$ determines the bulk gap.
+
+
+We solve the matrix differential equation \eqref{bdgsimp} by conserving it into an algebraic equation, 
+following the treatment of superconductor-ferromagnet structure by 
+Halterman and Valls \cite{h-v}. The whole S-TI proximity structure is assumed to have 
+finite dimension $L$ in the $z$
+direction. The superconductor occupies the region $0<z<d$,
+while the topological insulator occupies $d<z<L$. Hard wall boundary conditions are enforced at the end points, 
+$z=0$ and $z=L$.  
+The exact boundary conditions at the end points only affect the local physics there, provided 
+that the boundaries are sufficiently far away from the S-TI interface. We expand the wave function
+and order parameter in Fourier series \cite{h-v},
+\begin{eqnarray}
+u_{n,l\sigma}(z) &= \sum_m u_{nm}^{l \sigma}\,\phi_m(z),\label{uexp}\\ 
+v_{n,l\sigma}(z) &= \sum_m v_{nm}^{l \sigma}\, \phi_m(z),\\
+\quad \Delta(z) &= \sum_m \Delta_{m}\, \phi_m(z) , \label{Dexp}\\
+\phi_m(z)&=\sqrt{2/L}\sin(k_m z).
+\end{eqnarray}
+The integer $m=1,2,...,N$ labels the quantized longitudinal (along $z$) momentum $k_m=m\pi/L$. 
+The cutoff $N$ is chosen as \cite{s-v}
+\begin{equation}
+B_1k^2_N=M+E_f+\omega_D. \label{eq-N}
+\end{equation}
+By expansion Eq. \eqref{uexp}-\eqref{Dexp}, the BdG equation
+becomes an $8N \times 8N$ matrix equation. With a reasonable guess of the order parameter profile, 
+the eigen energies and eigen wave functions are obtained by solving the matrix eigen value problem.
+Then a new order parameter profile is computed from the gap equation. The procedure is iterated
+until convergence is achieved.  Relevant technical details can be found
+in the appendix. 
+
+To analyze the spectrum of the system, it is convenient to define the retarded Green's function
+\begin{equation}
+G^R_{l\sigma}(\mathbf{k}_\parallel,z,t)=-i\theta(t)\langle \{\psi_{l\sigma}(\mathbf{k}_\parallel,z,t),
+\psi^\dagger_{l\sigma}(\mathbf{k}_\parallel,z,0)\}\rangle
+\end{equation}
+where the time-dependent field operators are in Heisenberg picture. 
+For given $\kperp$ and $z$, the spectral functions 
+are defined as
+\begin{eqnarray}
+&N_{l\sigma}(\mathbf{k}_\parallel,z,\omega)= -\mathrm{Im}G^R_{l\sigma}(\mathbf{k}_\parallel,z,\omega), \\
+&N(\mathbf{k}_\parallel,z,\omega)=\sum_{l\sigma}N_{l\sigma}(\mathbf{k}_\parallel,z,\omega).
+\end{eqnarray}
+In terms of the wave functions and eigen energies, 
+\begin{equation}
+N_{l\sigma}(\mathbf{k}_\parallel,z,\omega>0)=\sum_n|u_{n,l\sigma}(\mathbf{k}_\parallel,z)|^2\delta(\omega-\epsilon_n). 
+\end{equation}
+We also introduce the equal-time pair correlation functions
+for the conduction electrons 
+\begin{equation}
+F_{\alpha\beta}(\mathbf{k}_\parallel,z)=\langle \psi_{2\alpha}(\mathbf{k}_\parallel,z) \psi_{2\beta}(-\mathbf{k}_\parallel,z)\rangle.\label{pair-corr}
+\end{equation}
+For example, at zero temperature we have
+\begin{eqnarray}
+F_{\uparrow\uparrow}(\mathbf{k}_\parallel,z)=\sum'_n u_{n,2\uparrow}(\mathbf{k}_\parallel,z)
+v^*_{n,2\uparrow}(-\mathbf{k}_\parallel,z),\\
+F_{\downarrow\downarrow}(\mathbf{k}_\parallel,z)=\sum'_n u_{n,2\downarrow}(\mathbf{k}_\parallel,z)
+v^*_{n,2\downarrow}(-\mathbf{k}_\parallel,z).
+\end{eqnarray}
+Triplet components of $F$ will be induced near the S-TI interface by spin-active
+scattering \cite{zhao}.
+
+\section{Results}
+
+
+\subsection{Order Parameter}
+
+First we present the spatial profile of the superconducting order parameter $\Delta(z)$ after the convergence is achieved. 
+The order parameter profile depends weakly on $\mu$, as shown in Fig. \ref{delta-chem} for a superconductor with bulk gap $\sim 5.2$meV. On the other hand the length scale over which $\Delta$ is significantly suppressed does {\it not} scale with $\xi_0$, the zero temperature coherence length of the superconductor. Rather it stays roughly the same, on the order of $30$nm, as $\xi_0$ is varied over one decade from Fig. \ref{delta-cu}
+to Fig. \ref{delta-chem} (note the horizontal axis is $z/L$). 
+
+Lastly we investigated the proximity effect between the same
+superconductor and
+a hypothetical ordinary insulator modeled by $H_{TI}$ with $A_1=A_2=0$
+and the same band gap. The suppression of $\Delta$ by such an 
+ordinary insulator turns out to be very similar, thus the spin-orbit nature of the TI is not a cause for the suppression. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.3in]{delta-cu.eps}
+\caption{The order parameter $\Delta(z)$ near an S-TI interface at $z=d=0.95L$. $L=300$ nm, $\mu$=0, the bulk gap $\Delta_0=$0.6meV. }\label{delta-cu}
+
+\includegraphics[width=3.3in]{dt.eps}
+\caption{The order parameter $\Delta(z)$ near an S-TI interface at $z=d=0.9L$. $L=160$ nm, $\mu$=0, $\Delta_0= 2.4$meV.}
+\label{delta-24}
+
+\includegraphics[width=3.3in]{dtchemi.eps}
+\caption{The order parameter profile for two different chemical potentials of the TI, $\mu=-0.1$eV and $\mu=0.2$eV. $L=160$nm, $\Delta_0= 5.2$meV. }\label{delta-chem}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{The interface mode and the Fu-Kane model}
+Next we analyze the energy spectrum of the system, $\epsilon_n(k_\parallel)$,
+obtained from the BdG calculation. 
+Take the case of $\mu=0$, $L=160$nm, $d=0.9L$, $\Delta_0\sim 5.2$meV as an example.
+Fig. \ref{lev-fk} shows the first several energy levels of the composite
+system versus the transverse momentum $k_\parallel$. There are many continuously
+dispersing modes at energies above the bulk gap. They are the usual Bogoliubov
+quasiparticles for different quantized longitudinal momenta.
+One also sees a series of avoided level crossings.
+At small $k_\parallel$ emerges a well-defined mode below $\Delta_0$. We will 
+identify it as the interface mode first discussed by Fu and Kane \cite{f-k}.
+
+The Fu-Kane model Eq. \eqref{fkmodel} predicts the dispersion 
+\begin{equation}
+E(k)=\sqrt{|\Delta_s|^2+(v_sk \pm\mu_s)^2}.
+\end{equation}
+We fit the very low energy portion of the spectrum to this prediction to
+extract the phenomenological parameters in the Fu-Kane model. The result
+is shown in Fig. \ref{lev-fk}. We find that,
+not surprisingly, $\Delta_s=1.8$meV which is much smaller than $\Delta_0=5.2$meV, and 
+$v_s=2.7$eV$\mathrm{\AA}$ which deviates significantly 
+from $A_2=4.2$eV$\mathrm{\AA}$ predicted for the surface 
+dispersion of TI. Moreover, $\mu_s=7.5$meV despite that the chemical potential
+of TI is $\mu=0$. Therefore, our results show that the values of $(\Delta_s,v_s,\mu_s)$
+are strongly renormalized by the presence of the superconductor. This is consistent 
+with the findings of Stanescu et al for weakly coupled S-TI structures \cite{stan}. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.4in]{levels.eps}
+\caption{The lowest few energy levels $\epsilon_n(k_\parallel)$. 
+$\mu=0$, $L=160$nm, and the bulk superconducting gap $\Delta_0\sim$5.2meV.
+A well-defined interface mode is clearly visible at sub-gap energies.
+Solid lines show a fit to the Fu-Kane model, with $\Delta_s=1.8$meV, 
+$v_s=2.7$eV\AA, and $\mu_s=7.5$meV.
+}\label{lev-fk}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+A variety of chemical potentials are plotted in Fig. \ref{lev-chem} where the subgap mode can be well accounted by the Fu-Kane 
+model with suitable choice of parameters. 
+
+While $\mu_s$ is always different from $\mu$,
+numerically we find it scales linearly with $\mu$. At the same time, 
+$\Delta_s$ and $v_s$ show no strong dependence on $\mu$ for this set of parameters.
+
+To make sure that the sub-gap mode is indeed localized near the interface, 
+We plot in Fig. \ref{sp} the $z$ dependence of the spectral function $N(k_\parallel,z,\omega)$.
+%
+The spectral weight of the sub-gap mode is peaked near the interface and decays over 
+a length scale $\sim \xi_0$ into the superconductor. This result clearly shows
+that for strongly coupled S-TI interfaces, the Fu-Kane model actually describe a
+rather ``fat" interface mode. Note that the spectral weight on the TI side 
+(not shown in the figure) is finite, 
+but it is much smaller in magnitude and decays very fast inside TI. Finally,
+Fig. \ref{dos} shows the local density of states near the interface.
+The interface mode leads to finite density of states below the bulk gap,
+but the spectral weight is very small.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.4in]{disp-mu.eps}
+\caption{The dispersion of the lowest energy level
+for different $\mu$ (in eV). Other parameters
+are the same as in Fig. \ref{lev-fk}, $L=160$nm and $\Delta_0\sim$5.2meV. Fu-Kane model
+well describes the lowest energy mode. As $\mu$ is increased, 
+$\Delta_s$ and $v_s$ stay roughly the same, while $\mu_s$ scales
+linearly with $\mu$.
+}\label{lev-chem}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.4in]{spweight.eps}
+\caption{The spectral function $N(k_\parallel,z,\omega)$ of the lowest 
+energy level, $\omega=E_{min}$, shown in Fig. \ref{lev-chem}. 
+The interface is at $z=0.9L$, $L$=160nm.
+The spectral function oscillates rapidly with $z$, so only its envelope is plotted.
+}\label{sp}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+We have carried out similar analysis for superconductors with larger
+coherence length. Fig. \ref{level-27} shows the evolution of
+the sub-gap mode with $\mu$ for $\Delta_0=2.4$meV. In this case,
+the values of $(\Delta_s,v_s,\mu_s)$ all varies with $\mu$. 
+
+Superconductors with larger $\xi_0$ and smaller $\Delta_0$ are thus more sensitive to changes in $\mu$ and other microscopic details near the interface. The exact values of the effective parameters  in the Fu-Kane model in general depend on such microscopic details.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.4in]{dos.eps}
+\caption{The local density of states $N(E,z)$
+at $z=0.8d$ and $z=0.85d$ (the interface is at $z=0.9d$).
+$\mu=0$, $L=160$nm, and $\Delta_0\sim$5.2meV. The subgap
+states are due to the interface mode. A level broadening
+$\sim 0.01\Delta_0$ is used.
+}\label{dos}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.4in]{spg27.eps}
+\caption{The lowest energy level of an S-TI structure with $L=160$nm,
+$d=0.9L$, $\Delta_0=2.4$meV. $\mu$ is the chemical potential of the TI and
+measured in eV.}\label{level-27}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Triplet pair correlations}
+
+It is well known that in heterostructures of $s$-wave superconductors,
+pairing correlations in other orbital channels, e.g. $p$-wave correlations, 
+will be induced by scattering at the interfaces \cite{esch,tanaka}. For example,
+inversion/reflection symmetry ($z\leftrightarrow -z$) is lost in an S-TI proximity 
+structure, and the appearance of $p$-wave correlations seems natural from
+ partial wave analysis. Moreover, scattering by a topological insulator is 
+spin-active. The spin-orbit coupling inside a TI acts like a momentum-dependent
+magnetic field to flip the electron spin and introduce different phase shifts
+for spin up and down electrons. The scattering matrix has been worked out by us 
+previously \cite{zhao}. Thus, a singlet $s$-wave Cooper pair can be converted into a pair
+of electrons in spin-triplet state at the S-TI interface.
+However, it is important to recall that by assumption attractive interaction only exists
+(or is appreciable) in the $s$-wave channel. There is no binding force
+to sustain a triplet Cooper pair or a triplet superconducting order parameter. 
+%
+Similar (but different) pairing correlations in superconductor-ferromagnet
+hybrid structures have been extensively studied \cite{esch}. 
+The appearance of $p$-wave correlations in S-TI systems
+has been pointed out previously by Stanescu et al using a perturbative analysis \cite{stan}.
+
+We focus on the equal-time pair correlation functions defined in Eq. \eqref{pair-corr}.
+By exploiting the symmetry of the BdG Hamiltonian, Eq. \eqref{symm}, we are able to
+find analytically the orbital structure of the triplet correlation functions. The unitary 
+transformation Eq. \eqref{unit} yields
+\begin{eqnarray}
+u_{2\uparrow}(k_x,k_y)=u_{2\uparrow}(k_\parallel,0)e^{-i\varphi_k/2},\nn \\
+u_{2\downarrow}(k_x,k_y)=u_{2\downarrow}(k_\parallel,0)e^{+i\varphi_k/2},\nn \\
+v_{2\uparrow}(k_x,k_y)=v_{2\uparrow}(k_\parallel,0)e^{+i\varphi_k/2},\nn \\
+v_{2\downarrow}(k_x,k_y)=v_{2\downarrow}(k_\parallel,0)e^{-i\varphi_k/2}. 
+\end{eqnarray}
+Using these relations, we find
+\begin{eqnarray}
+F_{\uparrow\uparrow}(\kperp,z)=F_{\uparrow\uparrow}(k_\parallel,z)e^{-i\varphi_k},\\
+F_{\downarrow\downarrow}(\kperp,z)=F_{\downarrow\downarrow}(k_\parallel,z)e^{+i\varphi_k}.
+\end{eqnarray}
+Namely $F_{\uparrow\uparrow}$ ($F_{\downarrow\downarrow}$) has $p_x-ip_y$ ($p_x+ip_y$) orbital 
+symmetry. Finally, the remaining triplet correlation function
+\begin{equation}
+\langle \psi_{2\uparrow}(\kperp,z) \psi_{2\downarrow} (-\kperp,z)+ \psi_{2\downarrow}(\kperp,z) \psi_{2\uparrow}(-\kperp,z)\rangle
+\end{equation}
+turns out to be zero. Note that the so-called odd-frequency paring correlations 
+\cite{esch,tanaka,trip}, which vanishes in the equal-time limit, 
+are also interesting in S-TI structures, but 
+we will not discuss their behaviors here.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.4in]{pwave.eps}
+\caption{The imaginary part of triplet pair correlation function 
+$F_{\uparrow\uparrow}(k_\parallel,z)$. The S-TI interface is at
+$d=0.9L$. $\mu=0$, $L=160$nm, $\Delta_0=5.2$meV.
+}\label{pw}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+We find that $F_{\uparrow\uparrow}(k_\parallel,z)$ is 
+purely imaginary and identical to $F_{\downarrow\downarrow}(k_\parallel,z)$.
+The results for $\mu=0$, $L=160$nm, $d=0.9L$, $\Delta_0=5.2$meV are plotted
+in Fig. \ref{pw}. $F_{\uparrow\uparrow}$ vanishes at $k_\parallel=0$
+as well as for large $k_\parallel$, namely when $k_\parallel>\sqrt{(E_F+\omega_D+M)/B_2}$.
+This is consistent with lack of pairing in both limits. 
+The behavior of $F_{\uparrow\uparrow}$ for small $k_\parallel$
+is illustrated in Fig. \ref{pw-cu} for $\mu=0$, $L=300$nm, $d=0.95L$, 
+$\Delta_0=0.6$meV. As comparison, we also plotted the singlet
+ pair correlation function 
+\begin{equation}
+F_{\uparrow\downarrow}(\mathbf{k}_\parallel,z)=\sum'_n u_{n,2\uparrow}(\mathbf{k}_\parallel,z)
+v^*_{n,2\downarrow}(-\mathbf{k}_\parallel,z)
+\end{equation}
+which is $s$-wave and purely real.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}
+\includegraphics[width=3.4in]{pw-cu.eps}
+\caption{The imaginary part of 
+$F_{\uparrow\uparrow}(k_\parallel,z)$. $\mu=0$, $L=300$nm, $d=0.95L$, $\Delta_0=0.6$meV.
+As comparison, the data points show the singlet pair correlation function 
+$F_{\uparrow\downarrow}(k_\parallel,z=0.9L)/3$.
+}\label{pw-cu}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Summary and outlook}
+In summary, we have investigated the proximity effect between an $s$-wave superconductor
+and a topological insulator using a microscopic continuum model. 
+Strong coupling between the two materials renders the surface state of TI a less 
+useful concept for this problem.
+Our focus has been on the various modifications to superconductivity by the presence of TI. 
+These include the suppression of the order parameter, the formation of interface modes
+below the bulk superconducting gap, and the induction of triplet pairing correlations.
+It is gratifying to see the Fu-Kane effective model emerges in the low energy sector
+albeit with a set of renormalized parameters. Our results are complementary to
+previous theoretical work on the proximity effect \cite{f-k,stan} and confirm the validity
+of the Fu-Kane model.
+
+We made a few simplifying assumptions in our calculation. The superconductor is described 
+by a two-band model with the valence band well below the Fermi level. Since only 
+electrons near the Fermi surface are relevant for weak coupling superconductivity, we 
+believe our main results are general. As idealizations, the chemical 
+potential, the spin-orbit coupling, and the attractive interaction are assumed to be 
+step functions with a sudden jump at the interface. 
+More elaborate and realistic models can be considered within the framework of BdG equations.
+For example, one can add a tunneling barrier between S and TI, 
+or include a Rashba-type spin-orbit coupling term 
+(due to the gradient of chemical potential) at the interface. We will not 
+pursuit these generalizations here.
+Finally, the approach outlined here can be straightforwardly applied to 
+study non-Abelian superconductivity in other superconductor-semiconductor
+heterostructures where spin-orbit coupling also plays a significant role
+\cite{roman,maryland,jason,mao1,mao2}.
+
+\section{acknowledgements}
+This work is supported by NIST Grant No. 70NANB7H6138 Am 001 
+and ONR Grant No. N00014-09-1-1025A. 
+
+\appendix*
+\section*{Appendix}
+We follow the numerical scheme of Halterman and Valls to solve 
+the matrix BdG equation \cite{h-v}. The wave functions and the order parameter
+are expanded in the orthonormal basis $\{\phi_m(z)\}$, with $m=1,...,N$. For example,
+function $u_{n,1\uparrow}(z)$ is represented by $N$ numbers,
+\begin{eqnarray*}
+(u^{1\uparrow}_{n,1},u^{1\uparrow}_{n,2},...u^{1\uparrow}_{n,m}...,u^{1\uparrow}_{n,N}).
+\end{eqnarray*}
+Accordingly, each term in $\hat{H}_{B}$ is represented
+by a $N\times N$ matrix with the matrix elements given by
+\begin{eqnarray*}
+h_0(\kperp,\partial_z) &\rightarrow \delta_{mm'}(M - B_1 k_m^2 - B_2 k_\parallel^2) \\
+U(z) &\rightarrow E_f E_{mm'} + \mu F_{mm'} \\
+ A_2(z) \partial_z &\rightarrow A_2 G_{mm'}\\
+ A_1(z) k_\pm &\rightarrow A_z k_\pm F_{mm'} \\
+ \Delta &\rightarrow D_{mm'}\equiv \sum_{m''}J_{m,m',m''}\Delta_{m''}
+\end{eqnarray*}
+where 
+\begin{eqnarray*}
+E_{mm'}&=\int_0^{d} \phi_m(z) \, \phi_{m'}(z) dz \\
+F_{mm'}&=\int_d^{L} \phi_m(z) \, \phi_{m'}(z) dz \\
+G_{mm'}&=\int_d^{L} \phi_m(z) \partial_z \phi_{m'}(z) dz\\
+J_{m,m',m''}&=\int_0^{d} \phi_m(z) \, \phi_{m'}(z) \, \phi_{m''}(z) dz
+\end{eqnarray*}
+These integrals can be evaluated analytically. Then the BdG equation becomes
+an $8N\times 8N$ matrix equation. The gap equation can be rewritten as
+\[
+\Delta_{m}=g\int d\kperp \sum'_n \sum_{m',m''} J_{m,m',m''}
+u^{2\uparrow}_{nm'}(\kperp)v^{2\downarrow}_{nm''}(-\kperp)^* 
+\]
+The integral over $\kperp$ is first simplified to an integral over $k_\parallel$
+by the symmetry Eq. \eqref{symm} and then evaluated numerically with high 
+momentum cutoff 
+$\sqrt{(E_F+\omega_D+M)/B_2}$.
+
+
+
+\subsection*{Robustness of single-qubit geometric gate against systematic error}
+The third paper involves a calculation takes a clever approach to manipulate a quantum system and compares it to a traditional approach of quantum control. The paper shows that the new approach is more robust to systematic and random errors than the traditional approach using a quantitative metric called quantum fidelity. Such a result has great implications in quantum control and in turn quantum computing, the holy grail of information science.
+
+\subsection*{Current Work}
+In continuation of my previous work, I have studied superconductors in close proximity to TIs. As stated in the previous section, the implications are vast and many interesting experiments can be performed to understand new physics with such a class of materials. Currently there are three projects that are near completion. The first project is the study of the proximity effect on the surface of the TI and a superconductor. This project differs greatly from the second paper because in the second paper, the primary focus was not directed at the surface but rather, the inner bulk of the TI. Material-wise we model Bi$_2$Se$_3$. One key result from this is the local density of states (LDOS) (figure b.) shows a second smaller bump forming due to the TI, which is an anomalous effect when compared to traditional superconductors (see high peak red plot in figure b.). This second bump is an important signature of a new type of superconductivity that is unconventional. 
+
+The second project is the Josephson $\pi$ junction on the surface of the TI. This setup was predicted to host Majorana particles but no one has performed a realistic, self consistent simulation. The results provide information about the zero-energy Majorana. Figure a.shows the zero-energy crossings that are the signatures of the Majorana. The TI surface, when in contact with a superconductor, can host the elusive Majorana particle. One of the signatures of the Majorana is the zero energy, which can be seen in figure a. where the graph has intersection points at E=0. 
+
+
+The third project involves calculating the conductance of a TI  and superconductor junction where the results differ greatly from the traditional Blonder-Tinkham-Klapwijk theory for conductance. 
+
+\clearpage
+\section*{Future Work}
+Once these projects are complete, there are many interesting directions to go in this world of TIs. Experiments are currently being conducted at many universities to study the many aspects of the TI. Much collaboration is available to present a lot of new physics.
+
+The Jiang research group at Georgia Institute of Technology has conducted a few Andreev spectroscopy experiments in superconductor-TI heterostructures and reached out to us for collaboration to understand some results of their experiments. Additionally, we will study non-equilibrium physics of TIs, by modeling the TIs with an additional driving force, such as a magnetic field, an optical laser or voltage bias. There has been work in achieving a creation of a topological state similar to a TI through the use of similar driving forces. This work can give much insight into the new topological nature of matter. Lastly, I have been in talks with Qiliang Li of the Electrical and Computer Engineering department at GMU about doing calculations on a possible device built from a TI that could be used as a new form of memory. The possibility of this stems from the uncommon current-voltage relationship that the TI has. Such a device would improve efficiency in storage devices such as flash memory and essentially be a new device to complement or even replace silicon.
+\begin{figure}[ht]
+
+\includegraphics[width=2in]{energy_zoom}
+\includegraphics[width=2in]{dos}
+
+\caption{(color electronic version) a. Plotted are energies of S-TI-S Josephson $\pi$ junction on the surface. The zero-energy crossings in the plot represent possible Majorana particle states. b. Plotted is the local density of states of a S-TI-S zero-phase surface as a function of energy and position along the surface. 
+}\label{setup}
+\end{figure}
+
+\end{document}
+
+
+%%% PACKAGES
+%\usepackage{booktabs} % for much better looking tables
+%\usepackage{array} % for better arrays (eg matrices) in maths
+%\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+%\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+%\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+
+
+%\setlength{\parskip}{0pt}
+%\setlength{\parsep}{0pt}
+%\setlength{\headsep}{0pt}
+%\setlength{\topskip}{0pt}
+%\addtolength{\textheight}{00pt}
+%\setlength{\topmargin}{-30pt}
+%\setlength{\topsep}{0pt}
+%\setlength{\partopsep}{0pt}
+
+%\usepackage[compact]{titlesec}
+%\titlespacing{\section}{0pt}{*0}{*0}
+%\titlespacing{\subsection}{0pt}{*0}{*0}
+%\titlespacing{\subsubsection}{0pt}{*0}{*0}

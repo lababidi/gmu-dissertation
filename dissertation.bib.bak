@@ -1,0 +1,2112 @@
+% This file was created with JabRef 2.6.
+% Encoding: MacRoman
+
+@BOOK{mott,
+  title = {The Theory of Atomic Collisions},
+  publisher = {Oxford University Press},
+  year = {1965},
+  author = {N. F. Mott and H. S. Massey},
+  edition = {3rd},
+  owner = {erhai},
+  timestamp = {2010.05.10}
+}
+
+@ARTICLE{detec1,
+  author = {Akhmerov, A. R. and Nilsson, Johan and Beenakker, C. W. J.},
+  title = {{Electrically Detected Interferometry of Majorana Fermions in a Topological
+	Insulator}},
+  journal = {Phys. Rev. Lett.},
+  year = {2009},
+  volume = {102},
+  pages = {216404},
+  number = {21},
+  month = {May},
+  doi = {10.1103/PhysRevLett.102.216404},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{avron,
+  author = {Joseph E. Avron and Daniel Osadchy and Ruedi Seiler},
+  title = {{A Topological Look at the Quantum Hall Effect}},
+  journal = {Physics Today},
+  year = {2003},
+  volume = {56},
+  pages = {38-42},
+  number = {8},
+  doi = {10.1063/1.1611351},
+  publisher = {AIP},
+  url = {http://link.aip.org/link/?PTO/56/38/1}
+}
+
+@ARTICLE{beermp,
+  author = {Beenakker, C. W. J.},
+  title = {{Colloquium: Andreev reflection and Klein tunneling in graphene}},
+  journal = {Rev. Mod. Phys.},
+  year = {2008},
+  volume = {80},
+  pages = {1337--1354},
+  number = {4},
+  month = {Oct},
+  doi = {10.1103/RevModPhys.80.1337},
+  numpages = {17},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{spec,
+  author = {Beenakker, C. W. J.},
+  title = {{Specular Andreev Reflection in Graphene}},
+  journal = {Phys. Rev. Lett.},
+  year = {2006},
+  volume = {97},
+  pages = {067007},
+  number = {6},
+  month = {Aug},
+  doi = {10.1103/PhysRevLett.97.067007},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{duke,
+  author = {BenDaniel, D. J. and Duke, C. B.},
+  title = {{Space-Charge Effects on Electron Tunneling}},
+  journal = {Phys. Rev.},
+  year = {1966},
+  volume = {152},
+  pages = {683--692},
+  number = {2},
+  month = {Dec},
+  doi = {10.1103/PhysRev.152.683},
+  numpages = {9},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Bernevig,
+  author = {Bernevig, B. Andrei and Hughes, Taylor L. and Zhang, Shou-Cheng},
+  title = {{Quantum Spin Hall Effect and Topological Phase Transition in HgTe
+	Quantum Wells}},
+  journal = {Science},
+  year = {2006},
+  volume = {314},
+  pages = {1757-1761},
+  number = {5806},
+  doi = {10.1126/science.1133734},
+  eprint = {http://www.sciencemag.org/cgi/reprint/314/5806/1757.pdf},
+  url = {http://www.sciencemag.org/cgi/content/abstract/314/5806/1757}
+}
+
+@BOOK{blount62,
+  title = {{Solid State Physics}},
+  publisher = {Academic Press},
+  year = {1962},
+  author = {E. I. Blount},
+  volume = {13},
+  pages = {305},
+  owner = {erhai},
+  timestamp = {2010.05.04}
+}
+
+@ARTICLE{burkov,
+  author = {Burkov, A. A. and Hawthorn, D. G.},
+  title = {{Spin and Charge Transport on the Surface of a Topological Insulator}},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {105},
+  pages = {066802},
+  number = {6},
+  month = {Aug},
+  doi = {10.1103/PhysRevLett.105.066802},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Chadov2010,
+  author = {Chadov, Stanislav and Qi, Xiaoliang and Kübler, Jürgen and Fecher,
+	Gerhard H. and Felser, Claudia and Zhang, Shou Cheng},
+  title = {{Tunable multifunctional topological insulators in ternary Heusler
+	compounds}},
+  journal = {Nat Mater},
+  year = {2010},
+  volume = {9},
+  pages = {541--545},
+  number = {7},
+  month = jul,
+  comment = {10.1038/nmat2770},
+  issn = {1476-1122},
+  owner = {erhai},
+  publisher = {Nature Publishing Group},
+  timestamp = {2010.10.15},
+  url = {http://dx.doi.org/10.1038/nmat2770}
+}
+
+@ARTICLE{chang82,
+  author = {Chang, Yia-Chung and Schulman, J. N.},
+  title = {{Complex band structures of crystalline solids: An eigenvalue method}},
+  journal = {Phys. Rev. B},
+  year = {1982},
+  volume = {25},
+  pages = {3975--3986},
+  number = {6},
+  month = {Mar},
+  doi = {10.1103/PhysRevB.25.3975},
+  numpages = {11},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{cui-dope,
+  author = {{Cha}, J.~J. and {Williams}, J.~R. and {Kong}, D. and {Meister},
+	S. and {Peng}, H. and {Bestwick}, A.~J. and {Gallagher}, P. and {Goldhaber-Gordon},
+	D. and {Cui}, Y.},
+  title = {{Magnetic Doping and Kondo Effect in Bi$_2$Se$_3$ Nanoribbons}},
+  journal = {Nano Letters},
+  year = {2010},
+  volume = {10},
+  pages = {1076-1081},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010NanoL..10.1076C},
+  archiveprefix = {arXiv},
+  doi = {10.1021/nl100146n},
+  eprint = {1001.5239},
+  primaryclass = {cond-mat.mtrl-sci}
+}
+
+@ARTICLE{gate,
+  author = {{Checkelsky}, J.~G. and {Hor}, Y.~S. and {Cava}, R.~J. and {Ong},
+	N.~P.},
+  title = {{Surface state conduction observed in voltage-tuned crystals of the
+	topological insulator Bi$_2$Se$_3$}},
+  journal = {ArXiv:1003.3883},
+  year = {2010},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010arXiv1003.3883C},
+  archiveprefix = {arXiv},
+  eprint = {1003.3883},
+  keywords = {Condensed Matter - Mesoscale and Nanoscale Physics}
+}
+
+@ARTICLE{Chen09,
+  author = {Chen, Y. L. and Analytis, J. G. and Chu, J.-H. and Liu, Z. K. and
+	Mo, S.-K. and Qi, X. L. and Zhang, H. J. and Lu, D. H. and Dai, X.
+	and Fang, Z. and Zhang, S. C. and Fisher, I. R. and Hussain, Z. and
+	Shen, Z.-X.},
+  title = {{Experimental Realization of a Three-Dimensional Topological Insulator,
+	Bi$_2$Te$_3$}},
+  journal = {Science},
+  year = {2009},
+  volume = {325},
+  pages = {178-181},
+  number = {5937},
+  doi = {10.1126/science.1173034}
+}
+
+@BOOK{datta,
+  title = {{Electronic transport in mesoscopic systems}},
+  publisher = {Cambridge University Press},
+  year = {1997},
+  author = {Supriyo Datta}
+}
+
+@ARTICLE{ribbon,
+  author = {Desheng Kong and Jason C. Randel and Hailin Peng and Judy J. Cha and Stefan Meister,
+	Keji Lai and Yulin Chen and Zhi-Xun Shen and Hari C. Manoharan and Yi Cui},
+  title = {{Topological Insulator Nanowires and Nanoribbons}},
+  journal = {Nano Letters},
+  year = {2010},
+  volume = {10},
+  page = {329}
+}
+
+@ARTICLE{esch,
+  author = {Eschrig, Matthias },
+  title = {{Scattering problem in nonequilibrium quasiclassical theory of metals
+	and superconductors: General boundary conditions and applications}},
+  journal = {Phys. Rev. B},
+  year = {2009},
+  volume = {80},
+  pages = {134511},
+  number = {13},
+  month = {Oct},
+  doi = {10.1103/PhysRevB.80.134511},
+  numpages = {22},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{joel,
+  author = {Essin, Andrew M. and Moore, Joel E. and Vanderbilt, David },
+  title = {{Magnetoelectric Polarizability and Axion Electrodynamics in Crystalline
+	Insulators}},
+  journal = {Phys. Rev. Lett.},
+  year = {2009},
+  volume = {102},
+  pages = {146805},
+  number = {14},
+  month = {Apr},
+  doi = {10.1103/PhysRevLett.102.146805},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{detec2,
+  author = {Fu, Liang and Kane, C. L.},
+  title = {{Probing Neutral Majorana Fermion Edge Modes with Charge Transport}},
+  journal = {Phys. Rev. Lett.},
+  year = {2009},
+  volume = {102},
+  pages = {216403},
+  number = {21},
+  month = {May},
+  doi = {10.1103/PhysRevLett.102.216403},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{jose,
+  author = {Fu, Liang and Kane, C. L.},
+  title = {{Josephson current and noise at a superconductor/quantum-spin-Hall-insulator/superconductor
+	junction}},
+  journal = {Phys. Rev. B},
+  year = {2009},
+  volume = {79},
+  pages = {161408},
+  number = {16},
+  month = {Apr},
+  doi = {10.1103/PhysRevB.79.161408},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{majorana,
+  author = {Fu, Liang and Kane, C. L.},
+  title = {{Superconducting Proximity Effect and Majorana Fermions at the Surface
+	of a Topological Insulator}},
+  journal = {Phys. Rev. Lett.},
+  year = {2008},
+  volume = {100},
+  pages = {096407},
+  number = {9},
+  month = {Mar},
+  doi = {10.1103/PhysRevLett.100.096407},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{inv,
+  author = {Fu, Liang and Kane, C. L.},
+  title = {{Topological insulators with inversion symmetry}},
+  journal = {Phys. Rev. B},
+  year = {2007},
+  volume = {76},
+  pages = {045302},
+  number = {4},
+  month = {Jul},
+  doi = {10.1103/PhysRevB.76.045302},
+  numpages = {17},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{fu07,
+  author = {Fu, Liang and Kane, C. L. and Mele, E. J.},
+  title = {{Topological Insulators in Three Dimensions}},
+  journal = {Phys. Rev. Lett.},
+  year = {2007},
+  volume = {98},
+  pages = {106803},
+  number = {10},
+  month = {Mar},
+  doi = {10.1103/PhysRevLett.98.106803},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{fu-quad,
+  author = {{Fu}, L.},
+  title = {{Topological Crystalline Insulators}},
+  journal = {ArXiv e-prints},
+  year = {2010},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010arXiv1010.1802F},
+  archiveprefix = {arXiv},
+  eprint = {1010.1802},
+  keywords = {Condensed Matter - Materials Science},
+  primaryclass = {cond-mat.mtrl-sci}
+}
+
+@ARTICLE{franz-resp,
+  author = {Garate, Ion and Franz, M. },
+  title = {{Magnetoelectric response of the time-reversal invariant helical metal}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {81},
+  pages = {172408},
+  number = {17},
+  month = {May},
+  doi = {10.1103/PhysRevB.81.172408},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{garate,
+  author = {Garate, Ion and Franz, M. },
+  title = {{Inverse Spin-Galvanic Effect in the Interface between a Topological
+	Insulator and a Ferromagnet}},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {104},
+  pages = {146802},
+  number = {14},
+  month = {Apr},
+  doi = {10.1103/PhysRevLett.104.146802},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@BOOK{gf,
+  title = {{Theory of single and multiple interfaces}},
+  publisher = {World Scientific},
+  year = {1992},
+  author = {F. Garcia-Moliner and V. R. Velasco},
+  owner = {erhai},
+  timestamp = {2010.05.10}
+}
+
+@ARTICLE{valls,
+  author = {Halterman, Klaus and Valls, Oriol T. and Barsic, Paul H.},
+  title = {{Induced triplet pairing in clean $s$ -wave superconductor/ferromagnet
+	layered structures}},
+  journal = {Phys. Rev. B},
+  year = {2008},
+  volume = {77},
+  pages = {174511},
+  number = {17},
+  month = {May},
+  doi = {10.1103/PhysRevB.77.174511},
+  numpages = {14},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{rmp,
+  author = {{Hasan}, M.~Z. and {Kane}, C.~L.},
+  title = {{Topological Insulators}},
+  journal = {ArXiv:1002.3895},
+  year = {2010},
+  month = feb,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  archiveprefix = {arXiv},
+  eprint = {1002.3895},
+  keywords = {Condensed Matter - Mesoscale and Nanoscale Physics}
+}
+
+@ARTICLE{Heersche2007,
+  author = {Heersche, Hubert B. and Jarillo-Herrero, Pablo and Oostinga, Jeroen
+	B. and Vandersypen, Lieven M. K. and Morpurgo, Alberto F.},
+  title = {{Bipolar supercurrent in graphene}},
+  journal = {Nature},
+  year = {2007},
+  volume = {446},
+  pages = {56--59},
+  number = {7131},
+  month = mar,
+  comment = {10.1038/nature05555},
+  issn = {0028-0836},
+  owner = {erhai},
+  timestamp = {2010.10.23},
+  url = {http://dx.doi.org/10.1038/nature05555}
+}
+
+@ARTICLE{heine65,
+  author = {Heine, Volker },
+  title = {Theory of Surface States},
+  journal = {Phys. Rev.},
+  year = {1965},
+  volume = {138},
+  pages = {A1689--A1696},
+  number = {6A},
+  month = {Jun},
+  doi = {10.1103/PhysRev.138.A1689},
+  numpages = {7},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{heine63,
+  author = {V Heine},
+  title = {{On the General Theory of Surface States and Scattering of Electrons
+	in Solids}},
+  journal = {Proceedings of the Physical Society (London)},
+  year = {1963},
+  volume = {81},
+  pages = {300},
+  number = {2}
+}
+
+@ARTICLE{mn-doped,
+  author = {Hor, Y. S. and Roushan, P. and Beidenkopf, H. and Seo, J. and Qu,
+	D. and Checkelsky, J. G. and Wray, L. A. and Hsieh, D. and Xia, Y.
+	and Xu, S.-Y. and Qian, D. and Hasan, M. Z. and Ong, N. P. and Yazdani,
+	A. and Cava, R. J.},
+  title = {{Development of ferromagnetism in the doped topological insulator
+	Bi$_{2-x}$Mn$_{x}$Te$_{3}$ }},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {81},
+  pages = {195203},
+  number = {19},
+  month = {May},
+  doi = {10.1103/PhysRevB.81.195203},
+  numpages = {7},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{PhysRevLett.104.057001,
+  author = {Hor, Y. S. and Williams, A. J. and Checkelsky, J. G. and Roushan,
+	P. and Seo, J. and Xu, Q. and Zandbergen, H. W. and Yazdani, A. and
+	Ong, N. P. and Cava, R. J.},
+  title = {{Superconductivity in Cu$_x$Bi$_2$Se$_3$$ and its Implications for Pairing
+	in the Undoped Topological Insulator}},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {104},
+  pages = {057001},
+  number = {5},
+  month = {Feb},
+  doi = {10.1103/PhysRevLett.104.057001},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{sp,
+  author = {Hor, Y. S. and Williams, A. J. and Checkelsky, J. G. and Roushan,
+	P. and Seo, J. and Xu, Q. and Zandbergen, H. W. and Yazdani, A. and
+	Ong, N. P. and Cava, R. J.},
+  title = {{Superconductivity in Cu$_{x}$Bi$_{2}$Se$_{3}$ and its Implications for
+	Pairing in the Undoped Topological Insulator}},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {104},
+  pages = {057001},
+  number = {5},
+  month = {Feb},
+  doi = {10.1103/PhysRevLett.104.057001},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{vish,
+  author = {Hosur, Pavan and Ryu, Shinsei and Vishwanath, Ashvin },
+  title = {{Chiral topological insulators, superconductors, and other competing
+	orders in three dimensions}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {81},
+  pages = {045120},
+  number = {4},
+  month = {Jan},
+  doi = {10.1103/PhysRevB.81.045120},
+  numpages = {19},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Hsieh2008,
+  author = {Hsieh, D. and Qian, D. and Wray, L. and Xia, Y. and Hor, Y. S. and
+	Cava, R. J. and Hasan, M. Z.},
+  title = {{A topological Dirac insulator in a quantum spin Hall phase}},
+  journal = {Nature},
+  year = {2008},
+  volume = {452},
+  pages = {970--974},
+  number = {7190},
+  month = apr,
+  comment = {10.1038/nature06843},
+  owner = {erhai},
+  publisher = {Nature Publishing Group},
+  timestamp = {2010.05.10}
+}
+
+@ARTICLE{Hsieh2009,
+  author = {Hsieh, D. and Xia, Y. and Qian, D. and Wray, L. and Dil, J. H. and
+	Meier, F. and Osterwalder, J. and Patthey, L. and Checkelsky, J.
+	G. and Ong, N. P. and Fedorov, A. V. and Lin, H. and Bansil, A. and
+	Grauer, D. and Hor, Y. S. and Cava, R. J. and Hasan, M. Z.},
+  title = {{A tunable topological insulator in the spin helical Dirac transport
+	regime}},
+  journal = {Nature},
+  year = {2009},
+  volume = {460},
+  pages = {1101--1105},
+  number = {7259},
+  month = aug,
+  comment = {10.1038/nature08234},
+  owner = {erhai},
+  publisher = {Macmillan Publishers Limited. All rights reserved},
+  timestamp = {2010.05.10}
+}
+
+@ARTICLE{Hsieh02132009,
+  author = {Hsieh, D. and Xia, Y. and Wray, L. and Qian, D. and Pal, A. and Dil,
+	J. H. and Osterwalder, J. and Meier, F. and Bihlmayer, G. and Kane,
+	C. L. and Hor, Y. S. and Cava, R. J. and Hasan, M. Z.},
+  title = {{Observation of Unconventional Quantum Spin Textures in Topological
+	Insulators}},
+  journal = {Science},
+  year = {2009},
+  volume = {323},
+  pages = {919-922},
+  number = {5916},
+  doi = {10.1126/science.1167733}
+}
+
+@ARTICLE{z2,
+  author = {Kane, C. L. and Mele, E. J.},
+  title = {{$Z_{2}$ Topological Order and the Quantum Spin Hall Effect}},
+  journal = {Phys. Rev. Lett.},
+  year = {2005},
+  volume = {95},
+  pages = {146802},
+  number = {14},
+  month = {Sep},
+  doi = {10.1103/PhysRevLett.95.146802},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Katsnelson2006,
+  author = {Katsnelson, M. I. and Novoselov, K. S. and Geim, A. K.},
+  title = {{Chiral tunnelling and the Klein paradox in graphene}},
+  journal = {Nat Phys},
+  year = {2006},
+  volume = {2},
+  pages = {620--625},
+  number = {9},
+  month = sep,
+  comment = {10.1038/nphys384},
+  issn = {1745-2473},
+  owner = {erhai},
+  timestamp = {2010.10.23},
+  url = {http://dx.doi.org/10.1038/nphys384}
+}
+
+@INPROCEEDINGS{kita,
+  author = {{Kitaev}, A.},
+  title = {{Periodic table for topological insulators and superconductors}},
+  booktitle = {American Institute of Physics Conference Series},
+  year = {2009},
+  editor = {{V.~Lebedev \& M.~Feigel'Man}},
+  volume = {1134},
+  series = {American Institute of Physics Conference Series},
+  pages = {22-30},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009AIPC.1134...22K},
+  archiveprefix = {arXiv},
+  doi = {10.1063/1.3149495},
+  eprint = {0901.2686},
+  keywords = {Quantum phase transitions, Localization effects, Fermions in reduced
+	dimensions, Relativistic wave equations, Matrix theory, Superconducting
+	materials}
+}
+
+@ARTICLE{kohn59,
+  author = {Kohn, W.},
+  title = {{Analytic Properties of Bloch Waves and Wannier Functions}},
+  journal = {Phys. Rev.},
+  year = {1959},
+  volume = {115},
+  pages = {809--821},
+  number = {4},
+  month = {Aug},
+  doi = {10.1103/PhysRev.115.809},
+  numpages = {12},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Konig,
+  author = {Konig, Markus and Wiedmann, Steffen and Brune, Christoph and Roth,
+	Andreas and Buhmann, Hartmut and Molenkamp, Laurens W. and Qi, Xiao-Liang
+	and Zhang, Shou-Cheng},
+  title = {{Quantum Spin Hall Insulator State in HgTe Quantum Wells}},
+  journal = {Science},
+  year = {2007},
+  volume = {318},
+  pages = {766-770},
+  number = {5851},
+  doi = {10.1126/science.1148047}
+}
+
+@article{unpub,
+  author = {Mahmoud Lababidi and Erhai Zhao},
+  title = {{unpublished}}
+}
+
+@ARTICLE{Lin2010,
+  author = {Lin, Hsin and Wray, L. Andrew and Xia, Yuqi and Xu, Suyang and Jia,
+	Shuang and Cava, Robert J. and Bansil, Arun and Hasan, M. Zahid},
+  title = {{Half-Heusler ternary compounds as new multifunctional experimental
+	platforms for topological quantum phenomena}},
+  journal = {Nat Mater},
+  year = {2010},
+  volume = {9},
+  pages = {546--549},
+  number = {7},
+  month = jul,
+  comment = {10.1038/nmat2771},
+  issn = {1476-1122},
+  owner = {erhai},
+  publisher = {Nature Publishing Group},
+  timestamp = {2010.10.15},
+  url = {http://dx.doi.org/10.1038/nmat2771}
+}
+
+@ARTICLE{linder,
+  author = {Linder, Jacob and Tanaka, Yukio and Yokoyama, Takehito and Sudb\o{},
+	Asle and Nagaosa, Naoto },
+  title = {{Interplay between superconductivity and ferromagnetism on a topological
+	insulator}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {81},
+  pages = {184525},
+  number = {18},
+  month = {May},
+  doi = {10.1103/PhysRevB.81.184525},
+  numpages = {11},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{cohen,
+  author = {Louie, Steven G. and Cohen, Marvin L.},
+  title = {{Electronic structure of a metal-semiconductor interface}},
+  journal = {Phys. Rev. B},
+  year = {1976},
+  volume = {13},
+  pages = {2461--2469},
+  number = {6},
+  month = {Mar},
+  doi = {10.1103/PhysRevB.13.2461},
+  numpages = {8},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{mrs,
+  author = {Millis, A. and Rainer, D. and Sauls, J. A.},
+  title = {{Quasiclassical theory of superconductivity near magnetically active
+	interfaces}},
+  journal = {Phys. Rev. B},
+  year = {1988},
+  volume = {38},
+  pages = {4504--4515},
+  number = {7},
+  month = {Sep},
+  doi = {10.1103/PhysRevB.38.4504},
+  numpages = {11},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{mondal,
+  author = {Mondal, S. and Sen, D. and Sengupta, K. and Shankar, R. },
+  title = {{Magnetotransport of Dirac fermions on the surface of a topological
+	insulator}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {82},
+  pages = {045120},
+  number = {4},
+  month = {Jul},
+  doi = {10.1103/PhysRevB.82.045120},
+  numpages = {11},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Moore2010,
+  author = {Moore, Joel E.},
+  title = {{The birth of topological insulators}},
+  journal = {Nature},
+  year = {2010},
+  volume = {464},
+  pages = {194--198},
+  number = {7286},
+  month = mar,
+  comment = {10.1038/nature08916},
+  issn = {0028-0836},
+  owner = {erhai},
+  publisher = {Nature Publishing Group},
+  timestamp = {2010.10.23},
+  url = {http://dx.doi.org/10.1038/nature08916}
+}
+
+@ARTICLE{moore,
+  author = {Moore, J. E. and Balents, L.},
+  title = {{Topological invariants of time-reversal-invariant band structures}},
+  journal = {Phys. Rev. B},
+  year = {2007},
+  volume = {75},
+  pages = {121306},
+  number = {12},
+  month = {Mar},
+  doi = {10.1103/PhysRevB.75.121306},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{non-ab,
+  author = {Nayak, Chetan and Simon, Steven H. and Stern, Ady and Freedman, Michael
+	and Das Sarma, Sankar },
+  title = {{Non-Abelian anyons and topological quantum computation}},
+  journal = {Rev. Mod. Phys.},
+  year = {2008},
+  volume = {80},
+  pages = {1083--1159},
+  number = {3},
+  month = {Sep},
+  doi = {10.1103/RevModPhys.80.1083},
+  numpages = {76},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{graphene,
+  author = {Novoselov, K. S. and Geim, A. K. and Morozov, S. V. and Jiang, D.
+	and Katsnelson, M. I. and Grigorieva, I. V. and Dubonos, S. V. and
+	Firsov, A. A.},
+  title = {{Two-dimensional gas of massless Dirac fermions in graphene}},
+  journal = {Nature},
+  year = {2005},
+  volume = {438},
+  pages = {197--200},
+  number = {7065},
+  month = nov,
+  __markedentry = {[erhai]},
+  comment = {10.1038/nature04233},
+  issn = {0028-0836},
+  owner = {erhai},
+  timestamp = {2010.10.23},
+  url = {http://dx.doi.org/10.1038/nature04233}
+}
+
+@BOOK{qhe,
+  title = {{The Quantum Hall Effect}},
+  publisher = {Springer, New York},
+  year = {1987},
+  author = {R. Prange and S. Girvin}
+}
+
+@ARTICLE{qi_field,
+  author = {Qi, Xiao-Liang and Hughes, Taylor L. and Zhang, Shou-Cheng},
+  title = {{Topological field theory of time-reversal invariant insulators}},
+  journal = {Phys. Rev. B},
+  year = {2008},
+  volume = {78},
+  pages = {195424},
+  number = {19},
+  month = {Nov},
+  doi = {10.1103/PhysRevB.78.195424},
+  numpages = {43},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{mono,
+  author = {Qi, Xiao-Liang and Li, Rundong and Zang, Jiadong and Zhang, Shou-Cheng},
+  title = {{Inducing a Magnetic Monopole with Topological Surface States}},
+  journal = {Science},
+  year = {2009},
+  volume = {323},
+  pages = {1184-1187},
+  number = {5918},
+  doi = {10.1126/science.1167747}
+}
+
+@ARTICLE{today,
+  author = {Xiao-Liang Qi and Shou-Cheng Zhang},
+  title = {{The quantum spin Hall effect and topological insulators}},
+  journal = {Physics Today},
+  year = {2010},
+  volume = {63},
+  pages = {33-38},
+  number = {1},
+  publisher = {AIP}
+}
+
+@ARTICLE{Qi-zhang-rev,
+  author = {{Qi}, {X.-L.} and {Zhang}, {S.-C.}},
+  title = {{Topological insulators and superconductors}},
+  journal = {ArXiv:1008.2026},
+  year = {2010},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010arXiv1008.2026Q},
+  archiveprefix = {arXiv},
+  eprint = {1008.2026},
+  keywords = {Condensed Matter - Mesoscale and Nanoscale Physics, Condensed Matter
+	- Superconductivity},
+  primaryclass = {cond-mat.mes-hall}
+}
+
+@ARTICLE{raghu,
+  author = {Raghu, S. and Chung, Suk Bum and Qi, Xiao-Liang and Zhang, Shou-Cheng
+	},
+  title = {{Collective Modes of a Helical Liquid}},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {104},
+  pages = {116401},
+  number = {11},
+  month = {Mar},
+  doi = {10.1103/PhysRevLett.104.116401},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Rammer,
+  author = {Rammer, J. and Smith, H. },
+  title = {{Quantum field-theoretical methods in transport theory of metals}},
+  journal = {Rev. Mod. Phys.},
+  year = {1986},
+  volume = {58},
+  pages = {323--359},
+  number = {2},
+  month = {Apr},
+  doi = {10.1103/RevModPhys.58.323},
+  numpages = {36},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{RG,
+  author = {Read, N. and Green, Dmitry },
+  title = {{Paired states of fermions in two dimensions with breaking of parity
+	and time-reversal symmetries and the fractional quantum Hall effect}},
+  journal = {Phys. Rev. B},
+  year = {2000},
+  volume = {61},
+  pages = {10267--10297},
+  number = {15},
+  month = {Apr},
+  doi = {10.1103/PhysRevB.61.10267},
+  numpages = {30},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{franz,
+  author = {Rosenberg, G. and Franz, M. },
+  title = {{Witten effect in a crystalline topological insulator}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {82},
+  pages = {035105},
+  number = {3},
+  month = {Jul},
+  doi = {10.1103/PhysRevB.82.035105},
+  numpages = {8},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{roy,
+  author = {Roy, Rahul},
+  title = {{Topological phases and the quantum spin Hall effect in three dimensions}},
+  journal = {Phys. Rev. B},
+  year = {2009},
+  volume = {79},
+  pages = {195322},
+  number = {19},
+  month = {May},
+  doi = {10.1103/PhysRevB.79.195322},
+  numpages = {5},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{ten,
+  author = {Schnyder, Andreas P. and Ryu, Shinsei and Furusaki, Akira and Ludwig,
+	Andreas W. W.},
+  title = {{Classification of topological insulators and superconductors in three
+	spatial dimensions}},
+  journal = {Phys. Rev. B},
+  year = {2008},
+  volume = {78},
+  pages = {195125},
+  number = {19},
+  month = {Nov},
+  doi = {10.1103/PhysRevB.78.195125},
+  numpages = {22},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{film,
+  author = {{Song}, {C.-L.} and {Wang}, {Y.-L.} and {Jiang}, {Y.-P.} and {Zhang},
+	Y. and {Chang}, {C.-Z.} and {Wang}, L. and {He}, K. and {Chen}, X.
+	and {Jia}, {J.-F.} and {Wang}, Y. and {Fang}, Z. and {Dai}, X. and
+	{Xie}, {X.-C.} and {Qi}, {X.-L.} and {Zhang}, {S.-C.} and {Xue},
+	{Q.-K.} and {Ma}, X.},
+  title = {{Topological insulator Bi$_{2}$Se$_{3}$ thin films grown on double-layer
+	graphene by molecular beam epitaxy}},
+  journal = {Applied Physics Letters},
+  year = {2010},
+  volume = {97},
+  pages = {143118},
+  number = {14},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApPhL..97n3118S},
+  archiveprefix = {arXiv},
+  doi = {10.1063/1.3494595},
+  eprint = {1007.0809},
+  primaryclass = {cond-mat.mes-hall}
+}
+
+@ARTICLE{stan,
+  author = {Stanescu, Tudor D. and Sau, Jay D. and Lutchyn, Roman M. and Das
+	Sarma, S. },
+  title = {{Proximity effect at the superconductor--topological insulator interface}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {81},
+  pages = {241310},
+  number = {24},
+  month = {Jun},
+  doi = {10.1103/PhysRevB.81.241310},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{tanaka,
+  author = {Tanaka, Yukio and Yokoyama, Takehito and Nagaosa, Naoto },
+  title = {{Manipulation of the Majorana Fermion, Andreev Reflection, and Josephson
+	Current on Topological Insulators}},
+  journal = {Phys. Rev. Lett.},
+  year = {2009},
+  volume = {103},
+  pages = {107002},
+  number = {10},
+  month = {Sep},
+  doi = {10.1103/PhysRevLett.103.107002},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{pred,
+  author = {Teo, Jeffrey C. Y. and Fu, Liang and Kane, C. L.},
+  title = {{Surface states and topological invariants in three-dimensional topological
+	insulators: Application to Bi$_{1-x}$Sb$_{x}$}},
+  journal = {Phys. Rev. B},
+  year = {2008},
+  volume = {78},
+  pages = {045426},
+  number = {4},
+  month = {Jul},
+  doi = {10.1103/PhysRevB.78.045426},
+  numpages = {15},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{tersoff,
+  author = {Tersoff, J.},
+  title = {{Schottky Barrier Heights and the Continuum of Gap States}},
+  journal = {{Phys. Rev. Lett.}},
+  year = {1984},
+  volume = {52},
+  pages = {465--468},
+  number = {6},
+  month = {Feb},
+  doi = {10.1103/PhysRevLett.52.465},
+  numpages = {3},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{bc,
+  author = {Tokatly, I. V. and Tsibizov, A. G. and Gorbatsevich, A. A.},
+  title = {{Interface electronic states and boundary conditions for envelope
+	functions}},
+  journal = {Phys. Rev. B},
+  year = {2002},
+  volume = {65},
+  pages = {165328},
+  number = {16},
+  month = {Apr},
+  doi = {10.1103/PhysRevB.65.165328},
+  numpages = {10},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{toku,
+  author = {Tokuyasu, T. and Sauls, J. A. and Rainer, D. },
+  title = {{Proximity effect of a ferromagnetic insulator in contact with a superconductor}},
+  journal = {Phys. Rev. B},
+  year = {1988},
+  volume = {38},
+  pages = {8823--8833},
+  number = {13},
+  month = {Nov},
+  doi = {10.1103/PhysRevB.38.8823},
+  numpages = {10},
+  publisher = {American Physical Society}
+}
+
+@BOOK{wen,
+  title = {{Quantum Field Theory of Many-body Systems}},
+  publisher = {Oxford University Press},
+  year = {2004},
+  author = {Xiao-Gang Wen}
+}
+
+@ARTICLE{frank,
+  author = {Wilczek, Frank },
+  title = {{Two applications of axion electrodynamics}},
+  journal = {Phys. Rev. Lett.},
+  year = {1987},
+  volume = {58},
+  pages = {1799--1802},
+  number = {18},
+  month = {May},
+  doi = {10.1103/PhysRevLett.58.1799},
+  numpages = {3},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Wray2010,
+  author = {Wray, L. Andrew and Xu, Su-Yang and Xia, Yuqi and Hor, Yew San and
+	Qian, Dong and Fedorov, Alexei V. and Lin, Hsin and Bansil, Arun
+	and Cava, Robert J. and Hasan, M. Zahid},
+  title = {{Observation of topological order in a superconducting doped topological
+	insulator}},
+  journal = {Nat Phys},
+  year = {2010},
+  volume = {doi:10.1038/nphys1762},
+  month = sep,
+  comment = {10.1038/nphys1762},
+  issn = {1745-2481},
+  owner = {erhai},
+  publisher = {Nature Publishing Group},
+  timestamp = {2010.10.23},
+  url = {http://dx.doi.org/10.1038/nphys1762}
+}
+
+@ARTICLE{Xia09,
+  author = {Xia, Y. and Qian, D. and Hsieh, D. and Wray, L. and Pal, A. and Lin,
+	H. and Bansil, A. and Grauer, D. and Hor, Y. S. and Cava, R. J. and
+	Hasan, M. Z.},
+  title = {{Observation of a large-gap topological-insulator class with a single
+	Dirac cone on the surface}},
+  journal = {Nat Phys},
+  year = {2009},
+  volume = {5},
+  pages = {398--402},
+  number = {6},
+  month = jun,
+  comment = {10.1038/nphys1274},
+  owner = {erhai},
+  publisher = {Nature Publishing Group},
+  timestamp = {2010.05.10}
+}
+
+@ARTICLE{half,
+  author = {Xiao, Di and Yao, Yugui and Feng, Wanxiang and Wen, Jun and Zhu,
+	Wenguang and Chen, Xing-Qiu and Stocks, G. Malcolm and Zhang, Zhenyu
+	},
+  title = {{Half-Heusler Compounds as a New Class of Three-Dimensional Topological
+	Insulators}},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {105},
+  pages = {096404},
+  number = {9},
+  month = {Aug},
+  doi = {10.1103/PhysRevLett.105.096404},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{filmp,
+  author = {Y. Y. Li and others},
+  title = {{Intrinsic Topological Insulator Bi$_2$Te$_3$ Thin Films on Si and Their
+	Thickness Limit}},
+  journal = {Adv. Mater.},
+  year = {2010},
+  volume = {22},
+  pages = {4002}
+}
+
+@ARTICLE{ff-yama,
+  author = {Yokoyama, Takehito and Tanaka, Yukio and Nagaosa, Naoto },
+  title = {{Anomalous magnetoresistance of a two-dimensional ferromagnet/ferromagnet
+	junction on the surface of a topological insulator}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {81},
+  pages = {121401},
+  number = {12},
+  month = {Mar},
+  doi = {10.1103/PhysRevB.81.121401},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{yokoyama09,
+  author = {Yokoyama, Takehito and Tanaka, Yukio and Nagaosa, Naoto},
+  title = {{Giant Spin Rotation in the Junction between a Normal Metal and a
+	Quantum Spin Hall System}},
+  journal = {Phys. Rev. Lett.},
+  year = {2009},
+  volume = {102},
+  pages = {166801},
+  number = {16},
+  month = {Apr},
+  doi = {10.1103/PhysRevLett.102.166801},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{yoko-naga,
+  author = {Yokoyama, Takehito and Zang, Jiadong and Nagaosa, Naoto },
+  title = {{Theoretical study of the dynamics of magnetization on the topological
+	surface}},
+  journal = {Phys. Rev. B},
+  year = {2010},
+  volume = {81},
+  pages = {241410},
+  number = {24},
+  month = {Jun},
+  doi = {10.1103/PhysRevB.81.241410},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{Zhang2009,
+  author = {Zhang, Haijun and Liu, Chao-Xing and Qi, Xiao-Liang and Dai, Xi and
+	Fang, Zhong and Zhang, Shou-Cheng},
+  title = {{Topological insulators in Bi$_2$Se$_3$, Bi$_2$Te$_3$ and Sb$_2$Te$_3$ with a single
+	Dirac cone on the surface}},
+  journal = {Nat Phys},
+  year = {2009},
+  volume = {5},
+  pages = {438--442},
+  comment = {10.1038/nphys1270},
+  owner = {erhai},
+  publisher = {Nature Publishing Group},
+  timestamp = {2010.05.09}
+}
+
+@ARTICLE{scview,
+  author = {Zhang, Shou-Cheng},
+  title = {{Topological states of quantum matter}},
+  journal = {Physics},
+  year = {2008},
+  volume = {1},
+  pages = {6},
+  month = {Jul},
+  eid = {6},
+  doi = {10.1103/Physics.1.6},
+  publisher = {The American Physical Society}
+}
+
+@ARTICLE{non-eq,
+  author = {Zhao, Erhai and L\"ofwander, Tomas and Sauls, J. A.},
+  title = {{Nonequilibrium superconductivity near spin-active interfaces}},
+  journal = {Phys. Rev. B},
+  year = {2004},
+  volume = {70},
+  pages = {134510},
+  number = {13},
+  month = {Oct},
+  doi = {10.1103/PhysRevB.70.134510},
+  numpages = {12},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{pillar,
+  author = {Zhao, Erhai and Sauls, J. A.},
+  title = {{Theory of nonequilibrium spin transport and spin-transfer torque
+	in superconducting-ferromagnetic nanostructures}},
+  journal = {Phys. Rev. B},
+  year = {2008},
+  volume = {78},
+  pages = {174511},
+  number = {17},
+  month = {Nov},
+  doi = {10.1103/PhysRevB.78.174511},
+  numpages = {15},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{spin,
+  author = {Zhao, Erhai and Sauls, J. A.},
+  title = {{Dynamics of Spin Transport in Voltage-Biased Josephson Junctions}},
+  journal = {Phys. Rev. Lett.},
+  year = {2007},
+  volume = {98},
+  pages = {206601},
+  number = {20},
+  month = {May},
+  doi = {10.1103/PhysRevLett.98.206601},
+  numpages = {4},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{zhao,
+  author = {{Zhao}, E. and {Zhang}, C. and {Lababidi}, M.},
+  title = {{Mott scattering at metal-topological insulator interface}},
+  journal = {ArXiv:1005.3064},
+  year = {2010},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010arXiv1005.3064Z},
+  archiveprefix = {arXiv},
+  eprint = {1005.3064},
+  keywords = {Condensed Matter - Mesoscale and Nanoscale Physics, Condensed Matter
+	- Materials Science},
+  primaryclass = {cond-mat.mes-hall}
+}
+
+@MISC{phet,
+  title = {http://phet.colorado.edu/}
+}
+
+@MISC{qob,
+  title = {http://physics.gmu.edu/~pnikolic/QOB/index.html}
+}
+
+@ARTICLE{2012arXiv1202.2323W,
+   author = {{Williams}, J.~R. and {Bestwick}, A.~J. and {Gallagher}, P. and 
+	{Hong}, S.~S. and {Cui}, Y. and {Bleich}, A.~S. and {Analytis}, J.~G. and 
+	{Fisher}, I.~R. and {Goldhaber-Gordon}, D.},
+    title = "{Signatures of Majorana Fermions in Hybrid Superconductor-Topological Insulator Devices}",
+  journal = {eprint arXiv:1202.2323},
+archivePrefix = "arXiv",
+   eprint = {1202.2323},
+ primaryClass = "cond-mat.mes-hall",
+ keywords = {Condensed Matter - Mesoscale and Nanoscale Physics, Condensed Matter - Superconductivity},
+     year = 2012,
+    month = feb,
+   adsurl = {http://adsabs.harvard.edu/abs/2012arXiv1202.2323W},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@article{PhysRevB.84.165120,
+  title = {Superconducting proximity effect and possible evidence for Pearl vortices in a candidate topological insulator},
+  author = {Zhang, Duming and Wang, Jian and DaSilva, Ashley M. and Lee, Joon Sue and Gutierrez, Humberto R. and Chan, Moses H. W. and Jain, Jainendra and Samarth, Nitin},
+  journal = {Phys. Rev. B},
+  volume = {84},
+  issue = {16},
+  pages = {165120},
+  numpages = {8},
+  year = {2011},
+  month = {Oct},
+  doi = {10.1103/PhysRevB.84.165120},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.84.165120},
+  publisher = {American Physical Society}
+}
+
+@article{PhysRevLett.97.067007,
+  title = {Specular Andreev Reflection in Graphene},
+  author = {Beenakker, C. W. J.},
+  journal = {Phys. Rev. Lett.},
+  volume = {97},
+  issue = {6},
+  pages = {067007},
+  numpages = {4},
+  year = {2006},
+  month = {Aug},
+  doi = {10.1103/PhysRevLett.97.067007},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.97.067007},
+  publisher = {American Physical Society}
+}
+
+@article{RevModPhys.80.1337,
+  title = {\textit{Colloquium}      : Andreev reflection and Klein tunneling in graphene},
+  author = {Beenakker, C. W. J.},
+  journal = {Rev. Mod. Phys.},
+  volume = {80},
+  issue = {4},
+  pages = {1337--1354},
+  year = {2008},
+  month = {Oct},
+  doi = {10.1103/RevModPhys.80.1337},
+  url = {http://link.aps.org/doi/10.1103/RevModPhys.80.1337},
+  publisher = {American Physical Society}
+}
+
+@article{PhysRevB.83.184511,
+  title = {Microscopic simulation of superconductor/topological insulator proximity structures},
+  author = {Lababidi, Mahmoud and Zhao, Erhai},
+  journal = {Phys. Rev. B},
+  volume = {83},
+  issue = {18},
+  pages = {184511},
+  numpages = {8},
+  year = {2011},
+  month = {May},
+  doi = {10.1103/PhysRevB.83.184511},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.83.184511},
+  publisher = {American Physical Society}
+}
+
+
+
+@article{Katsnelson:2006fk,
+	Annote = {10.1038/nphys384},
+	Author = {Katsnelson, M. I. and Novoselov, K. S. and Geim, A. K.},
+	Date = {2006/09//print},
+	Date-Added = {2012-06-08 11:04:31 -0400},
+	Date-Modified = {2012-06-08 11:04:31 -0400},
+	Isbn = {1745-2473},
+	Journal = {Nat Phys},
+	L3 = {http://www.nature.com/nphys/journal/v2/n9/suppinfo/nphys384_S1.html},
+	M3 = {10.1038/nphys384},
+	Month = {09},
+	Number = {9},
+	Pages = {620--625},
+	Title = {Chiral tunnelling and the Klein paradox in graphene},
+	Ty = {JOUR},
+	Url = {http://dx.doi.org/10.1038/nphys384},
+	Volume = {2},
+	Year = {2006},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1038/nphys384}}
+
+@article{flat-N,
+	Affiliation = {Low Temperature Laboratory, Aalto University, School of Science and Technology, FI-00076 AALTO, Finland},
+	Author = {Heikkil{\"a}, T. and Volovik, G.},
+	Issn = {0021-3640},
+	Issue = {2},
+	Journal = {JETP Letters},
+	Keyword = {Physics and Astronomy},
+	Pages = {59-65},
+	Publisher = {MAIK Nauka/Interperiodica distributed exclusively by Springer Science+Business Media LLC.},
+	Title = {Dimensional crossover in topological matter: Evolution of the multiple Dirac point in the layered system to the flat band on the surface},
+	Volume = {93},
+	Year = {2011},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1134/S002136401102007X}}
+
+
+
+@article{PhysRevB.84.020501,
+  title = {Topologically protected flat zero-energy surface bands in noncentrosymmetric superconductors},
+  author = {Brydon, P. M. R. and Schnyder, Andreas P. and Timm, Carsten},
+  journal = {Phys. Rev. B},
+  volume = {84},
+  issue = {2},
+  pages = {020501},
+  numpages = {4},
+  year = {2011},
+  month = {Jul},
+  doi = {10.1103/PhysRevB.84.020501},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.84.020501},
+  publisher = {American Physical Society}
+}
+
+@article{hsieh_majorana_2012,
+	title = {Majorana Fermions and Exotic Surface Andreev Bound States in Topological Superconductors: Application to {Cu\_{x}Bi\_{2}Se\_{3}}},
+	volume = {108},
+	shorttitle = {Majorana Fermions and Exotic Surface Andreev Bound States in Topological Superconductors},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.108.107005},
+	doi = {10.1103/PhysRevLett.108.107005},
+	abstract = {The recently discovered superconductor {CuxBi2Se3} is a candidate for three-dimensional time-reversal-invariant topological superconductors, which are predicted to have robust surface Andreev bound states hosting massless Majorana fermions. In this work, we analytically and numerically find the linearly dispersing Majorana fermions at k=0, which smoothly evolve into a new branch of gapless surface Andreev bound states near the Fermi momentum. The latter is a new type of Andreev bound states resulting from both the nontrivial band structure and the odd-parity pairing symmetry. The tunneling spectra of these surface Andreev bound states agree well with a recent point-contact spectroscopy experiment [ S. Sasaki et al. Phys. Rev. Lett. 107 217001 (2011)] and yield additional predictions for low temperature tunneling and photoemission experiments.},
+	number = {10},
+	journal = {Physical Review Letters},
+	author = {Hsieh, Timothy H. and Fu, Liang},
+	month = mar,
+	year = {2012},
+	pages = {107005}
+},
+
+@article{qi_topological_2011,
+	title = {Topological insulators and superconductors},
+	volume = {83},
+	url = {http://link.aps.org/doi/10.1103/RevModPhys.83.1057},
+	doi = {10.1103/RevModPhys.83.1057},
+	abstract = {Topological insulators are new states of quantum matter which cannot be adiabatically connected to conventional insulators and semiconductors. They are characterized by a full insulating gap in the bulk and gapless edge or surface states which are protected by time-reversal symmetry. These topological materials have been theoretically predicted and experimentally observed in a variety of systems, including {HgTe} quantum wells, {BiSb} alloys, and {Bi2Te3} and {Bi2Se3} crystals. Theoretical models, materials properties, and experimental results on two-dimensional and three-dimensional topological insulators are reviewed, and both the topological band theory and the topological field theory are discussed. Topological superconductors have a full pairing gap in the bulk and gapless surface states consisting of Majorana fermions. The theory of topological superconductors is reviewed, in close analogy to the theory of topological insulators.},
+	number = {4},
+	journal = {Reviews of Modern Physics},
+	author = {Qi, {Xiao-Liang} and Zhang, {Shou-Cheng}},
+	month = oct,
+	year = {2011},
+	pages = {1057--1110}
+},
+
+@article{kosztin_free_1998,
+	title = {Free energy of an inhomogeneous superconductor: A wave-function approach},
+	volume = {58},
+	shorttitle = {Free energy of an inhomogeneous superconductor},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.58.9365},
+	doi = {10.1103/PhysRevB.58.9365},
+	abstract = {A method for calculating the free energy of an inhomogeneous superconductor is presented. This method is based on the quasiclassical limit (or Andreev approximation) of the Bogoliubov–de Gennes (or wave function) formulation of the theory of weakly coupled superconductors. The method is applicable to any pure bulk superconductor described by a pair potential with arbitrary spatial dependence, in the presence of supercurrents and external magnetic field. We find that both the local density of states and the free energy density of an inhomogeneous superconductor can be expressed in terms of the diagonal resolvent of the corresponding Andreev Hamiltonian, which obeys the so-called {Gelfand-Dikii} equation. Also, the connection between the well known Eilenberger equation for the quasiclassical Green’s function and the less known {Gelfand-Dikii} equation for the diagonal resolvent of the Andreev Hamiltonian is established. These results are used to construct a general algorithm for calculating the (gauge invariant) gradient expansion of the free energy density of an inhomogeneous superconductor at arbitrary temperatures.},
+	number = {14},
+	journal = {Physical Review B},
+	author = {Kosztin, Ioan and Kos, Šimon and Stone, Michael and Leggett, Anthony J.},
+	month = oct,
+	year = {1998},
+	pages = {9365--9384}
+}
+
+@article{fu_superconducting_2008,
+	title = {Superconducting Proximity Effect and Majorana Fermions at the Surface of a Topological Insulator},
+	volume = {100},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.100.096407},
+	doi = {10.1103/PhysRevLett.100.096407},
+	abstract = {We study the proximity effect between an s-wave superconductor and the surface states of a strong topological insulator. The resulting two-dimensional state resembles a spinless px+ipy superconductor, but does not break time reversal symmetry. This state supports Majorana bound states at vortices. We show that linear junctions between superconductors mediated by the topological insulator form a nonchiral one-dimensional wire for Majorana fermions, and that circuits formed from these junctions provide a method for creating, manipulating, and fusing Majorana bound states.},
+	number = {9},
+	journal = {Physical Review Letters},
+	author = {Fu, Liang and Kane, C. L.},
+	month = mar,
+	year = {2008},
+	pages = {096407}
+}
+
+@article{schnyder_topological_2011,
+	title = {Topological phases and surface flat bands in superconductors without inversion symmetry},
+	volume = {84},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.84.060504},
+	doi = {10.1103/PhysRevB.84.060504},
+	abstract = {We examine different topological phases in three-dimensional noncentrosymmetric superconductors with time-reversal symmetry by using three different types of topological invariants. Due to the bulk boundary correspondence, a nonzero value of any of these topological numbers indicates the appearance of zero-energy Andreev surface states. We find that some of these boundary modes in nodal superconducting phases are dispersionless, i.e., they form a topologically protected flat band. The region where the zero-energy flat band appears in the surface Brillouin zone is determined by the projection of the nodal lines in the bulk onto the surface. These dispersionless Andreev surface bound states have many observable consequences, in particular, a zero-bias conductance peak in tunneling measurements. We also find that in the gapless phase there appear Majorana surface modes at time-reversal invariant momenta which are protected by a Z2 topological invariant.},
+	number = {6},
+	journal = {Physical Review B},
+	author = {Schnyder, Andreas P. and Ryu, Shinsei},
+	year = {2011},
+	pages = {060504}
+}
+
+@article{halterman_characteristic_2011,
+	title = {Characteristic energies, transition temperatures, and switching effects in clean {S{\textbar}N{\textbar}S} graphene nanostructures},
+	volume = {84},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.84.064509},
+	doi = {10.1103/PhysRevB.84.064509},
+	abstract = {We study proximity effects in clean nanoscale superconductor–normal-metal–superconductor {(S∣N∣S)} graphene heterostructures using a self-consistent numerical solution to the continuum Dirac Bogoliubov–de Gennes {(DBdG)} equations. We obtain results for the pair amplitude and the local density of states {(DOS)} as a function of doping and of the geometrical parameters determining the width of the structures. The superconducting correlations are found to penetrate the normal graphene layers even when there is extreme mismatch in the normal and superconducting doping levels, where specular Andreev reflection dominates. The local {DOS} exhibits peculiar features, which we discuss, arising from the Dirac cone dispersion relation and from the interplay between the superconducting and Thouless energy scales. The corresponding characteristic energies emerge in the form of resonant peaks in the local {DOS}, which depend strongly on the doping level, as does the energy gap, which declines sharply as the relative difference in doping between the S and N regions is reduced. We also linearize the {DBdG} equations and develop an essentially analytical method that determines the critical temperature Tc of a {S∣N∣S} nanostructure self-consistently. We find that for S regions that occupy a fraction of the coherence length, Tc can undergo substantial variations as a function of the relative doping. At finite temperatures and by manipulating the doping levels, the self-consistent pair amplitudes reveal dramatic transitions between a superconducting and resistive normal state of the structure. Such behavior suggests the possibility of using the proposed system as a carbon-based superconducting switch, turning superconductivity on or off by tuning the relative doping levels.},
+	number = {6},
+	journal = {Physical Review B},
+	author = {Halterman, Klaus and Valls, Oriol T. and Alidoust, Mohammad},
+	year = {2011},
+	pages = {064509}
+}
+
+@article{hasan_colloquium:_2010,
+	title = {Colloquium: Topological insulators},
+	volume = {82},
+	shorttitle = {Colloquium},
+	url = {http://link.aps.org/doi/10.1103/RevModPhys.82.3045},
+	doi = {10.1103/RevModPhys.82.3045},
+	abstract = {Topological insulators are electronic materials that have a bulk band gap like an ordinary insulator but have protected conducting states on their edge or surface. These states are possible due to the combination of spin-orbit interactions and time-reversal symmetry. The two-dimensional {(2D)} topological insulator is a quantum spin Hall insulator, which is a close cousin of the integer quantum Hall state. A three-dimensional {(3D)} topological insulator supports novel spin-polarized {2D} Dirac fermions on its surface. In this Colloquium the theoretical foundation for topological insulators and superconductors is reviewed and recent experiments are described in which the signatures of topological insulators have been observed. Transport experiments on {HgTe∕CdTe} quantum wells are described that demonstrate the existence of the edge states predicted for the quantum spin Hall insulator. Experiments on {Bi1−xSbx}, {Bi2Se3}, {Bi2Te3}, and {Sb2Te3} are then discussed that establish these materials as {3D} topological insulators and directly probe the topology of their surface states. Exotic states are described that can occur at the surface of a {3D} topological insulator due to an induced energy gap. A magnetic gap leads to a novel quantum Hall state that gives rise to a topological magnetoelectric effect. A superconducting energy gap leads to a state that supports Majorana fermions and may provide a new venue for realizing proposals for topological quantum computation. Prospects for observing these exotic states are also discussed, as well as other potential device applications of topological insulators.},
+	number = {4},
+	journal = {Reviews of Modern Physics},
+	author = {Hasan, M. Z. and Kane, C. L.},
+	month = nov,
+	year = {2010},
+	pages = {3045--3067}
+}
+
+@article{beenakker_search_2013,
+	title = {Search for Majorana Fermions in Superconductors},
+	volume = {4},
+	url = {http://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-030212-184337},
+	doi = {10.1146/annurev-conmatphys-030212-184337},
+	number = {1},
+	journal = {Annual Review of Condensed Matter Physics},
+	author = {Beenakker, Carlo J.},
+	year = {2013},
+	pages = {1}
+}
+
+
+
+@article{SacACpAC:2011vn,
+	Annote = {10.1038/ncomms1586},
+	Author = {Sac\'ep\'e, Benjamin and Oostinga, Jeroen B. and Li, Jian and Ubaldini, Alberto and Couto, Nuno J. G. and Giannini, Enrico and Morpurgo, Alberto F.},
+	Date = {2011/12/06/online},
+	Date-Added = {2012-06-08 11:26:56 -0400},
+	Date-Modified = {2012-06-08 11:26:56 -0400},
+	Day = {06},
+	Journal = {Nat Commun},
+	L3 = {http://www.nature.com/ncomms/journal/v2/n12/suppinfo/ncomms1586_S1.html},
+	M3 = {10.1038/ncomms1586},
+	Month = {12},
+	Publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+	Sp = {575},
+	Title = {Gate-tuned normal and superconducting transport at the surface of a topological insulator},
+	Ty = {JOUR},
+	Url = {http://dx.doi.org/10.1038/ncomms1586},
+	Volume = {2},
+	Year = {2011},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1038/ncomms1586}}
+
+@article{PhysRevLett.90.087003,
+  title = {Andreev Level Qubit},
+  author = {Zazunov, A. and Shumeiko, V. S. and Bratus', E. N. and Lantz, J. and Wendin, G.},
+  journal = {Phys. Rev. Lett.},
+  volume = {90},
+  issue = {8},
+  pages = {087003},
+  numpages = {4},
+  year = {2003},
+  month = {Feb},
+  doi = {10.1103/PhysRevLett.90.087003},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.90.087003},
+  publisher = {American Physical Society}
+}
+
+@ARTICLE{2011arXiv1112.5858V,
+   author = {Veldhorst, M. and Molenaar, C.~G. and Wang, X.~L. and 
+	Hilgenkamp, H. and Brinkman, A.},
+    title = "{Experimental realization of SQUIDs with topological insulator junctions}",
+  journal = {eprint arXiv:1112.5858},
+archivePrefix = "arXiv",
+   eprint = {1112.5858},
+ primaryClass = "cond-mat.supr-con",
+ keywords = {Condensed Matter - Superconductivity, Condensed Matter - Strongly Correlated Electrons},
+     year = 2011,
+    month = dec,
+   adsurl = {http://adsabs.harvard.edu/abs/2011arXiv1112.5858V},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{Qu:2012kx,
+	Annote = {10.1038/srep00339},
+	Author = {Qu, Fanming and Yang, Fan and Shen, Jie and Ding, Yue and Chen, Jun and Ji, Zhongqing and Liu, Guangtong and Fan, Jie and Jing, Xiunian and Yang, Changli and Lu, Li},
+	Date = {2012/03/28/online},
+	Date-Added = {2012-06-08 11:24:06 -0400},
+	Date-Modified = {2012-06-08 11:24:06 -0400},
+	Day = {28},
+	Journal = {Sci. Rep.},
+	L3 = {http://www.nature.com/srep/2012/120328/srep00339/abs/srep00339.html#supplementary-information},
+	M3 = {10.1038/srep00339},
+	Month = {03},
+	Publisher = {Macmillan Publishers Limited. All rights reserved},
+	Title = {Strong Superconducting Proximity Effect in Pb-Bi2Te3 Hybrid Structures},
+	Ty = {JOUR},
+	Url = {http://dx.doi.org/10.1038/srep00339},
+	Volume = {2},
+	Year = {2012},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1038/srep00339}}
+
+
+@article{Veldhorst:2012uq,
+	Annote = {10.1038/nmat3255},
+	Author = {Veldhorst, M. and Snelder, M. and Hoek, M. and Gang, T. and Guduru, V. K. and Wang, X. L. and Zeitler, U. and van der Wiel, W. G. and Golubov, A. A. and Hilgenkamp, H. and Brinkman, A.},
+	Date = {2012/05//print},
+	Date-Added = {2012-06-08 11:21:02 -0400},
+	Date-Modified = {2012-06-08 11:21:02 -0400},
+	Isbn = {1476-1122},
+	Journal = {Nat Mater},
+	L3 = {http://www.nature.com/nmat/journal/v11/n5/abs/nmat3255.html#supplementary-information},
+	M3 = {10.1038/nmat3255},
+	Month = {05},
+	Number = {5},
+	Pages = {417--421},
+	Publisher = {Nature Publishing Group},
+	Title = {Josephson supercurrent through a topological insulator surface state},
+	Ty = {JOUR},
+	Url = {http://dx.doi.org/10.1038/nmat3255},
+	Volume = {11},
+	Year = {2012},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1038/nmat3255}}
+
+
+@article{heikkila_flat_2011,
+	title = {Flat bands in topological media},
+	volume = {94},
+	abstract = {Topological media are systems whose properties are protected by topology and thus are robust to deformations of the system. In topological insulators and superconductors the bulk-surface and bulk-vortex correspondence gives rise to the gapless Weyl, Dirac or Majorana fermions on the surface of the system and inside vortex cores. Here we show that in gapless topological media, the bulk-surface and bulk-vortex correspondence is more effective: it produces topologically protected gapless fermions without dispersion - the flat band. Fermion zero modes forming the flat band are localized on the surface of topological media with protected nodal lines {[Schnyder}, Ryu, {2010,Heikkila}, Volovik, 2010b] and in the vortex core in systems with topologically protected Fermi points {(Weyl} points) {[Volovik}, 2010]. Flat band has an extremely singular density of states, and we show that this property may give rise in particular to surface superconductivity which could exist even at room temperature.},
+	number = {3},
+	journal = {{JETP} Letters},
+	author = {Heikkil\"{a}, T. T. and Kopnin, N. B. and Volovik, G. E.},
+	month = aug,
+	year = {2011},
+	pages = {252}
+}
+
+@article{lindner_fractionalizing_2012,
+	title = {Fractionalizing Majorana fermions: non-abelian statistics on the edges of abelian quantum Hall states},
+	shorttitle = {Fractionalizing Majorana fermions},
+	url = {http://arxiv.org/abs/1204.5733},
+	abstract = {We study the non-abelian statistics characterizing systems where counter-propagating gapless modes on the edges of fractional quantum Hall states are gapped by proximity-coupling to superconductors and ferromagnets. The most transparent example is that of a fractional quantum spin Hall state, in which electrons of one spin direction occupy a fractional quantum Hall state of \${\textbackslash}nu= 1/m\$, while electrons of the opposite spin occupy a similar state with \${\textbackslash}nu = -1/m\$. However, we also propose other examples of such systems, which are easier to realize experimentally. We find that each interface between a region on the edge coupled to a superconductor and a region coupled to a ferromagnet corresponds to a non-abelian anyon of quantum dimension \${\textbackslash}sqrt{2m}\$. We calculate the unitary transformations that are associated with braiding of these anyons, and show that they are able to realize a richer set of non-abelian representations of the braid group than the set realized by non-abelian anyons based on Majorana fermions. We carry out this calculation both explicitly and by applying general considerations. Finally, we show that topological manipulations with these anyons cannot realize universal quantum computation.},
+	journal = {{arXiv:1204.5733}},
+	author = {Lindner, Netanel H and Berg, Erez and Refael, Gil and Stern, Ady},
+	month = apr,
+	year = {2012},
+	keywords = {Condensed Matter - Mesoscale and Nanoscale Physics, Condensed Matter - Strongly Correlated Electrons, Condensed Matter - Superconductivity},
+	file = {1204.5733 PDF:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\HXP579R9\Lindner et al. - 2012 - Fractionalizing Majorana fermions non-abelian sta.pdf:application/pdf;arXiv.org Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\SCPWB6EQ\1204.html:text/html}
+}
+
+
+
+@article{moore_extraordinary_2012,
+	title = {An Extraordinary Josephson Junction},
+	volume = {5},
+	pages = {84},
+	doi = {10.1103/Physics.5.84},
+	journal = {Physics},
+	author = {Moore, Joel},
+	year = {2012},
+	file = {Physics - An Extraordinary Josephson Junction:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\IA4BVGD9\84.html:text/html}
+},
+
+@article{williams_unconventional_2012,
+	title = {Unconventional Josephson Effect in Hybrid Superconductor-Topological Insulator Devices},
+	volume = {109},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.109.056803},
+	doi = {10.1103/PhysRevLett.109.056803},
+	abstract = {We report on transport properties of Josephson junctions in hybrid superconducting-topological insulator devices, which show two striking departures from the common Josephson junction behavior: a characteristic energy that scales inversely with the width of the junction, and a low characteristic magnetic field for suppressing supercurrent. To explain these effects, we propose a phenomenological model which expands on the existing theory for topological insulator Josephson junctions.},
+	number = {5},
+	journal = {Physical Review Letters},
+	author = {Williams, J. R. and Bestwick, A. J. and Gallagher, P. and Hong, Seung Sae and Cui, Y. and Bleich, Andrew S. and Analytis, J. G. and Fisher, I. R. and Goldhaber-Gordon, D.},
+	month = jul,
+	year = {2012},
+	pages = {056803},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\7VWDW2XK\e056803.html:text/html}
+}
+
+@note{footnote1,
+	note={The exact choice of boundary conditions will not affect the local physics at the junction, if $L$ is sufficiently large. The open boundary condition may be realized, as an example, by having strong ferromagnets at $x=0,L$. They will introduce chiral edge modes spatially well separated from the center of the junction and will not affect the local spectrum there.}
+}
+
+@note{footnote2,
+note={
+See Supplementary Materials for the evolution of the spectrum of the whole system for increasing $\mu_{TI}$. $\mu_S =100$meV, $\Delta=6$meV, $L=500$nm, $W=50$nm.
+}
+}
+
+@note{LO,
+note={The realization of Larkin-Ovchinnikov superconductor usually
+requires a Zeeman field. Our proposal needs LO states without magnetic field,
+such as those described in arXiv:1209.2235 by Cho et al.
+}
+}
+
+
+@article{peng_aharonov-bohm_2010,
+	title = {Aharonov-Bohm interference in topological insulator nanoribbons},
+	volume = {9},
+	copyright = { 2010 Nature Publishing Group},
+	issn = {1476-1122},
+	url = {http://www.nature.com/nmat/journal/v9/n3/full/nmat2609.html},
+	doi = {10.1038/nmat2609},
+	abstract = {Topological insulators represent unusual phases of quantum matter with an insulating bulk gap and gapless edges or surface states. The two-dimensional topological insulator phase was predicted in {HgTe} quantum wells and confirmed by transport measurements. Recently, {Bi2Se3} and related materials have been proposed as three-dimensional topological insulators with a single Dirac cone on the surface, protected by time-reversal symmetry. The topological surface states have been observed by angle-resolved photoemission spectroscopy experiments. However, few transport measurements in this context have been reported, presumably owing to the predominance of bulk carriers from crystal defects or thermal excitations. Here we show unambiguous transport evidence of topological surface states through periodic quantum interference effects in layered single-crystalline {Bi2Se3} nanoribbons, which have larger surface-to-volume ratios than bulk materials and can therefore manifest surface effects. Pronounced {Aharonov–Bohm} oscillations in the magnetoresistance clearly demonstrate the coherent propagation of two-dimensional electrons around the perimeter of the nanoribbon surface, as expected from the topological nature of the surface states. The dominance of the primary h/e oscillation, where h is Planck’s constant and e is the electron charge, and its temperature dependence demonstrate the robustness of these states. Our results suggest that topological insulator nanoribbons afford promising materials for future spintronic devices at room temperature.},
+	language = {en},
+	number = {3},
+	urldate = {2013-05-20},
+	journal = {Nature Materials},
+	author = {Peng, Hailin and Lai, Keji and Kong, Desheng and Meister, Stefan and Chen, Yulin and Qi, Xiao-Liang and Zhang, Shou-Cheng and Shen, Zhi-Xun and Cui, Yi},
+	month = mar,
+	year = {2010},
+	keywords = {Electronic materials, Semiconductors},
+	pages = {225--229},
+	file = {Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\TDK3PVVP\nmat2609.html:text/html}
+},
+
+@article{moore_extraordinary_2012,
+	title = {An Extraordinary Josephson Junction},
+	volume = {5},
+	doi = {10.1103/Physics.5.84},
+	journal = {Physics},
+	author = {Moore, Joel},
+	year = {2012},
+	file = {Physics - An Extraordinary Josephson Junction:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\IA4BVGD9\84.html:text/html}
+},
+
+@article{analytis_bulk_2010,
+	title = {Bulk Fermi surface coexistence with Dirac surface state in Bi\_\{2\}Se\_\{3\}: A comparison of photoemission and Shubnikov–de Haas measurements},
+	volume = {81},
+	shorttitle = {Bulk Fermi surface coexistence with Dirac surface state in Bi\_\{2\}Se\_\{3\}},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.81.205407},
+	doi = {10.1103/PhysRevB.81.205407},
+	abstract = {Shubnikov-de Haas ({SdH)} oscillations and angle-resolved photoemission spectroscopy ({ARPES)} are used to probe the Fermi surface of single crystals of {Bi2Se3.} We find that {SdH} and {ARPES} probes quantitatively agree on measurements of the effective mass and bulk band dispersion. In high carrier density samples, the two probes also agree in the exact position of the Fermi level {EF}, but for lower carrier density samples discrepancies emerge in the position of {EF.} In particular, {SdH} reveals a bulk three-dimensional Fermi surface for samples with carrier densities as low as 1017 cm−3. We suggest a simple mechanism to explain these differences and discuss consequences for existing and future transport studies of topological insulators.},
+	number = {20},
+	urldate = {2013-05-20},
+	journal = {Physical Review B},
+	author = {Analytis, James G. and Chu, Jiun-Haw and Chen, Yulin and Corredor, Felipe and {McDonald}, Ross D. and Shen, Z. X. and Fisher, Ian R.},
+	month = may,
+	year = {2010},
+	pages = {205407},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\9ZAF89FC\e205407.html:text/html}
+},
+
+@article{schnyder_classification_2008,
+	title = {Classification of topological insulators and superconductors in three spatial dimensions},
+	volume = {78},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.78.195125},
+	doi = {10.1103/PhysRevB.78.195125},
+	abstract = {We systematically study topological phases of insulators and superconductors (or superfluids) in three spatial dimensions. We find that there exist three-dimensional ({3D)} topologically nontrivial insulators or superconductors in five out of ten symmetry classes introduced in seminal work by Altland and Zirnbauer within the context of random matrix theory, more than a decade ago. One of these is the recently introduced Z2 topological insulator in the symplectic (or spin-orbit) symmetry class. We show that there exist precisely four more topological insulators. For these systems, all of which are time-reversal invariant in three dimensions, the space of insulating ground states satisfying certain discrete symmetry properties is partitioned into topological sectors that are separated by quantum phase transitions. Three of the above five topologically nontrivial phases can be realized as time-reversal invariant superconductors. In these the different topological sectors are characterized by an integer winding number defined in momentum space. When such {3D} topological insulators are terminated by a two-dimensional surface, they support a number (which may be an arbitrary nonvanishing even number for singlet pairing) of Dirac fermion (Majorana fermion when spin-rotation symmetry is completely broken) surface modes which remain gapless under arbitrary perturbations of the Hamiltonian that preserve the characteristic discrete symmetries, including disorder. In particular, these surface modes completely evade Anderson localization from random impurities. These topological phases can be thought of as three-dimensional analogs of well-known paired topological phases in two spatial dimensions such as the spinless chiral (px±ipy)-wave superconductor (or Moore-Read Pfaffian state). In the corresponding topologically nontrivial (analogous to “weak pairing”) and topologically trivial (analogous to “strong pairing”) {3D} phases, the wave functions exhibit markedly distinct behavior. When an electromagnetic U(1) gauge field and fluctuations of the gap functions are included in the dynamics, the superconducting phases with nonvanishing winding number possess nontrivial topological ground-state degeneracies.},
+	number = {19},
+	urldate = {2013-05-20},
+	journal = {Physical Review B},
+	author = {Schnyder, Andreas P. and Ryu, Shinsei and Furusaki, Akira and Ludwig, Andreas W. W.},
+	month = nov,
+	year = {2008},
+	pages = {195125},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\WFZZD3WQ\e195125.html:text/html}
+},
+
+@article{hasan_colloquium:_2010,
+	title = {Colloquium: Topological insulators},
+	volume = {82},
+	shorttitle = {Colloquium},
+	url = {http://link.aps.org/doi/10.1103/RevModPhys.82.3045},
+	doi = {10.1103/RevModPhys.82.3045},
+	abstract = {Topological insulators are electronic materials that have a bulk band gap like an ordinary insulator but have protected conducting states on their edge or surface. These states are possible due to the combination of spin-orbit interactions and time-reversal symmetry. The two-dimensional ({2D)} topological insulator is a quantum spin Hall insulator, which is a close cousin of the integer quantum Hall state. A three-dimensional ({3D)} topological insulator supports novel spin-polarized {2D} Dirac fermions on its surface. In this Colloquium the theoretical foundation for topological insulators and superconductors is reviewed and recent experiments are described in which the signatures of topological insulators have been observed. Transport experiments on {HgTe∕CdTe} quantum wells are described that demonstrate the existence of the edge states predicted for the quantum spin Hall insulator. Experiments on {Bi1−xSbx}, {Bi2Se3}, {Bi2Te3}, and {Sb2Te3} are then discussed that establish these materials as {3D} topological insulators and directly probe the topology of their surface states. Exotic states are described that can occur at the surface of a {3D} topological insulator due to an induced energy gap. A magnetic gap leads to a novel quantum Hall state that gives rise to a topological magnetoelectric effect. A superconducting energy gap leads to a state that supports Majorana fermions and may provide a new venue for realizing proposals for topological quantum computation. Prospects for observing these exotic states are also discussed, as well as other potential device applications of topological insulators.},
+	number = {4},
+	urldate = {2013-05-20},
+	journal = {Reviews of Modern Physics},
+	author = {Hasan, M. Z. and Kane, C. L.},
+	month = nov,
+	year = {2010},
+	pages = {3045--3067},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\X25H4U6S\p3045_1.html:text/html}
+},
+
+@article{seradjeh_exciton_2009,
+	title = {Exciton Condensation and Charge Fractionalization in a Topological Insulator Film},
+	volume = {103},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.103.066402},
+	doi = {10.1103/PhysRevLett.103.066402},
+	abstract = {An odd number of gapless Dirac fermions is guaranteed to exist at a surface of a strong topological insulator. We show that in a thin-film geometry and under external bias, electron-hole pairs that reside in these surface states can condense to form a novel exotic quantum state which we propose to call “topological exciton condensate” ({TEC).} This {TEC} is similar in general terms to the exciton condensate recently argued to exist in a biased graphene bilayer, but with different topological properties. It exhibits a host of unusual properties including a stable zero mode and a fractional charge ±e/2 carried by a singly quantized vortex in the {TEC} order parameter.},
+	number = {6},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Seradjeh, B. and Moore, J. E. and Franz, M.},
+	month = aug,
+	year = {2009},
+	pages = {066402},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\P36UH5II\e066402.html:text/html}
+},
+
+@article{zhang_experimental_2009,
+	title = {Experimental Demonstration of Topological Surface States Protected by Time-Reversal Symmetry},
+	volume = {103},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.103.266803},
+	doi = {10.1103/PhysRevLett.103.266803},
+	abstract = {We report direct imaging of standing waves of the nontrivial surface states of topological insulator {Bi2Te3} using a scanning tunneling microscope. The interference fringes are caused by the scattering of the topological states off Ag impurities and step edges on the {Bi2Te3(111)} surface. By studying the voltage-dependent standing wave patterns, we determine the energy dispersion E(k), which confirms the Dirac cone structure of the topological states. We further show that, very different from the conventional surface states, backscattering of the topological states by nonmagnetic impurities is completely suppressed. The absence of backscattering is a spectacular manifestation of the time-reversal symmetry, which offers a direct proof of the topological nature of the surface states.},
+	number = {26},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Zhang, Tong and Cheng, Peng and Chen, Xi and Jia, Jin-Feng and Ma, Xucun and He, Ke and Wang, Lili and Zhang, Haijun and Dai, Xi and Fang, Zhong and Xie, Xincheng and Xue, Qi-Kun},
+	month = dec,
+	year = {2009},
+	pages = {266803},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\T28DS27E\e266803.html:text/html}
+},
+
+@article{cheng_landau_2010,
+	title = {Landau Quantization of Topological Surface States in Bi\_\{2\}Se\_\{3\}},
+	volume = {105},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.105.076801},
+	doi = {10.1103/PhysRevLett.105.076801},
+	abstract = {We report the direct observation of Landau quantization in {Bi2Se3} thin films by using a low-temperature scanning tunneling microscope. In particular, we discovered the zeroth Landau level, which is predicted to give rise to the half-quantized Hall effect for the topological surface states. The existence of the discrete Landau levels ({LLs)} and the suppression of {LLs} by surface impurities strongly support the {2D} nature of the topological states. These observations may eventually lead to the realization of quantum Hall effect in topological insulators.},
+	number = {7},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Cheng, Peng and Song, Canli and Zhang, Tong and Zhang, Yanyi and Wang, Yilin and Jia, Jin-Feng and Wang, Jing and Wang, Yayu and Zhu, Bang-Fen and Chen, Xi and Ma, Xucun and He, Ke and Wang, Lili and Dai, Xi and Fang, Zhong and Xie, Xincheng and Qi, Xiao-Liang and Liu, Chao-Xing and Zhang, Shou-Cheng and Xue, Qi-Kun},
+	month = aug,
+	year = {2010},
+	pages = {076801},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\Q5BEEBPW\e076801.html:text/html}
+},
+
+@article{liu_magnetic_2009,
+	title = {Magnetic Impurities on the Surface of a Topological Insulator},
+	volume = {102},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.102.156603},
+	doi = {10.1103/PhysRevLett.102.156603},
+	abstract = {The surface states of a topological insulator are described by an emergent relativistic massless Dirac equation in 2+1 dimensions. In contrast with graphene, there is an odd number of Dirac points, and the electron spin is directly coupled to the momentum. We show that a magnetic impurity opens up a local gap and suppresses the local density of states. Furthermore, the Dirac electronic states mediate an {RKKY} interaction among the magnetic impurities which is always ferromagnetic, whenever the chemical potential lies near the Dirac point. Through this exchange mechanism, magnetic atoms uniformly deposited on the surface of a topological insulator could naturally form a ferromagnetically ordered film. These effects can be directly measured in {STM} experiments. We also study the case of quenched disorder through a renormalization group analysis.},
+	number = {15},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Liu, Qin and Liu, Chao-Xing and Xu, Cenke and Qi, Xiao-Liang and Zhang, Shou-Cheng},
+	month = apr,
+	year = {2009},
+	pages = {156603},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\TAITQKT5\e156603.html:text/html}
+},
+
+@article{lu_massive_2010,
+	title = {Massive Dirac fermions and spin physics in an ultrathin film of topological insulator},
+	volume = {81},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.81.115407},
+	doi = {10.1103/PhysRevB.81.115407},
+	abstract = {We study transport and optical properties of the surface states, which lie in the bulk energy gap of a thin-film topological insulator. When the film thickness is comparable with the surface-state decay length into the bulk, the tunneling between the top and bottom surfaces opens an energy gap and form two degenerate massive Dirac hyperbolas. Spin-dependent physics emerges in the surface bands, which are vastly different from the bulk behavior. These include the surface spin Hall effects, spin-dependent orbital magnetic moment, and spin-dependent optical transition selection rule, which allows optical spin injection. We show a topological quantum phase transition where the Chern number of the surface bands changes when varying the thickness of the thin film.},
+	number = {11},
+	urldate = {2013-05-20},
+	journal = {Physical Review B},
+	author = {Lu, Hai-Zhou and Shan, Wen-Yu and Yao, Wang and Niu, Qian and Shen, Shun-Qing},
+	month = mar,
+	year = {2010},
+	pages = {115407},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\N7HSN7JM\e115407.html:text/html}
+},
+
+@article{lababidi_microscopic_2011,
+	title = {Microscopic simulation of superconductor/topological insulator proximity structures},
+	volume = {83},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.83.184511},
+	doi = {10.1103/PhysRevB.83.184511},
+	abstract = {We present microscopic, self-consistent calculations of the superconducting order parameter and pairing correlations near the interface of an s-wave superconductor and a three-dimensional topological insulator with spin-orbit coupling. We discuss the suppression of the order parameter by the topological insulator and show that the equal-time pair correlation functions in the triplet channel, induced by spin-flip scattering at the interface, are of px±ipy symmetry. We verify that the spectrum at subgap energies is well described by the Fu-Kane model. The subgap modes are viewed as interface states with spectral weight penetrating well into the superconductor. We extract the phenomenological parameters of the Fu-Kane model from microscopic calculations, and find they are strongly renormalized from the bulk material parameters. This is consistent with previous results of Stanescu et al. for a lattice model using perturbation theory in the tunneling limit.},
+	number = {18},
+	urldate = {2012-10-14},
+	journal = {Physical Review B},
+	author = {Lababidi, Mahmoud and Zhao, Erhai},
+	month = may,
+	year = {2011},
+	pages = {184511},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\TBUK437B\e184511.html:text/html}
+},
+
+@article{zhao_mott_2010,
+	title = {Mott scattering at the interface between a metal and a topological insulator},
+	volume = {82},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.82.205331},
+	doi = {10.1103/PhysRevB.82.205331},
+	abstract = {We compute the spin-active scattering matrix and the local spectrum at the interface between a metal and a three-dimensional topological band insulator. We show that there exists a critical incident angle at which complete (100\%) spin-flip reflection occurs and the spin-rotation angle jumps by π. We discuss the origin of this phenomena, and systematically study the dependence of spin-flip and spin-conserving scattering amplitudes on the interface transparency and metal Fermi-surface parameters. The interface spectrum contains a well-defined Dirac cone in the tunneling limit and smoothly evolves into a continuum of metal-induced gap states for good contacts. We also investigate the complex band structure of {Bi2Se3.}},
+	number = {20},
+	urldate = {2012-10-14},
+	journal = {Physical Review B},
+	author = {Zhao, Erhai and Zhang, Chun and Lababidi, Mahmoud},
+	month = nov,
+	year = {2010},
+	pages = {205331},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\54WWFK77\e205331.html:text/html}
+},
+
+@article{lababidi_nearly_2012,
+	title = {Nearly flat Andreev bound states in superconductor-topological insulator hybrid structures},
+	volume = {86},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.86.161108},
+	doi = {10.1103/PhysRevB.86.161108},
+	abstract = {Exotic excitations arise at the interface between a three-dimensional topological insulator ({TI)} and superconductors. For example, Majorana fermions with a linear dispersion E∼k exist in a short π Josephson junction on the {TI} surface. We show that in these systems, the Andreev bound state spectrum becomes nearly flat at zero energy when the chemical potential is sufficiently away from the Dirac point. The flat dispersion is well approximated by {E∼kN}, where N scales with the chemical potential. A similar evolution from linear to flat dispersion also occurs for the subgap spectrum of a periodic superconducting proximity structure, such as a {TI} surface in contact with a stripe superconductor.},
+	number = {16},
+	urldate = {2012-10-19},
+	journal = {Physical Review B},
+	author = {Lababidi, Mahmoud and Zhao, Erhai},
+	month = oct,
+	year = {2012},
+	pages = {161108},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\43WF4CT9\e161108.html:text/html}
+},
+
+@article{hsieh_observation_2009,
+	title = {Observation of Time-Reversal-Protected Single-Dirac-Cone Topological-Insulator States in Bi\_\{2\}Te\_\{3\} and Sb\_\{2\}Te\_\{3\}},
+	volume = {103},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.103.146401},
+	doi = {10.1103/PhysRevLett.103.146401},
+	abstract = {We show that the strongly spin-orbit coupled materials {Bi2Te3} and {Sb2Te3} and their derivatives belong to the Z2 topological-insulator class. Using a combination of first-principles theoretical calculations and photoemission spectroscopy, we directly show that {Bi2Te3} is a large spin-orbit-induced indirect bulk band gap (δ∼150 {meV)} semiconductor whose surface is characterized by a single topological spin-Dirac cone. The electronic structure of self-doped {Sb2Te3} exhibits similar Z2 topological properties. We demonstrate that the dynamics of spin-Dirac fermions can be controlled through systematic Mn doping, making these materials classes potentially suitable for topological device applications.},
+	number = {14},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Hsieh, D. and Xia, Y. and Qian, D. and Wray, L. and Meier, F. and Dil, J. H. and Osterwalder, J. and Patthey, L. and Fedorov, A. V. and Lin, H. and Bansil, A. and Grauer, D. and Hor, Y. S. and Cava, R. J. and Hasan, M. Z.},
+	month = sep,
+	year = {2009},
+	pages = {146401},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\DRVTEGFW\e146401.html:text/html}
+},
+
+@article{thomas_robustness_2011,
+	title = {Robustness of single-qubit geometric gate against systematic error},
+	volume = {84},
+	url = {http://link.aps.org/doi/10.1103/PhysRevA.84.042335},
+	doi = {10.1103/PhysRevA.84.042335},
+	abstract = {Universal single-qubit gates are constructed from a basic Bloch rotation operator realized through nonadiabatic Abelian geometric phase. The driving Hamiltonian in a generic two-level model is parameterized using controllable physical variables. The fidelity of the basic geometric rotation operator is investigated in the presence of systematic error in control parameters, such as the driving pulse area and frequency detuning. Compared to a conventional dynamic rotation, the geometric rotation shows improved fidelity.},
+	number = {4},
+	urldate = {2012-10-14},
+	journal = {Physical Review A},
+	author = {Thomas, J. T. and Lababidi, Mahmoud and Tian, Mingzhen},
+	month = oct,
+	year = {2011},
+	pages = {042335},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\JEXBA7T2\e042335.html:text/html}
+},
+
+@article{burkov_spin_2010,
+	title = {Spin and Charge Transport on the Surface of a Topological Insulator},
+	volume = {105},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.105.066802},
+	doi = {10.1103/PhysRevLett.105.066802},
+	abstract = {We derive diffusion equations, which describe spin-charge coupled transport on the helical metal surface of a three-dimensional topological insulator. The main feature of these equations is a large magnitude of the spin-charge coupling, which leads to interesting and observable effects. In particular, we predict a new magnetoresistance effect, which manifests in a non-Ohmic correction to a voltage drop between a ferromagnetic spin-polarized electrode and a nonmagnetic electrode, placed on top of the helical metal. This correction is proportional to the cross product of the spin polarization of the ferromagnetic electrode and the charge current between the two electrodes. We also demonstrate tunability of this effect by applying a gate voltage, which makes it possible to operate the proposed device as a transistor.},
+	number = {6},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Burkov, A. A. and Hawthorn, D. G.},
+	month = aug,
+	year = {2010},
+	pages = {066802},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\FZGP2VJG\e066802.html:text/html}
+},
+
+@article{yazyev_spin_2010,
+	title = {Spin Polarization and Transport of Surface States in the Topological Insulators Bi\_\{2\}Se\_\{3\} and Bi\_\{2\}Te\_\{3\} from First Principles},
+	volume = {105},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.105.266806},
+	doi = {10.1103/PhysRevLett.105.266806},
+	abstract = {We investigate the band dispersion and the spin texture of topologically protected surface states in the bulk topological insulators {Bi2Se3} and {Bi2Te3} by first-principles methods. Strong spin-orbit entanglement in these materials reduces the spin polarization of the surface states to ∼50\% in both cases; this reduction is absent in simple models but of important implications to essentially any spintronic application. We propose a way of controlling the magnitude of spin polarization associated with a charge current in thin films of topological insulators by means of an external electric field. The proposed dual-gate device configuration provides new possibilities for electrical control of spin.},
+	number = {26},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Yazyev, Oleg V. and Moore, Joel E. and Louie, Steven G.},
+	month = dec,
+	year = {2010},
+	pages = {266806},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\7F4A4HJH\e266806.html:text/html}
+},
+
+@article{fu_superconducting_2008,
+	title = {Superconducting Proximity Effect and Majorana Fermions at the Surface of a Topological Insulator},
+	volume = {100},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.100.096407},
+	doi = {10.1103/PhysRevLett.100.096407},
+	abstract = {We study the proximity effect between an s-wave superconductor and the surface states of a strong topological insulator. The resulting two-dimensional state resembles a spinless px+ipy superconductor, but does not break time reversal symmetry. This state supports Majorana bound states at vortices. We show that linear junctions between superconductors mediated by the topological insulator form a nonchiral one-dimensional wire for Majorana fermions, and that circuits formed from these junctions provide a method for creating, manipulating, and fusing Majorana bound states.},
+	number = {9},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Fu, Liang and Kane, C. L.},
+	month = mar,
+	year = {2008},
+	pages = {096407},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\GAUD8KTS\e096407.html:text/html}
+},
+
+@article{qi_topological_2008,
+	title = {Topological field theory of time-reversal invariant insulators},
+	volume = {78},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.78.195424},
+	doi = {10.1103/PhysRevB.78.195424},
+	abstract = {We show that the fundamental time-reversal invariant ({TRI)} insulator exists in 4+1 dimensions, where the effective-field theory is described by the (4+1)-dimensional Chern-Simons theory and the topological properties of the electronic structure are classified by the second Chern number. These topological properties are the natural generalizations of the time reversal-breaking quantum Hall insulator in 2+1 dimensions. The {TRI} quantum spin Hall insulator in 2+1 dimensions and the topological insulator in 3+1 dimensions can be obtained as descendants from the fundamental {TRI} insulator in 4+1 dimensions through a dimensional reduction procedure. The effective topological field theory and the Z2 topological classification for the {TRI} insulators in 2+1 and 3+1 dimensions are naturally obtained from this procedure. All physically measurable topological response functions of the {TRI} insulators are completely described by the effective topological field theory. Our effective topological field theory predicts a number of measurable phenomena, the most striking of which is the topological magnetoelectric effect, where an electric field generates a topological contribution to the magnetization in the same direction, with a universal constant of proportionality quantized in odd multiples of the fine-structure constant α=e2∕ℏc. Finally, we present a general classification of all topological insulators in various dimensions and describe them in terms of a unified topological Chern-Simons field theory in phase space.},
+	number = {19},
+	urldate = {2013-05-20},
+	journal = {Physical Review B},
+	author = {Qi, Xiao-Liang and Hughes, Taylor L. and Zhang, Shou-Cheng},
+	month = nov,
+	year = {2008},
+	pages = {195424},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\SWFV785X\e195424.html:text/html}
+},
+
+@article{qi_topological_2011,
+	title = {Topological insulators and superconductors},
+	volume = {83},
+	url = {http://link.aps.org/doi/10.1103/RevModPhys.83.1057},
+	doi = {10.1103/RevModPhys.83.1057},
+	abstract = {Topological insulators are new states of quantum matter which cannot be adiabatically connected to conventional insulators and semiconductors. They are characterized by a full insulating gap in the bulk and gapless edge or surface states which are protected by time-reversal symmetry. These topological materials have been theoretically predicted and experimentally observed in a variety of systems, including {HgTe} quantum wells, {BiSb} alloys, and {Bi2Te3} and {Bi2Se3} crystals. Theoretical models, materials properties, and experimental results on two-dimensional and three-dimensional topological insulators are reviewed, and both the topological band theory and the topological field theory are discussed. Topological superconductors have a full pairing gap in the bulk and gapless surface states consisting of Majorana fermions. The theory of topological superconductors is reviewed, in close analogy to the theory of topological insulators.},
+	number = {4},
+	urldate = {2013-05-20},
+	journal = {Reviews of Modern Physics},
+	author = {Qi, Xiao-Liang and Zhang, Shou-Cheng},
+	month = oct,
+	year = {2011},
+	pages = {1057--1110},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\UBKI5R9G\p1057_1.html:text/html}
+},
+
+@article{fu_topological_2007,
+	title = {Topological Insulators in Three Dimensions},
+	volume = {98},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.98.106803},
+	doi = {10.1103/PhysRevLett.98.106803},
+	abstract = {We study three-dimensional generalizations of the quantum spin Hall ({QSH)} effect. Unlike two dimensions, where a single Z2 topological invariant governs the effect, in three dimensions there are 4 invariants distinguishing 16 phases with two general classes: weak ({WTI)} and strong ({STI)} topological insulators. The {WTI} are like layered {2D} {QSH} states, but are destroyed by disorder. The {STI} are robust and lead to novel “topological metal” surface states. We introduce a tight binding model which realizes the {WTI} and {STI} phases, and we discuss its relevance to real materials, including bismuth.},
+	number = {10},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Fu, Liang and Kane, C. L. and Mele, E. J.},
+	month = mar,
+	year = {2007},
+	pages = {106803},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\Z6EDTWVA\e106803.html:text/html}
+},
+
+@article{fu_topological_2007-1,
+	title = {Topological insulators with inversion symmetry},
+	volume = {76},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.76.045302},
+	doi = {10.1103/PhysRevB.76.045302},
+	abstract = {Topological insulators are materials with a bulk excitation gap generated by the spin-orbit interaction that are different from conventional insulators. This distinction is characterized by Z2 topological invariants, which characterize the ground state. In two dimensions, there is a single Z2 invariant that distinguishes the ordinary insulator from the quantum spin-Hall phase. In three dimensions, there are four Z2 invariants that distinguish the ordinary insulator from “weak” and “strong” topological insulators. These phases are characterized by the presence of gapless surface (or edge) states. In the two-dimensional quantum spin-Hall phase and the three-dimensional strong topological insulator, these states are robust and are insensitive to weak disorder and interactions. In this paper, we show that the presence of inversion symmetry greatly simplifies the problem of evaluating the Z2 invariants. We show that the invariants can be determined from the knowledge of the parity of the occupied Bloch wave functions at the time-reversal invariant points in the Brillouin zone. Using this approach, we predict a number of specific materials that are strong topological insulators, including the semiconducting alloy {Bi1−xSbx} as well as α-Sn and {HgTe} under uniaxial strain. This paper also includes an expanded discussion of our formulation of the topological insulators in both two and three dimensions, as well as implications for experiments.},
+	number = {4},
+	urldate = {2013-05-20},
+	journal = {Physical Review B},
+	author = {Fu, Liang and Kane, C. L.},
+	month = jul,
+	year = {2007},
+	pages = {045302},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\6WC5QIDV\e045302.html:text/html}
+},
+
+@article{moore_topological_2007,
+	title = {Topological invariants of time-reversal-invariant band structures},
+	volume = {75},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.75.121306},
+	doi = {10.1103/PhysRevB.75.121306},
+	abstract = {The topological invariants of a time-reversal-invariant band structure in two dimensions are multiple copies of the Z2 invariant found by Kane and Mele. Such invariants protect the “topological insulator” phase and give rise to a spin Hall effect carried by edge states. Each pair of bands related by time reversal is described by one Z2 invariant, up to one less than half the dimension of the Bloch Hamiltonians. In three dimensions, there are four such invariants per band pair. The Z2 invariants of a crystal determine the transitions between ordinary and topological insulators as its bands are occupied by electrons. We derive these invariants using maps from the Brillouin zone to the space of Bloch Hamiltonians and clarify the connections between Z2 invariants, the integer invariants that underlie the integer quantum Hall effect, and previous invariants of T-invariant Fermi systems.},
+	number = {12},
+	urldate = {2013-05-20},
+	journal = {Physical Review B},
+	author = {Moore, J. E. and Balents, L.},
+	month = mar,
+	year = {2007},
+	pages = {121306},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\S2QT8DUT\e121306.html:text/html}
+},
+
+@article{seo_transmission_2010,
+	title = {Transmission of topological surface states through surface barriers},
+	volume = {466},
+	copyright = { 2010 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+	issn = {0028-0836},
+	url = {http://www.nature.com/nature/journal/v466/n7304/full/nature09189.html},
+	doi = {10.1038/nature09189},
+	abstract = {Topological surface states are a class of novel electronic states that are of potential interest in quantum computing or spintronic applications. Unlike conventional two-dimensional electron states, these surface states are expected to be immune to localization and to overcome barriers caused by material imperfection. Previous experiments have demonstrated that topological surface states do not backscatter between equal and opposite momentum states, owing to their chiral spin texture. However, so far there is no evidence that these states in fact transmit through naturally occurring surface defects. Here we use a scanning tunnelling microscope to measure the transmission and reflection probabilities of topological surface states of antimony through naturally occurring crystalline steps separating atomic terraces. In contrast to non-topological surface states of common metals (copper, silver and gold), which are either reflected or absorbed by atomic steps, we show that topological surface states of antimony penetrate such barriers with high probability. This demonstration of the extended nature of antimony’s topological surface states suggests that such states may be useful for high current transmission even in the presence of atomic-scale irregularities—an electronic feature sought to efficiently interconnect nanoscale devices.},
+	language = {en},
+	number = {7304},
+	urldate = {2013-05-20},
+	journal = {Nature},
+	author = {Seo, Jungpil and Roushan, Pedram and Beidenkopf, Haim and Hor, Y. S. and Cava, R. J. and Yazdani, Ali},
+	month = jul,
+	year = {2010},
+	keywords = {Applied physics, Engineering},
+	pages = {343--346},
+	file = {Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\HPI5AI3M\nature09189.html:text/html}
+},
+
+@article{culcer_two-dimensional_2010,
+	title = {Two-dimensional surface charge transport in topological insulators},
+	volume = {82},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.82.155457},
+	doi = {10.1103/PhysRevB.82.155457},
+	abstract = {We construct a theory of charge transport by the surface states of topological insulators in three dimensions. The focus is on the experimentally relevant case when the Fermi energy {εF} and transport scattering time τ satisfy {εFτ/ℏ⪢1} but {εF} lies below the bottom of the conduction band. Our theory is based on the spin density matrix and takes the quantum Liouville equation as its starting point. The scattering term is determined to linear order in the impurity density ni and explicitly accounts for the absence of backscattering while screening is included in the random-phase approximation. The main contribution to the conductivity is ∝ni−1 and has different carrier density dependencies for different forms of scattering while an additional contribution is independent of ni. The dominant scattering angles can be inferred by studying the ratio of the transport time to the Bloch lifetime as a function of the Wigner-Seitz radius rs. The current generates a spin polarization that could provide a smoking-gun signature of surface state transport. We also discuss the effect on the surface states of adding metallic contacts.},
+	number = {15},
+	urldate = {2013-05-20},
+	journal = {Physical Review B},
+	author = {Culcer, Dimitrie and Hwang, E. H. and Stanescu, Tudor D. and Das Sarma, S.},
+	month = oct,
+	year = {2010},
+	pages = {155457},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\R8NTB9R8\e155457.html:text/html}
+},
+
+@article{williams_unconventional_2012,
+	title = {Unconventional Josephson Effect in Hybrid Superconductor-Topological Insulator Devices},
+	volume = {109},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.109.056803},
+	doi = {10.1103/PhysRevLett.109.056803},
+	abstract = {We report on transport properties of Josephson junctions in hybrid superconducting-topological insulator devices, which show two striking departures from the common Josephson junction behavior: a characteristic energy that scales inversely with the width of the junction, and a low characteristic magnetic field for suppressing supercurrent. To explain these effects, we propose a phenomenological model which expands on the existing theory for topological insulator Josephson junctions.},
+	number = {5},
+	urldate = {2012-08-09},
+	journal = {Physical Review Letters},
+	author = {Williams, J. R. and Bestwick, A. J. and Gallagher, P. and Hong, Seung Sae and Cui, Y. and Bleich, Andrew S. and Analytis, J. G. and Fisher, I. R. and Goldhaber-Gordon, D.},
+	month = jul,
+	year = {2012},
+	pages = {056803},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\7VWDW2XK\e056803.html:text/html}
+},
+
+@article{linder_unconventional_2010,
+	title = {Unconventional Superconductivity on a Topological Insulator},
+	volume = {104},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.104.067001},
+	doi = {10.1103/PhysRevLett.104.067001},
+	abstract = {We study proximity-induced superconductivity on the surface of a topological insulator ({TI)}, focusing on unconventional pairing. We find that the excitation spectrum becomes gapless for any spin-triplet pairing, such that both subgap bound states and Andreev reflection is strongly suppressed. For spin-singlet pairing, the zero-energy surface state in the dxy-wave case becomes a Majorana fermion, in contrast with the situation realized in the topologically trivial high-Tc cuprates. We also study the influence of a Zeeman field on the surface states. Both the magnitude and direction of this field are shown to strongly influence the transport properties, in contrast with the case without {TI.} We predict an experimental signature of the Majorana states via conductance spectroscopy.},
+	number = {6},
+	urldate = {2013-05-20},
+	journal = {Physical Review Letters},
+	author = {Linder, Jacob and Tanaka, Yukio and Yokoyama, Takehito and Sudbø, Asle and Nagaosa, Naoto},
+	month = feb,
+	year = {2010},
+	pages = {067001},
+	file = {APS Snapshot:C:\Users\mlababid\AppData\Roaming\Zotero\Zotero\Profiles\up4nsf84.default\zotero\storage\IM6XJPFC\e067001.html:text/html}
+},
+
+@misc{center_for_history_and_new_media_zotero_????,
+	title = {Zotero Quick Start Guide},
+	url = {http://zotero.org/support/quick_start_guide},
+	author = {{Center for History and New Media}},
+	howpublished = {http://zotero.org/support/quick\_start\_guide}
+}

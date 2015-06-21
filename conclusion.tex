@@ -1,0 +1,43 @@
+\chapter{Summary and future plans}
+This work consists of three parts related to dislocation, construction of potentials and martensitic phase transformation. They are unified by the same atomistic methodology and emphasis on defects, in particularly dislocations, in material processes and the martensitic phase transformation.
+
+Dislocation diffusion is important because it can control or affect many material processes such as creep, mechanical alloying, sintering, coarsening, phase transformation, segregation, dynamic strain aging and many others. It is well known that almost all rate equations and growth kinetics involve diffusion coefficient as one of the model parameters. Its measurement is expensive, difficult and tedious. Direct measurements are more accurate than indirect measurements but they involve radioisotopes which are not readily available and are subjects of nuclear safety. Only few laboratories around the world are involved in such experiments nowadays.
+ 
+We performed atomistic simulation of dislocation diffusion over the wide range of temperatures in aluminum with the pure screw and the pure edge dislocations of $\frac{1}{2}$[110] type. Overall, self-diffusion in the screw dislocation was found to be much faster than in the edge dislocation. The activation energies of screw and edge dislocations were 0.68\,eV and 1.19\,eV respectively, which bracket the experimental value 0.85\,eV from the low temperature void shrinkage method \cite{Volin71}. The newly discovered intrinsic mechanism and the vacancy mechanisms were found to be dominant over the interstitial mechanism in the screw dislocation. In fact the interstitial diffusion in the screw dislocation is negligible. In the edge dislocation, the diffusion by the intrinsic mechanism was insignificant compared to the other two mechanisms at 925\,K and below. 
+
+The simulations revealed that the dislocation core can act as a sink and a source of Frenkel defects at high temperatures. Our results clearly indicate that the dislocation diffusion depends on the type of dislocations. \emph{With all these results we demonstrated that the dislocation diffusion in metals can be computed using computer simulations}. However, it should be noted that the interatomic potential used in the simulations must be accurate enough to avoid artifacts.
+
+An interesting topic of future research would be to compare these results with
+dislocation diffusion in a low stacking fault energy metal such as copper. If
+the existence of the intrinsic diffusivity is confirmed as a generic effect,
+it might motivate a revision of the current understanding of the role of point
+defects in atomic transport along dislocations. Furthermore, this would warrant
+a re-examination of the models of materials processes that rely on the assumption
+of vacancy-mediated diffusion, particularly models that invoke changes in dislocation
+diffusion as a result of vacancy over- or under-saturation in the material.
+
+We have successfully developed new EAM potentials for pure Co, NiAl, CoAl and CoNi systems. Together with the pure Ni and pure Al potentials, this constitutes a version of an EAM potential for the AlCoNi ternary system. Without this work it would have been impossible to demonstrate phase transformations in NiAl and AlCoNi alloys. The interaction of atoms is a key of any atomistic simulation. There are very few reliable interatomic potentials for metallic systems. Potentials for ternary systems are especially rare and require a lot of effort and time to develop.
+ 
+The present EAM potential for the Ni-Al system is a major improvement over the previous potentials  \cite{Mishin02c,Mishin2004a}. It accurately reproduces many properties of B2-NiAl and L1$_2$-Ni$_3$Al. It is highly transferable. However, it did not produce the martensitic phase transformation in the Ni-rich Ni$_x$Al$_{1-x}$ alloys for $x\,=\,0.62$\,--\,$0.69$\,at.\% under a thermal cycle without stresses. Therefore, the martensitic transformation was investigated in Ni50, Ni60, Ni63, Ni65, Ni67 and Ni69 Ni-rich alloys under uniaxial loading in $\langle 100\rangle$\  direction. The effects of free surfaces, anti-phase boundary and dislocation dipole on the martensitic transformation temperatures were studied in the Ni69 alloy. Only Ni63, Ni65, Ni67 and Ni69 Ni-rich alloys showed reversible martensitic transformation under uniaxial stresses.
+
+Another advantage of the new Ni-Al potential is that it includes well-established
+potentials for pure Al \cite{Mishin99b} and Ni \cite{Mishin2004a}. This makes
+the potential well suited for simulations of heterophase interfaces or mechanical
+behavior of two-phase alloys that include the terminal solutions based on either
+Ni or Al. For example, it can be used for studies of the $\gamma$/$\gamma\prime$
+system as a model of Ni-based superalloys. As another example, we are currently
+working on certain applications that involve B2-NiAl nano-particles embedded
+in Al matrix. The new potential should be suitable for simulations of mechanical
+behavior of such systems.
+
+We have developed an accurate EAM potential for HCP cobalt which reproduces lattice properties of not only HCP but FCC and BCC structures. The properties of FCC and BCC structures were not included in the potential fit except for their formation energies. The transformation, HCP\,$\leftrightarrow$\,FCC, was verified after the development of the potential through the change in Gibbs free energies of the structures. This potential may be used to construct other binary potentials involving cobalt.
+
+The present EAM potential of B2-CoAl accurately reproduces a number of properties such as lattice constant, formation energy, bulk modulus, and elastic moduli in good agreement with \emph{ab initio} data. The potential may be tested for the martensitic transformation since B2 type alloys of CoAl and NiAl have qualitatively similar phase diagrams and other properties. Simulation of the martensitic transformation has not been done for CoAl alloys to date. This potential, along with pure Co and Al potentials can constitute one ingredient of other ternary systems in the future.
+
+The EAM potential for CoNi system was constructed in order to complete the potential for the AlCoNi ternary system. It was tested against the lattice constant and the formation energy of an imaginary phase Al$_8$Co$_4$Ni$_4$ (Al$_2$CoNi.cF16) and the result was in good agreement with the \emph{ab initio} data (\url{http://alloy.phys.cmu.edu}). In the future it can be tested for the MPT which occurs in alloys with Ni compositions from 0\,at.\% to 35\,at.\% (see Fig.\ \ref{fig:coni-phase-diagram}).
+
+We have investigated the martensitic transformations in three different alloys Al$_{33}$Co$_{33}$Ni$_{34}$, Al$_{33}$Co$_{28}$Ni$_{39}$ and Al$_{28}$Co$_{36}$Ni$_{36}$ using computer simulations with the new EAM potential of \mbox{AlCoNi} system developed in this work. They were subjected to thermal cycles at zero stress as well as uniaxial stress cycles at constant temperatures. The martensites were heavily twinned under uniaxial compressions and small tensions with cooling. Single variant martensites were observed under uniaxial tensions. We found that at constant aluminum composition, the martensitic temperature, $M_s$ decreases with the increase in cobalt composition, the trend observed in experiments. 
+
+A systematic study of phase transformations in AlCoNi alloys using computer simulation has not been done to date. This ternary potential may be used for a further study of the martensitic transformations in other ranges of alloy compositions. It can be also used to compute mechanical properties such as strength and ductility as a function of alloy compositions, which limit applications of these ternary alloys.
+
+

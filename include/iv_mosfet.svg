@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="320"
+   viewBox="0 0 480 320"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="iv_mosfet.svg"
+   inkscape:export-filename="C:\Users\mla\Documents\My Dropbox\_Proposal\iv_mosfet.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata366">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="706"
+     id="namedview364"
+     showgrid="false"
+     inkscape:zoom="0.75625"
+     inkscape:cx="240"
+     inkscape:cy="87.481514"
+     inkscape:window-x="131"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Produced by GNUPLOT 4.4 patchlevel 3 </desc>
+  <defs
+     id="defs6">
+    <circle
+       id="gpDot"
+       r="0.5"
+       stroke-width="0.5" />
+    <path
+       id="gpPt0"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 h2 M0,-1 v2" />
+    <path
+       id="gpPt1"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,-1 L1,1 M1,-1 L-1,1" />
+    <path
+       id="gpPt2"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+    <rect
+       id="gpPt3"
+       stroke-width="0.222"
+       stroke="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <rect
+       id="gpPt4"
+       stroke-width="0.222"
+       stroke="currentColor"
+       fill="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <circle
+       id="gpPt5"
+       stroke-width="0.222"
+       stroke="currentColor"
+       cx="0"
+       cy="0"
+       r="1" />
+    <use
+       xlink:href="#gpPt5"
+       id="gpPt6"
+       fill="currentColor"
+       stroke="none" />
+    <path
+       id="gpPt7"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt8"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt9"
+       stroke="currentColor"
+       transform="rotate(180)" />
+    <use
+       xlink:href="#gpPt9"
+       id="gpPt10"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt11"
+       stroke="currentColor"
+       transform="rotate(45)" />
+    <use
+       xlink:href="#gpPt11"
+       id="gpPt12"
+       fill="currentColor"
+       stroke="none" />
+  </defs>
+  <g
+     style="fill:none; color:white; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g22" />
+  <g
+     style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g24" />
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g26"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,262.4 391.4,0"
+       id="path28"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g30"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,262.4 9,0 m 382.4,0 -9,0"
+       id="path32"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(55.3,266.9)"
+       style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+       id="g34">
+      <text
+         id="text36">
+        <tspan
+           id="tspan38">0</tspan>
+      </text>
+    </g>
+    <path
+       d="m 63.6,252.6 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.9 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0"
+       id="path40"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g42"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,213.3 391.4,0"
+       id="path44"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g46"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,213.3 9,0 m 382.4,0 -9,0"
+       id="path48"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(55.3,217.8)"
+       style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+       id="g50">
+      <text
+         id="text52">
+        <tspan
+           id="tspan54">10</tspan>
+      </text>
+    </g>
+    <path
+       d="m 63.6,203.4 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.9 4.5,0 m 386.9,0 -4.5,0"
+       id="path56"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g58"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,164.1 391.4,0"
+       id="path60"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g62"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,164.1 9,0 m 382.4,0 -9,0"
+       id="path64"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(55.3,168.6)"
+       style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+       id="g66">
+      <text
+         id="text68">
+        <tspan
+           id="tspan70">20</tspan>
+      </text>
+    </g>
+    <path
+       d="m 63.6,154.3 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.9 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0"
+       id="path72"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g74"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="M 63.6,115 455,115"
+       id="path76"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g78"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,115 9,0 m 382.4,0 -9,0"
+       id="path80"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(55.3,119.5)"
+       style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+       id="g82">
+      <text
+         id="text84">
+        <tspan
+           id="tspan86">30</tspan>
+      </text>
+    </g>
+    <path
+       d="m 63.6,105.2 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.9 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0"
+       id="path88"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g90"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,65.8 391.4,0"
+       id="path92"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g94"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,65.8 9,0 m 382.4,0 -9,0"
+       id="path96"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(55.3,70.3)"
+       style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+       id="g98">
+      <text
+         id="text100">
+        <tspan
+           id="tspan102">40</tspan>
+      </text>
+    </g>
+    <path
+       d="m 63.6,56 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.8 4.5,0 m 386.9,0 -4.5,0 m -386.9,-9.9 4.5,0 m 386.9,0 -4.5,0"
+       id="path104"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g106"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,16.7 391.4,0"
+       id="path108"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g110"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,16.7 9,0 m 382.4,0 -9,0"
+       id="path112"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(55.3,21.2)"
+       style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+       id="g114">
+      <text
+         id="text116">
+        <tspan
+           id="tspan118">50</tspan>
+      </text>
+    </g>
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g120"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,262.4 0,-245.7"
+       id="path122"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g124"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,262.4 0,-9 m 0,-236.7 0,9"
+       id="path126"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(63.6,284.9)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g128">
+      <text
+         id="text130">
+        <tspan
+           id="tspan132">0</tspan>
+      </text>
+    </g>
+    <path
+       d="m 102.7,262.4 0,-4.5 m 0,-241.2 0,4.5"
+       id="path134"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g136"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 141.9,262.4 0,-245.7"
+       id="path138"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g140"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 141.9,262.4 0,-9 m 0,-236.7 0,9"
+       id="path142"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(141.9,284.9)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g144">
+      <text
+         id="text146">
+        <tspan
+           id="tspan148">2</tspan>
+      </text>
+    </g>
+    <path
+       d="m 181,262.4 0,-4.5 m 0,-241.2 0,4.5"
+       id="path150"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g152"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 220.2,262.4 0,-245.7"
+       id="path154"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g156"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 220.2,262.4 0,-9 m 0,-236.7 0,9"
+       id="path158"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(220.2,284.9)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g160">
+      <text
+         id="text162">
+        <tspan
+           id="tspan164">4</tspan>
+      </text>
+    </g>
+    <path
+       d="m 259.3,262.4 0,-4.5 m 0,-241.2 0,4.5"
+       id="path166"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g168"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 298.4,262.4 0,-245.7"
+       id="path170"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g172"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 298.4,262.4 0,-9 m 0,-236.7 0,9"
+       id="path174"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(298.4,284.9)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g176">
+      <text
+         id="text178">
+        <tspan
+           id="tspan180">6</tspan>
+      </text>
+    </g>
+    <path
+       d="m 337.6,262.4 0,-4.5 m 0,-241.2 0,4.5"
+       id="path182"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g184"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 376.7,262.4 0,-245.7"
+       id="path186"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g188"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 376.7,262.4 0,-9 m 0,-236.7 0,9"
+       id="path190"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(376.7,284.9)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g192">
+      <text
+         id="text194">
+        <tspan
+           id="tspan196">8</tspan>
+      </text>
+    </g>
+    <path
+       d="m 415.9,262.4 0,-4.5 m 0,-241.2 0,4.5"
+       id="path198"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g200"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="M 455,262.4 455,16.7"
+       id="path202"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g204"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 455,262.4 0,-9 m 0,-236.7 0,9"
+       id="path206"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(455,284.9)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g208">
+      <text
+         id="text210">
+        <tspan
+           id="tspan212">10</tspan>
+      </text>
+    </g>
+  </g>
+  <g
+     style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g214"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,262.4 0,-245.7"
+       id="path216"
+       inkscape:connector-curvature="0"
+       style="stroke:#000000" />
+  </g>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g218"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,16.7 0,245.7 391.4,0 0,-245.7 -391.4,0 z"
+       id="path220"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0,-1,1,0,17.6,139.6)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g222">
+      <text
+         id="text224">
+        <tspan
+           id="tspan226">Drain current [arbitary unit]</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(259.3,311.9)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g228">
+      <text
+         id="text230">
+        <tspan
+           id="tspan232">Drain to source voltage [V]</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(259.3,30.2)"
+       style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+       id="g234">
+      <text
+         id="text236" />
+    </g>
+  </g>
+  <a
+     xlink:title="Plot #1"
+     id="a238"
+     transform="matrix(1.8587928,0,0,1.8587928,-9.8605753,-23.493002)">
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g240">
+      <g
+         transform="translate(318,168.6)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+         id="g242">
+        <text
+           id="text244">
+          <tspan
+             id="tspan246">saturation region</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(141.9,70.3)"
+         style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Times"
+         id="g248">
+        <text
+           id="text250">
+          <tspan
+             id="tspan252">linear region</tspan>
+        </text>
+      </g>
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #2"
+     id="a254"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#008000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g256">
+      <g
+         transform="translate(447.2,254.6)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+         id="g258">
+        <text
+           id="text260">
+          <tspan
+             id="tspan262">1 V</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(447.2,239.9)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+         id="g264">
+        <text
+           id="text266">
+          <tspan
+             id="tspan268">2 V</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(447.2,215.3)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+         id="g270">
+        <text
+           id="text272">
+          <tspan
+             id="tspan274">3 V</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(447.2,181.4)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+         id="g276">
+        <text
+           id="text278">
+          <tspan
+             id="tspan280">4 V</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(447.2,136.7)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+         id="g282">
+        <text
+           id="text284">
+          <tspan
+             id="tspan286">5 V</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(447.2,82.6)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+         id="g288">
+        <text
+           id="text290">
+          <tspan
+             id="tspan292">6 V</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(447.2,35.9)"
+         style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Times"
+         id="g294">
+        <text
+           id="text296">
+          <tspan
+             id="tspan298">V</tspan>
+          <tspan
+             font-size="9.6pt"
+             dy="4.5"
+             id="tspan300"
+             style="font-size:12px">GS</tspan>
+          <tspan
+             font-size="12.0pt"
+             dy="-4.5"
+             id="tspan302"
+             style="font-size:15px">-V</tspan>
+          <tspan
+             font-size="9.6pt"
+             dy="4.5"
+             id="tspan304"
+             style="font-size:12px">TH</tspan>
+          <tspan
+             font-size="12.0pt"
+             dy="-4.5"
+             id="tspan306"
+             style="font-size:15px">=7 V</tspan>
+        </text>
+      </g>
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #3"
+     id="a308"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ffffff;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g310" />
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g312">
+      <path
+         d="m 63.6,262.4 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.4,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,0 1.3,-0.1 1.3,-0.1 1.3,0 1.3,-0.1 1.3,0 0.7,0 0.6,0 0.7,0 0.6,0 0.7,0 0.6,0 0.7,0 0.6,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0"
+         id="path314"
+         inkscape:connector-curvature="0"
+         style="stroke:#0000ff" />
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #4"
+     id="a316"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g318">
+      <path
+         d="m 63.6,262.4 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.5 1.4,-0.5 1.3,-0.6 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.3 1.3,-0.4 1.3,-0.4 1.3,-0.3 1.3,-0.3 1.3,-0.4 1.3,-0.3 1.4,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.4,-0.1 1.3,0 1.3,-0.1 1.3,0 1.3,0 1.3,-0.1 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0"
+         id="path320"
+         inkscape:connector-curvature="0"
+         style="stroke:#0000ff" />
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #5"
+     id="a322"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g324">
+      <path
+         d="m 63.6,262.4 1.3,-1 1.3,-0.9 1.3,-1 1.3,-0.9 1.3,-1 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.4,-0.9 1.3,-0.8 1.3,-0.9 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.7 1.3,-0.8 1.3,-0.7 1.3,-0.7 1.3,-0.8 1.3,-0.7 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.4,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.5 1.3,-0.6 1.3,-0.5 1.3,-0.5 1.3,-0.6 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.4 1.3,-0.5 1.4,-0.3 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.3 1.3,-0.4 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.4,-0.2 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,0 1.3,-0.1 1.3,0 1.3,-0.1 1.3,0 0.7,0 0.6,0 0.7,0 0.6,0 0.7,0 0.6,0 0.7,0 0.6,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0"
+         id="path326"
+         inkscape:connector-curvature="0"
+         style="stroke:#0000ff" />
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #6"
+     id="a328"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g330">
+      <path
+         d="m 63.6,262.4 1.3,-1.3 1.3,-1.3 1.3,-1.3 1.3,-1.3 1.3,-1.2 1.3,-1.3 1.3,-1.2 1.3,-1.2 1.3,-1.3 1.3,-1.2 1.4,-1.2 1.3,-1.1 1.3,-1.2 1.3,-1.2 1.3,-1.1 1.3,-1.2 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1 1.3,-1 1.3,-1.1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-0.9 1.4,-1 1.3,-0.9 1.3,-1 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.8 1.3,-0.9 1.3,-0.9 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.7 1.3,-0.8 1.3,-0.7 1.4,-0.7 1.3,-0.8 1.3,-0.7 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.5 1.3,-0.6 1.3,-0.5 1.3,-0.5 1.3,-0.6 1.3,-0.5 1.4,-0.5 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.3 1.3,-0.4 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.4,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,0 1.3,-0.1 1.3,0 1.3,-0.1 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0"
+         id="path332"
+         inkscape:connector-curvature="0"
+         style="stroke:#0000ff" />
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #7"
+     id="a334"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g336">
+      <path
+         d="m 63.6,262.4 1.3,-1.6 1.3,-1.7 1.3,-1.6 1.3,-1.6 1.3,-1.6 1.3,-1.5 1.3,-1.6 1.3,-1.6 1.3,-1.5 1.3,-1.5 1.4,-1.6 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.3,-1.4 1.3,-1.5 1.3,-1.5 1.3,-1.4 1.3,-1.5 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.3 1.3,-1.4 1.3,-1.3 1.3,-1.4 1.3,-1.3 1.3,-1.3 1.3,-1.3 1.3,-1.3 1.4,-1.3 1.3,-1.3 1.3,-1.2 1.3,-1.3 1.3,-1.2 1.3,-1.3 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.1 1.3,-1.2 1.3,-1.2 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.2 1.3,-1.1 1.3,-1 1.3,-1.1 1.3,-1.1 1.4,-1 1.3,-1.1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-0.9 1.3,-1 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.8 1.3,-0.9 1.3,-0.8 1.4,-0.8 1.3,-0.9 1.3,-0.8 1.3,-0.7 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.7 1.3,-0.7 1.3,-0.8 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.4,-0.6 1.3,-0.6 1.3,-0.5 1.3,-0.6 1.3,-0.5 1.3,-0.6 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.3 1.3,-0.4 1.4,-0.4 1.3,-0.3 1.3,-0.3 1.3,-0.4 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.4,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,0 1.3,-0.1 1.3,0 1.3,0 0.6,0 0.7,0 0.6,0 0.7,-0.1 0.7,0 0.6,0 0.7,0 0.6,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0"
+         id="path338"
+         inkscape:connector-curvature="0"
+         style="stroke:#0000ff" />
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #8"
+     id="a340"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g342">
+      <path
+         d="m 63.6,262.4 1.3,-2 1.3,-1.9 1.3,-1.9 1.3,-2 1.3,-1.9 1.3,-1.9 1.3,-1.9 1.3,-1.9 1.3,-1.8 1.3,-1.9 1.4,-1.9 1.3,-1.8 1.3,-1.8 1.3,-1.8 1.3,-1.9 1.3,-1.8 1.3,-1.7 1.3,-1.8 1.3,-1.8 1.3,-1.7 1.3,-1.8 1.3,-1.7 1.3,-1.7 1.3,-1.7 1.3,-1.7 1.3,-1.7 1.3,-1.7 1.3,-1.7 1.3,-1.6 1.3,-1.7 1.3,-1.6 1.3,-1.6 1.4,-1.6 1.3,-1.6 1.3,-1.6 1.3,-1.6 1.3,-1.6 1.3,-1.5 1.3,-1.6 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.3,-1.4 1.3,-1.5 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.4,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.3 1.3,-1.3 1.3,-1.4 1.3,-1.3 1.3,-1.3 1.3,-1.3 1.3,-1.3 1.3,-1.2 1.3,-1.3 1.3,-1.2 1.3,-1.3 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.4,-1.1 1.3,-1.1 1.3,-1.2 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1 1.3,-1.1 1.3,-1 1.3,-1.1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-1 1.3,-0.9 1.3,-1 1.3,-0.9 1.3,-1 1.3,-0.9 1.4,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.8 1.3,-0.9 1.3,-0.8 1.3,-0.9 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.7 1.3,-0.8 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.4,-0.7 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.6 1.3,-0.5 1.3,-0.6 1.3,-0.6 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.6 1.3,-0.4 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.4 1.4,-0.5 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.3 1.3,-0.4 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.4,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,0 1.3,-0.1 1.3,-0.1 1.3,0 1.3,-0.1 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0"
+         id="path344"
+         inkscape:connector-curvature="0"
+         style="stroke:#0000ff" />
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #9"
+     id="a346"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g348">
+      <path
+         d="m 63.6,262.4 1.3,-2.3 1.3,-2.3 1.3,-2.2 1.3,-2.3 1.3,-2.2 1.3,-2.3 1.3,-2.2 1.3,-2.2 1.3,-2.2 1.3,-2.2 1.4,-2.2 1.3,-2.1 1.3,-2.2 1.3,-2.1 1.3,-2.2 1.3,-2.1 1.3,-2.1 1.3,-2.1 1.3,-2.1 1.3,-2.1 1.3,-2 1.3,-2.1 1.3,-2.1 1.3,-2 1.3,-2 1.3,-2 1.3,-2 1.3,-2 1.3,-2 1.3,-2 1.3,-1.9 1.3,-2 1.4,-1.9 1.3,-2 1.3,-1.9 1.3,-1.9 1.3,-1.9 1.3,-1.9 1.3,-1.8 1.3,-1.9 1.3,-1.8 1.3,-1.9 1.3,-1.8 1.3,-1.8 1.3,-1.8 1.3,-1.8 1.3,-1.8 1.3,-1.8 1.3,-1.8 1.3,-1.7 1.3,-1.8 1.3,-1.7 1.3,-1.7 1.4,-1.7 1.3,-1.7 1.3,-1.7 1.3,-1.7 1.3,-1.6 1.3,-1.7 1.3,-1.6 1.3,-1.7 1.3,-1.6 1.3,-1.6 1.3,-1.6 1.3,-1.6 1.3,-1.6 1.3,-1.5 1.3,-1.6 1.3,-1.5 1.3,-1.6 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.3,-1.5 1.4,-1.5 1.3,-1.4 1.3,-1.5 1.3,-1.5 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.4 1.3,-1.3 1.3,-1.4 1.3,-1.3 1.3,-1.3 1.3,-1.4 1.3,-1.3 1.3,-1.3 1.3,-1.2 1.3,-1.3 1.3,-1.3 1.3,-1.2 1.4,-1.3 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.2 1.3,-1.1 1.3,-1.2 1.3,-1.1 1.3,-1.2 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1.1 1.3,-1 1.3,-1.1 1.3,-1.1 1.3,-1 1.3,-1 1.3,-1.1 1.4,-1 1.3,-1 1.3,-1 1.3,-0.9 1.3,-1 1.3,-1 1.3,-0.9 1.3,-0.9 1.3,-1 1.3,-0.9 1.3,-0.9 1.3,-0.9 1.3,-0.8 1.3,-0.9 1.3,-0.9 1.3,-0.8 1.3,-0.8 1.3,-0.9 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.3,-0.8 1.4,-0.7 1.3,-0.8 1.3,-0.7 1.3,-0.8 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.7 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.6 1.3,-0.7 1.3,-0.6 1.3,-0.6 1.3,-0.5 1.3,-0.6 1.3,-0.6 1.3,-0.5 1.4,-0.6 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.5 1.3,-0.4 1.3,-0.5 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.4 1.3,-0.3 1.3,-0.4 1.3,-0.3 1.3,-0.4 1.3,-0.3 1.3,-0.3 1.4,-0.3 1.3,-0.3 1.3,-0.3 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.3 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.2 1.3,-0.1 1.3,-0.2 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.3,-0.1 1.4,-0.1 1.3,0 1.3,-0.1 1.3,0 1.3,-0.1 0.6,0 0.7,0 0.6,0 0.7,0 0.6,0 0.7,0 0.6,0 0.7,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.4,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0 1.3,0"
+         id="path350"
+         inkscape:connector-curvature="0"
+         style="stroke:#0000ff" />
+    </g>
+  </a>
+  <a
+     xlink:title="Plot #10"
+     id="a352"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <g
+       style="color:#ffffff;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g354" />
+    <g
+       style="color:#808080;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g356">
+      <path
+         d="m 63.6,262.4 9.8,-0.3 9.8,-0.9 9.8,-1.6 9.7,-2.1 9.8,-2.8 9.8,-3.4 9.8,-3.9 9.8,-4.7 9.8,-5.2 9.8,-5.8 9.7,-6.5 9.8,-7 9.8,-7.7 9.8,-8.3 9.8,-8.9 9.8,-9.5 9.7,-10.2 9.8,-10.7 9.8,-11.4 9.8,-12 9.8,-12.5 9.8,-13.2 9.8,-13.9 9.7,-14.4 9.8,-15.1 9.8,-15.6 9.8,-16.3 9.8,-16.9 2.7,-4.9"
+         id="path358"
+         inkscape:connector-curvature="0"
+         style="stroke:#ff0000" />
+    </g>
+  </a>
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g360"
+     transform="matrix(1.8587928,0,0,1.8587928,-5.8936332,-8.9475473)">
+    <path
+       d="m 63.6,16.7 0,245.7 391.4,0 0,-245.7 -391.4,0 z"
+       id="path362"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
